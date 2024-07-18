@@ -1,5 +1,3 @@
-- 👋 Hi, I'm Ferdiansyah Mauludin
-- 👀 I am interested in Web Programming and UI/UX
-- 🌱 I'm learning Javascript and Next JS
-- 🌐 See now my portfolio at https://ferdiansyahm.vercel.app/
-- 📫 How do I contact me ferdiansyah123344@gmail.com
+<div align="center">
+  <h1>Hi there, i'm Ferdi 👋</h1>
+</div>
