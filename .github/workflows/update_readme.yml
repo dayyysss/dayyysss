@@ -16,7 +16,7 @@ jobs:
       - name: Install Dependencies
         run: npm install node-fetch
       - name: Run Script
-        run: node quote_generator.js
+        run: node quote_generator.mjs
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
