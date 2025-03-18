@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Thinking is the hardest work there is. That is why so few people engage in it." — Robert Kiyosaki
+  "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." — Robert Kiyosaki
 </em></p>
 
 ---
