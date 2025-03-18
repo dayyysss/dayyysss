@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." — Robert Kiyosaki
+  "We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet." — Thich Nhat Hanh
 </em></p>
 
 ---
