@@ -1,8 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."
-  <br>— Steve Maraboli
+  "Wrong turns are as important as right turns. More important, sometimes." — Richard Bach
 </em></p>
 
 ---
