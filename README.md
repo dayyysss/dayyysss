@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The person who never made a mistake never tried anything new." — Albert Einstein
+  "There is no self-discovery without pain and loss." — Anita Krizzan
 </em></p>
 
 ---
