@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our stories may be singular, but our destination is shared." — Barack Obama
+  "You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba
 </em></p>
 
 ---
