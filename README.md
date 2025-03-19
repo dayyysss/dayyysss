@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In order to be walked over, you have to be lying down." — Celestine Chua
+  "If you want to see things just as they are, then you yourself must practice just as you are." — Dogen
 </em></p>
 
 ---
