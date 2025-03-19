@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus
+  "In order to be walked over, you have to be lying down." — Celestine Chua
 </em></p>
 
 ---
