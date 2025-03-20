@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The salvation of the world lies in the human heart." — Vaclav Havel
+  "Among the things you can give and still keep are your word, a smile, and a grateful heart." — Zig Ziglar
 </em></p>
 
 ---
