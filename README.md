@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" — Brian Tracy
+  "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus
 </em></p>
 
 ---
