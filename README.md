@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are never too old to set another goal or to dream a new dream." — Les Brown
+  "The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett
 </em></p>
 
 ---
