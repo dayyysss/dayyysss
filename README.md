@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wishing to be friends is quick work, but friendship is a slow ripening fruit." — Aristotle
+  "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully." — Richard Bach
 </em></p>
 
 ---
