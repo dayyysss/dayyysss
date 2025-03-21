@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to." — Kahlil Gibran
+  "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." — Dr. Seuss
 </em></p>
 
 ---
