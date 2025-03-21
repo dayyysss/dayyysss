@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." — Dr. Seuss
+  "There are no accidents... there is only some purpose that we haven't yet understood." — Deepak Chopra
 </em></p>
 
 ---
