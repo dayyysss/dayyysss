@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The less you respond to negative people, the more positive your life will become." — Paulo Coelho
+  "Winners don't Quit. That's why they Win." — Unknown
 </em></p>
 
 ---
