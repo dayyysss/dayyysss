@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To travel is to be alive, but to get somewhere is to be dead." — Alan Watts
+  "Many people will walk in and out of your life, but only true friends will leave footprints in your heart." — Eleanor Roosevelt
 </em></p>
 
 ---
