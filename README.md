@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A crisis is an opportunity riding the dangerous wind." — Chinese Proverb
+  "It's better to stand by someone's side than by yourself." — Jack London
 </em></p>
 
 ---
