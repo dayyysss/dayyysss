@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Winners don't Quit. That's why they Win." — Unknown
+  "The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac
 </em></p>
 
 ---
