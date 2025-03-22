@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac
+  "A needle is not sharp at both ends. " — Chinese Proverb
 </em></p>
 
 ---
