@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Where you are right now doesn't have to determine where you'll end up." — Barack Obama
+  "To travel is to be alive, but to get somewhere is to be dead." — Alan Watts
 </em></p>
 
 ---
