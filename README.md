@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Awaken. Take heed, do not squander your life." — Dogen
+  "The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown
 </em></p>
 
 ---
