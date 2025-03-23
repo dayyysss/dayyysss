@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't cry because it's over. Smile because it happened." — Dr. Seuss
+  "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift
 </em></p>
 
 ---
