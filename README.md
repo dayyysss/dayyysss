@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Have the fearless attitude of a hero and the loving heart of a child." — Soyen Shaku
+  "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found." — Pema Chodron
 </em></p>
 
 ---
