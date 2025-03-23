@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All great truths begin as blasphemies." — George Bernard Shaw
+  "How people treat you is their karma; how you react is yours. " — Wayne Dyer
 </em></p>
 
 ---
