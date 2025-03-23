@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Simplicity is the glory of expression." — Walt Whitman
+  "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine." — G.I. Gurdjieff
 </em></p>
 
 ---
