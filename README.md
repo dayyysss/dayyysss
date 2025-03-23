@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift
+  "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head." — Stephen King
 </em></p>
 
 ---
