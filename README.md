@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't look back - you're not going that way." — Mary Engelbreit
+  "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." — Roy T. Bennett
 </em></p>
 
 ---
