@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward." — Roy T. Bennett
+  "The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace
 </em></p>
 
 ---
