@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are today where your thoughts have brought you." — James Allen
+  "Not until we are lost do we begin to understand ourselves." — Henry David Thoreau
 </em></p>
 
 ---
