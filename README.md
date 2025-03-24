@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Until you change how you get things done, you'll never know what works best." — Roy T. Bennett
+  "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — Celestine Chua
 </em></p>
 
 ---
