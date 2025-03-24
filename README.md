@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not until we are lost do we begin to understand ourselves." — Henry David Thoreau
+  "It matters not what someone is born, but what they grow to be." — Albus Dumbledore
 </em></p>
 
 ---
