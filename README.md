@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your heart is full of fertile seeds, waiting to sprout." — Morihei Ueshiba
+  "A good teacher opens the door for you, but you must enter the room by yourself." — Zen Proverb
 </em></p>
 
 ---
