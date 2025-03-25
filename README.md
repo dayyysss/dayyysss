@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When a man is penalized for honesty he learns to lie." — Criss Jami
+  "The important thing is not what one is born with but what use one makes of that equipment." — Alfred Adler
 </em></p>
 
 ---
