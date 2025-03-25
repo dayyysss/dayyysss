@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is useless to meet revenge with revenge; it will heal nothing." — J.R.R. Tolkien
+  "To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua
 </em></p>
 
 ---
