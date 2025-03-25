@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Begin now to be what you will be hereafter." — St. Jerome
+  "Do not use life to give life to death. Do not use death to bring death to life." — Zhuangzi
 </em></p>
 
 ---
