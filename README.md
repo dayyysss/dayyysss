@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua
+  "Would you rather learn to deal with the truth now than be forced to do so later on?" — Celestine Chua
 </em></p>
 
 ---
