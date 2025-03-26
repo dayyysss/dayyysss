@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius
+  "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction." — G.I. Gurdjieff
 </em></p>
 
 ---
