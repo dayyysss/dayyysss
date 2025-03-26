@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Stop acting so small. You are the universe in ecstatic motion." — Rumi
+  "We learn to walk by falling down. If we never fell down, we would never walk." — Robert Kiyosaki
 </em></p>
 
 ---
