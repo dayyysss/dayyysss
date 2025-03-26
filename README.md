@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "My definition of success is control." — Kenneth Branagh
+  "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." — Robert Kiyosaki
 </em></p>
 
 ---
