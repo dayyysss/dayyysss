@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We learn to walk by falling down. If we never fell down, we would never walk." — Robert Kiyosaki
+  "Either you choose to stay in the shallow end of the pool or you go out into the ocean." — Christopher Reeve
 </em></p>
 
 ---
