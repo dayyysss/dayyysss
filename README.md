@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In the midst of movement and chaos, keep stillness inside of you." — Deepak Chopra
+  "If you don't program yourself, life will program you." — Les Brown
 </em></p>
 
 ---
