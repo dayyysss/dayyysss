@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Try all things, hold fast that which is good." — John Locke
+  "Better to die fighting for freedom than be a prisoner all the days of your life." — Bob Marley
 </em></p>
 
 ---
