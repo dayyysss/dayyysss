@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Better to die fighting for freedom than be a prisoner all the days of your life." — Bob Marley
+  "It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace
 </em></p>
 
 ---
