@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If everyone is moving forward together, then success takes care of itself." — Henry Ford
+  "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus
 </em></p>
 
 ---
