@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho
+  "Becoming a great leader doesn't mean being perfect. it means living with your imperfections." — Lolly Daskal
 </em></p>
 
 ---
