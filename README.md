@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Information changes your mind. Action changes your circumstances." — Jack Butcher
+  "Just get out and do it. You will be very, very glad that you did." — Christopher McCandless
 </em></p>
 
 ---
