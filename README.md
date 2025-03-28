@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides
+  "It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho
 </em></p>
 
 ---
