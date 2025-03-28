@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sometimes things become possible if we want them bad enough." — T.S. Eliot
+  "Don't concern yourself with the money. Be of service. Build. Work. Dream. Create." — Earl Nightingale
 </em></p>
 
 ---
