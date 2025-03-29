@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus." — Alexander Graham Bell
+  "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. " — Henry Ford
 </em></p>
 
 ---
