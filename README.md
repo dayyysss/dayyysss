@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only thing worse than being blind is having sight but no vision." — Helen Keller
+  "When asked, how do you write? I invariably answer, one word at a time." — Stephen King
 </em></p>
 
 ---
