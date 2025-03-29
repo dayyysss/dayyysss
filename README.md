@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The cost of leadership is self-interest." — Simon Sinek
+  "Closing your eyes and listening to silence is self-care." — Maxime Lagace
 </em></p>
 
 ---
