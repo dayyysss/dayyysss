@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your very silence shows you agree." — Euripides
+  "Troubles are often the tools by which God fashions us for better things." — Henry Ward Beecher
 </em></p>
 
 ---
