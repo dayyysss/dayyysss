@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Always keep your eyes open. Keep watching. Because whatever you see can inspire you." — Grace Coddington
+  "If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton
 </em></p>
 
 ---
