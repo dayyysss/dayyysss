@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can only be afraid of what you think you know." — Jiddu Krishnamurti
+  "You are the average of the five people you spend most time with." — Jim Rohn
 </em></p>
 
 ---
