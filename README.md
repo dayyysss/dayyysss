@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Victims recite problems, leaders provide solutions." — Robin Sharma
+  "There are no uninteresting things, only uninterested people." — Gilbert Chesterton
 </em></p>
 
 ---
