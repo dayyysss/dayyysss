@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only reason to be alive is to enjoy it." — Rita Mae Brown
+  "Always keep your eyes open. Keep watching. Because whatever you see can inspire you." — Grace Coddington
 </em></p>
 
 ---
