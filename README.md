@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." — Harry S. Truman
+  "Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." — Norman Vincent Peale
 </em></p>
 
 ---
