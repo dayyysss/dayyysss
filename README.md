@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You make your own luck if you stay at it long enough." — Naval Ravikant
+  "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." — Nelson Mandela
 </em></p>
 
 ---
