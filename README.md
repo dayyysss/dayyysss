@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When the world pushes you to your knees, you're in the perfect position to pray." — Rumi
+  "It is only depth of character that determines the profundity with which we face life." — Ming-Dao Deng
 </em></p>
 
 ---
