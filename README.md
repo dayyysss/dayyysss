@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Successful people ask better questions, and as a result, they get better answers." — Tony Robbins
+  "Fears are nothing more than a state of mind." — Napoleon Hill
 </em></p>
 
 ---
