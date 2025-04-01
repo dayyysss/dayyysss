@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Some men see things as they are and ask why. Others dream things that never were and ask why not." — George Bernard Shaw
+  "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes." — A.A. Milne
 </em></p>
 
 ---
