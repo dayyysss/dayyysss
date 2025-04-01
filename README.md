@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do every act of your life as if it were your last." — Marcus Aurelius
+  "There is no truth. There is only perception." — Gustave Flaubert
 </em></p>
 
 ---
