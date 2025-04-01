@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you are far from the enemy, make him believe you are near." — Sun Tzu
+  "Friendship is like money, easier made than kept." — Samuel Butler
 </em></p>
 
 ---
