@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The joy of life comes from our encounters with new experiences." — Christopher McCandless
+  "Curiosity is the most powerful thing you own." — James Cameron
 </em></p>
 
 ---
