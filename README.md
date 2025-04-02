@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Any idea, plan, or purpose may be placed in the mind through repetition of thought." — Napoleon Hill
+  "Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence." — Sydney Smith
 </em></p>
 
 ---
