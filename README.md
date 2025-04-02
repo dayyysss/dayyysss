@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Curiosity is the most powerful thing you own." — James Cameron
+  "Where the willingness is great, the difficulties cannot be great." — Niccolo Machiavelli
 </em></p>
 
 ---
