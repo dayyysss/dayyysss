@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The one who boasts does so only out of a feeling of inferiority." — Alfred Adler
+  "You can only lose something that you have, but you cannot lose something that you are." — Eckhart Tolle
 </em></p>
 
 ---
