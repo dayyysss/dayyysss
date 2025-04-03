@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant
+  "Creativity is intelligence having fun." — Albert Einstein
 </em></p>
 
 ---
