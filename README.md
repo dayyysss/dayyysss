@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A life without a cause is a life without effect." — Paulo Coelho
+  "We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy
 </em></p>
 
 ---
