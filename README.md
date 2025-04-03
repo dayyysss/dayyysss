@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The right thing to do and the hard thing to do are usually the same." — Steve Maraboli
+  "When reading, only read. When eating, only eat. When thinking, only think." — Seungsahn
 </em></p>
 
 ---
