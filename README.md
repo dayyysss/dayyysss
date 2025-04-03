@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sometimes good things fall apart so better things can fall together." — Marilyn Monroe
+  "A life without a cause is a life without effect." — Paulo Coelho
 </em></p>
 
 ---
