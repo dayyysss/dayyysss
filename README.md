@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All human wisdom is contained in these two words - Wait and Hope" — Alexandre Dumas
+  "The right thing to do and the hard thing to do are usually the same." — Steve Maraboli
 </em></p>
 
 ---
