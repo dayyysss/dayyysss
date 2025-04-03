@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When your intuition is strong, follow it." — Lolly Daskal
+  "You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe
 </em></p>
 
 ---
