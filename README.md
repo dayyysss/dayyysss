@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it." — Gurbaksh Chahal
+  "Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future." — Deepak Chopra
 </em></p>
 
 ---
