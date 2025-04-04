@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Observe things as they are and don't pay attention to other people." — Huang Po
+  "If you are lucky enough to find love, remember it is there and don't throw it away." — Stephen Hawking
 </em></p>
 
 ---
