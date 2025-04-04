@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw
+  "All our knowledge has its origins in our perceptions." — Leonardo da Vinci
 </em></p>
 
 ---
