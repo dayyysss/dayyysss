@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for." — Bob Marley
+  "Observe things as they are and don't pay attention to other people." — Huang Po
 </em></p>
 
 ---
