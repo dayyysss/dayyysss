@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson
+  "The power of human thought grows exponentially with the number of minds that share that thought." — Dan Brown
 </em></p>
 
 ---
