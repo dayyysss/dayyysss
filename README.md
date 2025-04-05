@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you lose yourself in something bigger than yourself, the more energy you will have." — Norman Vincent Peale
+  "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett
 </em></p>
 
 ---
