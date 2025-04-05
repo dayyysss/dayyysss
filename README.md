@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Trust in dreams, for in them is the hidden gate to eternity.  " — Kahlil Gibran
+  "The more you lose yourself in something bigger than yourself, the more energy you will have." — Norman Vincent Peale
 </em></p>
 
 ---
