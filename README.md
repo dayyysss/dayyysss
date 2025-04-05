@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Winners don't Quit. That's why they Win." — Unknown
+  "Night is a more quiet time to work. It aids thought." — Alexander Graham Bell
 </em></p>
 
 ---
