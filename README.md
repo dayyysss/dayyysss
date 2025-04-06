@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowledge is learning something everyday. Wisdom is letting go of something everyday." — Unknown
+  "Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson
 </em></p>
 
 ---
