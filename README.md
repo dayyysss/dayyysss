@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Art, like morality, consists of drawing the line somewhere." — Gilbert Chesterton
+  "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." — William Faulkner
 </em></p>
 
 ---
