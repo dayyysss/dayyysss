@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy." — Roy T. Bennett
+  "Thoughts become things. If you see it in your mind, you will hold it in your hand." — Bob Proctor
 </em></p>
 
 ---
