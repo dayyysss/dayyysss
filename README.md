@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed." — William Faulkner
+  "Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy." — Roy T. Bennett
 </em></p>
 
 ---
