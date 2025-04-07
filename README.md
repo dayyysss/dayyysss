@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Keep your friends close, and your enemies closer." — Sun Tzu
+  "All know that the drop merges into the ocean, but few know that the ocean merges into the drop." — Kabir
 </em></p>
 
 ---
