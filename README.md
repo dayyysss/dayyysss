@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not until we are lost do we begin to understand ourselves." — Henry David Thoreau
+  "Life is a series of choices and all we can do is make them." — Kamal Ravikant
 </em></p>
 
 ---
