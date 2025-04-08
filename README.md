@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The soul is neither born, and nor does it die." — Bhagavad Gita
+  "Some of us learn from other people's mistakes and the rest of us have to be other people.  " — Zig Ziglar
 </em></p>
 
 ---
