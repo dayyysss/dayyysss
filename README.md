@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar
+  "Today will never happen again. Don't waste it with a false start or no start at all." — Og Mandino
 </em></p>
 
 ---
