@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It doesn't matter how much you want. What really matters is how much you want it." — Ralph Marston
+  "I admire those who do good and expect nothing in return." — Roy T. Bennett
 </em></p>
 
 ---
