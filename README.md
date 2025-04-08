@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I admire those who do good and expect nothing in return." — Roy T. Bennett
+  "Reversing your treatment of the man you have wronged is better than asking his forgiveness." — Elbert Hubbard
 </em></p>
 
 ---
