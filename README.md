@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything will be ok in the end. If it's not ok, it's not the end." — John Lennon
+  "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." — Charles Dickens
 </em></p>
 
 ---
