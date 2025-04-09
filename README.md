@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "At the center of your being you have the answer; you know who you are and you know what you want." — Lao Tzu
+  "In the end, it's not the years in your life that count. It's the life in your years." — Abraham Lincoln
 </em></p>
 
 ---
