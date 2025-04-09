@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." — Carl Bard
+  "At the center of your being you have the answer; you know who you are and you know what you want." — Lao Tzu
 </em></p>
 
 ---
