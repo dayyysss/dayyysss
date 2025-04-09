@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba
+  "May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — Dan Millman
 </em></p>
 
 ---
