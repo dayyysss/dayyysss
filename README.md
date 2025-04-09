@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard
+  "You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba
 </em></p>
 
 ---
