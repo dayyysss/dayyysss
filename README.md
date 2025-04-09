@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "May you find grace as you surrender to life. May you find happiness, as you stop seeking it." — Dan Millman
+  "What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists." — Spencer Johnson
 </em></p>
 
 ---
