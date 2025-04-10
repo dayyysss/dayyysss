@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't look back - you're not going that way." — Mary Engelbreit
+  "You are what you do, not what you say you'll do." — Carl Jung
 </em></p>
 
 ---
