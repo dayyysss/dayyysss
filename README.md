@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." — Peter A. Cohen
+  "The future will be shaped by those willing to commit their minds and their bodies to the task." — Robert F. Kennedy
 </em></p>
 
 ---
