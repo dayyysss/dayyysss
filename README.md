@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What the mind can conceive, it can achieve." — Napoleon Hill
+  "Absurdity is the ecstasy of intellectualism." — Criss Jami
 </em></p>
 
 ---
