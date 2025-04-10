@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The sun shines upon good and bad alike." — Hans Christian Andersen
+  "Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. " — Denis Waitley
 </em></p>
 
 ---
