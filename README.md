@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fools talk, cowards are silent, wise men listen." — Carlos Ruiz Zafon
+  "We think too much and feel too little." — Charlie Chaplin
 </em></p>
 
 ---
