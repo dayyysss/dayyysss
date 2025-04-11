@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The person who says something is impossible should not interrupt the person who is doing it." — Chinese Proverb
+  "Do what is right, not what is easy, nor what is popular." — Roy T. Bennett
 </em></p>
 
 ---
