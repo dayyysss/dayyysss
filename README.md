@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is the mark of an educated mind to be able to entertain a thought without accepting it." — Aristotle
+  "Art, like morality, consists of drawing the line somewhere." — Gilbert Chesterton
 </em></p>
 
 ---
