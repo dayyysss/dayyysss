@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." — Tony Robbins
+  "When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar
 </em></p>
 
 ---
