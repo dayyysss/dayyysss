@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Whoever is happy will make others happy too." — Anne Frank
+  "See what you're doing wrong, laugh at it, change and do better." — Spencer Johnson
 </em></p>
 
 ---
