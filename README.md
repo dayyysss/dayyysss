@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Any fool can turn a blind eye but who knows what the ostrich sees in the sand." — Samuel Beckett
+  "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — Charles Swindoll
 </em></p>
 
 ---
