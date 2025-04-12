@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your greatest asset is your earning ability. Your greatest resource is your time." — Brian Tracy
+  "When you change what you believe, you change what you do." — Spencer Johnson
 </em></p>
 
 ---
