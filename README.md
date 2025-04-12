@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most people dabble their way through life, never deciding to master anything in particular." — Tony Robbins
+  "Any fool can turn a blind eye but who knows what the ostrich sees in the sand." — Samuel Beckett
 </em></p>
 
 ---
