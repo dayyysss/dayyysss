@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowing yourself is the beginning of all wisdom." — Aristotle
+  "A gentleman accepts the responsibility of his actions and bears the burden of their consequences." — William Faulkner
 </em></p>
 
 ---
