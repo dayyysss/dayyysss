@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We think too much and feel too little." — Charlie Chaplin
+  "Love never keeps a man from pursuing his destiny." — Paulo Coelho
 </em></p>
 
 ---
