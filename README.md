@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is either a daring adventure, or nothing." — Helen Keller
+  "We think too much and feel too little." — Charlie Chaplin
 </em></p>
 
 ---
