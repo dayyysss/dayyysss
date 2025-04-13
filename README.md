@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You become stronger with every problem you face and every obstacle you overcome." — Celestine Chua
+  "The chief enemy of creativity is good sense." — Pablo Picasso
 </em></p>
 
 ---
