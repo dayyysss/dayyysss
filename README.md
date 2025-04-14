@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every saint has a past, and every sinner has a future." — Oscar Wilde
+  "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." — Nelson Mandela
 </em></p>
 
 ---
