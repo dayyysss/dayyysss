@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you care about someone enough, you'll always be there for them no matter what." — Roy T. Bennett
+  "To escape from the world means that one's mind is not concerned with the opinions of the world." — Dogen
 </em></p>
 
 ---
