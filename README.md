@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We meet ourselves time and again in a thousand disguises on the path of life." — Carl Jung
+  "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie
 </em></p>
 
 ---
