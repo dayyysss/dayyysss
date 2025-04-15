@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie
+  "In spite of everything, I shall rise again." — Vincent van Gogh
 </em></p>
 
 ---
