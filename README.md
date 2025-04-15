@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Act the way you want to be and soon you'll be the way you act." — Les Brown
+  "The more you lose yourself in something bigger than yourself, the more energy you will have." — Norman Vincent Peale
 </em></p>
 
 ---
