@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What we dwell on is who we become." — Oprah Winfrey
+  "Courage is resistance to fear, mastery of fear - not absence of fear." — Mark Twain
 </em></p>
 
 ---
