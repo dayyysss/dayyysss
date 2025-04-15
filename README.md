@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you change what you believe, you change what you do." — Spencer Johnson
+  "Experience is a comb which nature gives us when we are bald. " — Chinese Proverb
 </em></p>
 
 ---
