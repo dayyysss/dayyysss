@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It isn't what you do, but how you do it." — John Wooden
+  "Thinking will not overcome fear but action will. " — W. Clement Stone
 </em></p>
 
 ---
