@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you do not get the chills when you set your goal you're not setting big enough goals." — Bob Proctor
+  "Opportunity is missed by most people because it is dressed in overalls and looks like work." — Thomas Edison
 </em></p>
 
 ---
