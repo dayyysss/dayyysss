@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer
+  "To be angry is to revenge the faults of others on ourselves." — Alexander Pope
 </em></p>
 
 ---
