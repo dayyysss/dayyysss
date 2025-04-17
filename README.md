@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Showing off is the fool's idea of glory. " — Bruce Lee
+  "Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer
 </em></p>
 
 ---
