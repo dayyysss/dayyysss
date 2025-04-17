@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In order to be irreplaceable one must always be different." — Coco Chanel
+  "Showing off is the fool's idea of glory. " — Bruce Lee
 </em></p>
 
 ---
