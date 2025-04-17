@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. " — Buddha
+  "You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill
 </em></p>
 
 ---
