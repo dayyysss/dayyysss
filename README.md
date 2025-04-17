@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is easier to fight for one's principles than to live up to them. " — Alfred Adler
+  "In order to be irreplaceable one must always be different." — Coco Chanel
 </em></p>
 
 ---
