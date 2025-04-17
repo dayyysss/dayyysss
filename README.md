@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Live simply, expect little, give much." — Norman Vincent Peale
+  "Always turn a negative situation into a positive situation." — Michael Jordan
 </em></p>
 
 ---
