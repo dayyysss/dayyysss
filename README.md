@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All power is from within and therefore under our control." — Robert Collier
+  "Fools read fast. Geniuses reread." — Maxime Lagace
 </em></p>
 
 ---
