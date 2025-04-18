@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen
+  "It's the job that's never started that takes the longest to finish." — J.R.R. Tolkien
 </em></p>
 
 ---
