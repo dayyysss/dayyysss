@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The primary point of this existence is to live, and all living things move and grow." — Ming-Dao Deng
+  "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." — Abraham Lincoln
 </em></p>
 
 ---
