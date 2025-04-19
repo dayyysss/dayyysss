@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All religions, arts and sciences are branches of the same tree. " — Albert Einstein
+  "Everything will be ok in the end. If it's not ok, it's not the end." — John Lennon
 </em></p>
 
 ---
