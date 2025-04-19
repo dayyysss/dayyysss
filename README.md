@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you believe you can, you can. If you believe you can't, then, well you can't." — Celestine Chua
+  "Life is from the inside out. When you shift on the inside, life shifts on the outside." — Kamal Ravikant
 </em></p>
 
 ---
