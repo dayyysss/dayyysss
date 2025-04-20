@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your spirit is the true shield." — Morihei Ueshiba
+  "He who hesitates is a damned fool." — Mae West
 </em></p>
 
 ---
