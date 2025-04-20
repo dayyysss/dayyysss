@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No need to hurry. No need to sparkle. No need to be anybody but oneself." — Virginia Woolf
+  "The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett
 </em></p>
 
 ---
