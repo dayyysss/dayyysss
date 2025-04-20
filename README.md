@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you are content to be simply yourself and don't compare or compete, everybody will respect you. " — Lao Tzu
+  "Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda
 </em></p>
 
 ---
