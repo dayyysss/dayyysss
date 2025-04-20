@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda
+  "You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." — Alan Watts
 </em></p>
 
 ---
