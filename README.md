@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." — Alan Watts
+  "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." — Benjamin Franklin
 </em></p>
 
 ---
