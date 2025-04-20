@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Once a decision was made, I didn't worry about it afterward." — Harry S. Truman
+  "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." — Ming-Dao Deng
 </em></p>
 
 ---
