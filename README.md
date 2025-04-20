@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nature is pleased with simplicity. And nature is no dummy." — Isaac Newton
+  "Believe you can and you will be halfway there." — Lolly Daskal
 </em></p>
 
 ---
