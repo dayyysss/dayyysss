@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We are all different. Don't judge, understand instead." — Roy T. Bennett
+  "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave." — Elvis Presley
 </em></p>
 
 ---
