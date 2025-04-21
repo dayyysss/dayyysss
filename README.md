@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Judge your success by what you had to give up in order to get it." — Dalai Lama
+  "If you can't, you must. If you must, you can." — Tony Robbins
 </em></p>
 
 ---
