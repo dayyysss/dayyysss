@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Show me a hero, and I'll write you a tragedy." — F. Scott Fitzgerald
+  "How you think when you lose determines how long it will be until you win." — Gilbert Chesterton
 </em></p>
 
 ---
