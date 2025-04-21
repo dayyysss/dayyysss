@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene
+  "First say to yourself what you would be; and then do what you have to do." — Epictetus
 </em></p>
 
 ---
