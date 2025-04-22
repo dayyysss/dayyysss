@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Courage is the price that life exacts for granting peace." — Amelia Earhart
+  "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." — Sonia Ricotti
 </em></p>
 
 ---
