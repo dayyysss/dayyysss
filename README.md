@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We become brave by doing brave acts." — Aristotle
+  "Here and now...breathe and relax...in battle and in life." — Dan Millman
 </em></p>
 
 ---
