@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "As you think, you travel, and as you love, you attract." — James Allen
+  "An investment in knowledge pays the best interest." — Benjamin Franklin
 </em></p>
 
 ---
