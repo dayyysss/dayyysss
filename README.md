@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The sun shines upon good and bad alike." — Hans Christian Andersen
+  "If you do not push the boundaries, you will never know where they are." — T.S. Eliot
 </em></p>
 
 ---
