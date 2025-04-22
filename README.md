@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Perpetual optimism is a force multiplier." — Colin Powell
+  "Admire as much as you can. Most people do not admire enough." — Vincent van Gogh
 </em></p>
 
 ---
