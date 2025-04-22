@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The four P's to success are pressure, persistence, perseverance, and prayer." — Steve Harvey
+  "The fewer the words, the better the prayer." — Martin Luther
 </em></p>
 
 ---
