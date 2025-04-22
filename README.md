@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "First say to yourself what you would be; and then do what you have to do." — Epictetus
+  "What is a friend? A single soul dwelling in two bodies." — Aristotle
 </em></p>
 
 ---
