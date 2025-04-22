@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron
+  "Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain
 </em></p>
 
 ---
