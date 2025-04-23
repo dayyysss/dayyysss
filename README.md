@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Here and now...breathe and relax...in battle and in life." — Dan Millman
+  "Attitude is a little thing that makes a big difference." — Winston Churchill
 </em></p>
 
 ---
