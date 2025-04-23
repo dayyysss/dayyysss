@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson
+  "Successful people ask better questions, and as a result, they get better answers." — Tony Robbins
 </em></p>
 
 ---
