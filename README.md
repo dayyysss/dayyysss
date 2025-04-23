@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." — Thich Nhat Hanh
+  "This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant
 </em></p>
 
 ---
