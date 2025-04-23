@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar
+  "One must be deeply aware of the impermanence of the world." — Dogen
 </em></p>
 
 ---
