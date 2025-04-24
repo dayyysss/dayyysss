@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Simplicity is a difficult thing to achieve.  " — Charlie Chaplin
+  "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." — Franklin D. Roosevelt
 </em></p>
 
 ---
