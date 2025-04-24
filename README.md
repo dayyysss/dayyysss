@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The less you talk about your shame, the more of it you have." — Mark Manson
+  "You can never cross the ocean unless you have the courage to lose sight of the shore." — Christopher Columbus
 </em></p>
 
 ---
