@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can never cross the ocean unless you have the courage to lose sight of the shore." — Christopher Columbus
+  "If you build the guts to do something, anything, then you better save enough to face the consequences." — Criss Jami
 </em></p>
 
 ---
