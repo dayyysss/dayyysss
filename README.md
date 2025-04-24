@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift
+  "Simplicity is a difficult thing to achieve.  " — Charlie Chaplin
 </em></p>
 
 ---
