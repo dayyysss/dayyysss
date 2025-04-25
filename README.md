@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Goals are the fuel in the furnace of achievement." — Brian Tracy
+  "The future is not a gift. It is an achievement." — Robert F. Kennedy
 </em></p>
 
 ---
