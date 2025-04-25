@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I can live without money, but I cannot live without love." — Judy Garland
+  "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " — Nikola Tesla
 </em></p>
 
 ---
