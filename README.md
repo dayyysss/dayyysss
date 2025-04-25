@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. " — Herodotus
+  "It is useless to attempt to reason a man out of a thing he was never reasoned into." — Jonathan Swift
 </em></p>
 
 ---
