@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never stand begging for that which you have the power to earn." — Miguel de Cervantes
+  "The privilege of a lifetime is to become who you truly are." — Carl Jung
 </em></p>
 
 ---
