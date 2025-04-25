@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "By failing to prepare, you are preparing to fail." — Benjamin Franklin
+  "It is not enough to win a war; it is more important to organize the peace." — Aristotle
 </em></p>
 
 ---
