@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Being a good example is the best form of service." — Sathya Sai Baba
+  "The world only exists in your eyes. You can make it as big or as small as you want." — F. Scott Fitzgerald
 </em></p>
 
 ---
