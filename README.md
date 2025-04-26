@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." — Richard Bach
+  "Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky
 </em></p>
 
 ---
