@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is and will ever remain an equation incapable of solution, but it contains certain known factors. " — Nikola Tesla
+  "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." — Richard Bach
 </em></p>
 
 ---
