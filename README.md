@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No snowflake ever falls in the wrong place." — Zen Proverb
+  "Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh
 </em></p>
 
 ---
