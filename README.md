@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We can spend our whole lives escaping from the monsters of our minds." — Pema Chodron
+  "Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw
 </em></p>
 
 ---
