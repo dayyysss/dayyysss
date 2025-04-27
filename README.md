@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown
+  "Be patient and calm; no one can catch fish in anger." — Herbert Hoover
 </em></p>
 
 ---
