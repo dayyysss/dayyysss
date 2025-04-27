@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Throw your heart over the bar and your body will follow." — Norman Vincent Peale
+  "Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  " — Wayne Dyer
 </em></p>
 
 ---
