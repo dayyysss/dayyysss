@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your success and happiness lie in you." — Helen Keller
+  "If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — Dalai Lama
 </em></p>
 
 ---
