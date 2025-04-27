@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you." — Criss Jami
+  "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win." — Arnold Schwarzenegger
 </em></p>
 
 ---
