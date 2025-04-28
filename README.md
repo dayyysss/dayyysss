@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no fear for one whose mind is not filled with desires." — Buddha
+  "It's easy to be a critic, but being a doer requires effort, risk, and change.  " — Wayne Dyer
 </em></p>
 
 ---
