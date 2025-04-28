@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." — Sonia Ricotti
+  "Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition." — John Eliot
 </em></p>
 
 ---
