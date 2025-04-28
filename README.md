@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." — George Bernard Shaw
+  "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you." — Sonia Ricotti
 </em></p>
 
 ---
