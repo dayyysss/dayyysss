@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything flows, nothing stands still." — Heraclitus
+  "Opportunities multiply as they are seized." — Sun Tzu
 </em></p>
 
 ---
