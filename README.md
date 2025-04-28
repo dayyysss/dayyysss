@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The busy man is never wise and the wise man is never busy." — Lin Yutang
+  "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." — George Bernard Shaw
 </em></p>
 
 ---
