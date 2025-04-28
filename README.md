@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All wealth is the product of labor." — John Locke
+  "The busy man is never wise and the wise man is never busy." — Lin Yutang
 </em></p>
 
 ---
