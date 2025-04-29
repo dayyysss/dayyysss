@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Change is never easy, but always possible." — Barack Obama
+  "Before anything else, preparation is the key to success." — Alexander Graham Bell
 </em></p>
 
 ---
