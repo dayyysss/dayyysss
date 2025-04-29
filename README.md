@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?" — Seneca
+  "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself." — William Faulkner
 </em></p>
 
 ---
