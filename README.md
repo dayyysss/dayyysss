@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No one has ever become poor by giving." — Anne Frank
+  "Doing what you love is the cornerstone of having abundance in your life. " — Wayne Dyer
 </em></p>
 
 ---
