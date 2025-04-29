@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore." — Robert Greene
+  "If you spend too much time thinking about a thing, you'll never get it done. " — Bruce Lee
 </em></p>
 
 ---
