@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Doing what you love is the cornerstone of having abundance in your life. " — Wayne Dyer
+  "Animals don't hate, and we're supposed to be better than them." — Elvis Presley
 </em></p>
 
 ---
