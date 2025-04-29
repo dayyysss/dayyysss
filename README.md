@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most people achieved their greatest success one step beyond what looked like their greatest failure." — Brian Tracy
+  "We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet." — Thich Nhat Hanh
 </em></p>
 
 ---
