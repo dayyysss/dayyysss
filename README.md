@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fear of death is fear of the Unknown." — Adi Da Samraj
+  "To the world you may be one person; but to one person you may be the world." — Dr. Seuss
 </em></p>
 
 ---
