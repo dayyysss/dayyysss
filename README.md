@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness is a quality of the soul...not a function of one's material circumstances." — Aristotle
+  "The world is open for play, everything and everybody is mockable in a wonderful way." — Robin Williams
 </em></p>
 
 ---
