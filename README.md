@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine." — G.I. Gurdjieff
+  "Your life does not get better by chance, it gets better by change." — Jim Rohn
 </em></p>
 
 ---
