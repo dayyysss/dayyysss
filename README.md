@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden
+  "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " — Ray Bradbury
 </em></p>
 
 ---
