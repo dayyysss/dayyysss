@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All power is from within and therefore under our control." — Robert Collier
+  "Your happiness is what truly matters most. Do what you have to do in order to be happy." — Brian Tracy
 </em></p>
 
 ---
