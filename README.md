@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton
+  "Make failure your teacher, not your undertaker.  " — Zig Ziglar
 </em></p>
 
 ---
