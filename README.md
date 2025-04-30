@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your life does not get better by chance, it gets better by change." — Jim Rohn
+  "It is in your moments of decision that your destiny is shaped." — Tony Robbins
 </em></p>
 
 ---
