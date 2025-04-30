@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We have more possibilities available in each moment than we realize." — Thich Nhat Hanh
+  "Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt
 </em></p>
 
 ---
