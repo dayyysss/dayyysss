@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fiction is the truth inside the lie." — Stephen King
+  "The greatest weariness comes from work not done." — Eric Hoffer
 </em></p>
 
 ---
