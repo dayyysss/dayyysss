@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Silence is the great teacher and to learn its lessons you must pay attention to it." — Deepak Chopra
+  "Do not follow the ideas of others, but learn to listen to the voice within yourself." — Dogen
 </em></p>
 
 ---
