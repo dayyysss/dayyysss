@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar
+  "Never stand begging for that which you have the power to earn." — Miguel de Cervantes
 </em></p>
 
 ---
