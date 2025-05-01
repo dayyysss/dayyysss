@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything that is done in the world is done by hope." — Martin Luther
+  "A leader leads by example, not by force." — Sun Tzu
 </em></p>
 
 ---
