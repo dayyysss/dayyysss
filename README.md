@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One of the most difficult things is not to change society - but to change yourself." — Nelson Mandela
+  "Silence is the great teacher and to learn its lessons you must pay attention to it." — Deepak Chopra
 </em></p>
 
 ---
