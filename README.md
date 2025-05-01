@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only reason to be alive is to enjoy it." — Rita Mae Brown
+  "If you look for perfection, you'll never be content." — Leo Tolstoy
 </em></p>
 
 ---
