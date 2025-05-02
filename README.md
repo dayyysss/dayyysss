@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowing your own darkness is the best method for dealing with the darknesses of other people." — Carl Jung
+  "Those who can make you believe absurdities can make you commit atrocities. " — Voltaire
 </em></p>
 
 ---
