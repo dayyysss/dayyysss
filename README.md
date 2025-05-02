@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant
+  "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie
 </em></p>
 
 ---
