@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie
+  "You are what you believe yourself to be." — Paulo Coelho
 </em></p>
 
 ---
