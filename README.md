@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A fool sees himself as another, but a wise man sees others as himself." — Dogen
+  "Silence is the great teacher and to learn its lessons you must pay attention to it." — Deepak Chopra
 </em></p>
 
 ---
