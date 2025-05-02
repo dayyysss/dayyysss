@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen
+  "Happiness must be grown in one's own garden." — Mary Engelbreit
 </em></p>
 
 ---
