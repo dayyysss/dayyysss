@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Always do your best. What you plant now, you will harvest later." — Og Mandino
+  "Prefer to be defeated in the presence of the wise than to excel among fools." — Dogen
 </em></p>
 
 ---
