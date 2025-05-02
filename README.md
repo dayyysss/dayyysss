@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No man is happy unless he believes he is." — Publilius Syrus
+  "Knowing your own darkness is the best method for dealing with the darknesses of other people." — Carl Jung
 </em></p>
 
 ---
