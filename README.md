@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fear is a natural reaction to moving closer to the truth." — Pema Chodron
+  "A fool sees himself as another, but a wise man sees others as himself." — Dogen
 </em></p>
 
 ---
