@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest of all mistakes is to do nothing because you think you can only do a little.  " — Zig Ziglar
+  "You can never get enough of what you don't need to make you happy." — Eric Hoffer
 </em></p>
 
 ---
