@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
+  "Actions are the seeds of fate. Deeds grow into destiny." — Harry S. Truman
 </em></p>
 
 ---
