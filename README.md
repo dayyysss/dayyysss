@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The destiny of man is in his own soul. " — Herodotus
+  "From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka
 </em></p>
 
 ---
