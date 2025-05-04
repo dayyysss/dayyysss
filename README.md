@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You just can't beat the person who never gives up. " — Babe Ruth
+  "One small positive thought can change your whole day." — Zig Ziglar
 </em></p>
 
 ---
