@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In order to be irreplaceable one must always be different." — Coco Chanel
+  "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy." — Norman Vincent Peale
 </em></p>
 
 ---
