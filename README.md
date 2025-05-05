@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A good character is the best tombstone. Carve your name on hearts, not on marble." — Charles Spurgeon
+  "When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything." — Paramahansa Yogananda
 </em></p>
 
 ---
