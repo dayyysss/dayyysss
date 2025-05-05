@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The difference between treason and patriotism is only a matter of dates." — Alexandre Dumas
+  "Don't stop when you're tired. Stop when you're done." — Marilyn Monroe
 </em></p>
 
 ---
