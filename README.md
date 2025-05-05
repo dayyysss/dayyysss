@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never do to others what you would not like them to do to you. " — Confucius
+  "Become the kind of leader that people would follow voluntarily, even if you had no title or position." — Brian Tracy
 </em></p>
 
 ---
