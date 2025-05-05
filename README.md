@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you want to achieve greatness stop asking for permission." — Unknown
+  "Maybe you are searching among the branches, for what only appears in the roots." — Rumi
 </em></p>
 
 ---
