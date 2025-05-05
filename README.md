@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing can bring you peace but yourself." — Dale Carnegie
+  "When you've got nothing, you've got nothing to lose." — Bob Dylan
 </em></p>
 
 ---
