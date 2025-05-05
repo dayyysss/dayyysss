@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you've got nothing, you've got nothing to lose." — Bob Dylan
+  "He is richest who is content with the least, for content is the wealth of nature." — Socrates
 </em></p>
 
 ---
