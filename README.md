@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Maybe you are searching among the branches, for what only appears in the roots." — Rumi
+  "Gratitude is the fairest blossom which springs from the soul." — Henry Ward Beecher
 </em></p>
 
 ---
