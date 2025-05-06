@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma
+  "Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence
 </em></p>
 
 ---
