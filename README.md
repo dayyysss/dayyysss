@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "May you live all the days of your life." — Jonathan Swift
+  "A good stance and posture reflect a proper state of mind." — Morihei Ueshiba
 </em></p>
 
 ---
