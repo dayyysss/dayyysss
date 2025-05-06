@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no limitations except those we create for ourselves." — Lolly Daskal
+  "Truth is the offspring of silence and meditation." — Isaac Newton
 </em></p>
 
 ---
