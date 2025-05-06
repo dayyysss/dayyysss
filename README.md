@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is growth. If we stop growing, technically and spiritually, we are as good as dead." — Morihei Ueshiba
+  "All human beings can alter their lives by altering their attitudes." — Andrew Carnegie
 </em></p>
 
 ---
