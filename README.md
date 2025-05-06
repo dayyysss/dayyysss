@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Work out your own salvation. Do not depend on others." — Buddha
+  "Believe you can and you will be halfway there." — Lolly Daskal
 </em></p>
 
 ---
