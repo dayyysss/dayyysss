@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To create more positive results in your life, replace 'if only' with 'next time'." — Celestine Chua
+  "You can not live your life just based on what everyone else thinks." — Joyce Meyer
 </em></p>
 
 ---
