@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can never get enough of what you don't need to make you happy." — Eric Hoffer
+  "Attitude is a little thing that makes a big difference." — Winston Churchill
 </em></p>
 
 ---
