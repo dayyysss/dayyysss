@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can not live your life just based on what everyone else thinks." — Joyce Meyer
+  "The more you are motivated by Love, The more Fearless & Free your action will be." — Dalai Lama
 </em></p>
 
 ---
