@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Create with the heart; build with the mind." — Criss Jami
+  "Life is too short to waste your time on people who don't respect, appreciate, and value you." — Roy T. Bennett
 </em></p>
 
 ---
