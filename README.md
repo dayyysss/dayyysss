@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The most important single ingredient in the formula of success is knowing how to get along with people." — Theodore Roosevelt
+  "A man should do his job so well that the living, the dead, and the unborn could do it no better." — Martin Luther King, Jr.
 </em></p>
 
 ---
