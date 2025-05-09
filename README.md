@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only defense against the world is a thorough knowledge of it." — John Locke
+  "Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want." — Tony Robbins
 </em></p>
 
 ---
