@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Faithless is he that says farewell when the road darkens." — J.R.R. Tolkien
+  "Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant
 </em></p>
 
 ---
