@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "True knowledge exists in knowing that you know nothing." — Socrates
+  "Loss is nothing else but change and change is nature's delight." — Marcus Aurelius
 </em></p>
 
 ---
