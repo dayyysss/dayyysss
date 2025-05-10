@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Inspire yourself to be great. Being good isn't good enough." — Gurbaksh Chahal
+  "There is nothing in the world so irresistibly contagious as laughter and good humor." — Charles Dickens
 </em></p>
 
 ---
