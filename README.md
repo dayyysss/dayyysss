@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's not what happens to you, but how you react to it that matters." — Epictetus
+  "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley
 </em></p>
 
 ---
