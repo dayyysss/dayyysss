@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. " — Denis Waitley
+  "You are not the drop in the ocean, but the ocean in the drop." — Deepak Chopra
 </em></p>
 
 ---
