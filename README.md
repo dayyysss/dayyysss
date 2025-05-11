@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Dreams are the touchstones of our characters." — Henry David Thoreau
+  "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good." — Bhagavad Gita
 </em></p>
 
 ---
