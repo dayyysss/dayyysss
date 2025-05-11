@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you." — Bob Proctor
+  "Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence
 </em></p>
 
 ---
