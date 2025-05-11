@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard
+  "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you." — Bob Proctor
 </em></p>
 
 ---
