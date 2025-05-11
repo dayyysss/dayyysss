@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing is particularly hard if you divide it into small jobs. " — Henry Ford
+  "Dreams are the touchstones of our characters." — Henry David Thoreau
 </em></p>
 
 ---
