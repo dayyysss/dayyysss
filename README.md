@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you don't have time to do it right, when will you have time to do it over?" — John Wooden
+  "Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki
 </em></p>
 
 ---
