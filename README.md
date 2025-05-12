@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Failure is an option, fear is not." — James Cameron
+  "If you don't have time to do it right, when will you have time to do it over?" — John Wooden
 </em></p>
 
 ---
