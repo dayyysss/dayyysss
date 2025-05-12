@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are few reasons for telling the truth, but for lying the number is infinite." — Carlos Ruiz Zafon
+  "The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — Brian Tracy
 </em></p>
 
 ---
