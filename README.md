@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Talk sense to a fool and he calls you foolish." — Euripides
+  "The primary point of this existence is to live, and all living things move and grow." — Ming-Dao Deng
 </em></p>
 
 ---
