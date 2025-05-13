@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I would rather die on my feet than live on my knees." — Euripides
+  "I have lived with several Zen masters -- all of them cats." — Eckhart Tolle
 </em></p>
 
 ---
