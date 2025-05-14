@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Superstars think like superstars long before the fans or the press anoint them." — John Eliot
+  "The only way to 'find out if it will work out' is to do it." — Simon Sinek
 </em></p>
 
 ---
