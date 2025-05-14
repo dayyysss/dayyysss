@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Catch, then, O catch the transient hour; Improve each moment as it flies! " — St. Jerome
+  "Real growth comes through intense, difficult, and challenging situations." — Kamal Ravikant
 </em></p>
 
 ---
