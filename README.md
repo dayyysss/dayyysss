@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Real growth comes through intense, difficult, and challenging situations." — Kamal Ravikant
+  "Don't change your mind just because people are offended; change your mind if you're wrong." — Criss Jami
 </em></p>
 
 ---
