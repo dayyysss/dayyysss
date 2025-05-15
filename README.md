@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Adventure is not outside man; it is within." — George Eliot
+  "Our attitude toward life determines life's attitude towards us." — Earl Nightingale
 </em></p>
 
 ---
