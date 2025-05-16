@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is a big difference between being centered and being self-centered." — Lolly Daskal
+  "The health of nations is more important than the wealth of nations." — Will Rogers
 </em></p>
 
 ---
