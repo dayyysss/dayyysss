@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you're the only sane person, you look like the only insane person." — Criss Jami
+  "Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama
 </em></p>
 
 ---
