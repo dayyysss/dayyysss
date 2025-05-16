@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw
+  "We are born from a quiet sleep, and we die to a calm awakening" — Zhuangzi
 </em></p>
 
 ---
