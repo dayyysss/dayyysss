@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We are born from a quiet sleep, and we die to a calm awakening" — Zhuangzi
+  "Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain
 </em></p>
 
 ---
