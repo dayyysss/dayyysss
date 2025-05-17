@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Till it has loved, no man or woman can become itself." — Emily Dickinson
+  "The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. " — Charles Swindoll
 </em></p>
 
 ---
