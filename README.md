@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more something threatens your identity, the more you will avoid it." — Mark Manson
+  "When it hurts - observe. Life is trying to teach you something." — Anita Krizzan
 </em></p>
 
 ---
