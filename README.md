@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fear of death is fear of the Unknown." — Adi Da Samraj
+  "A real friend is one who walks in when the rest of the world walks out." — Unknown
 </em></p>
 
 ---
