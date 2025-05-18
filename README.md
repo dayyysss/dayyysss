@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "As you think, so shall you become. " — Bruce Lee
+  "The best way to predict your future is to create it." — Abraham Lincoln
 </em></p>
 
 ---
