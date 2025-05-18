@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you think you can do a thing or think you can't do a thing, you're right." — Henry Ford
+  "Only when I fall do I get up again." — Vincent van Gogh
 </em></p>
 
 ---
