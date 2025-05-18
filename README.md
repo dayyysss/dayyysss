@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best way to predict your future is to create it." — Abraham Lincoln
+  "Human beings believe just as they breathe - in order to survive." — Carlos Ruiz Zafon
 </em></p>
 
 ---
