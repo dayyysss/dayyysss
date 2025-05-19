@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's necessary to get the losers out of your life if you want to live your dream." — Les Brown
+  "Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso
 </em></p>
 
 ---
