@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are not what you think you are, You are not what others think you are, You are what you think others think you are." — Unknown
+  "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has." — Epictetus
 </em></p>
 
 ---
