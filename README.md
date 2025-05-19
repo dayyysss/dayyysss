@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A heart is not judged by how much you love, but by how much you are loved by others." — Judy Garland
+  "It's necessary to get the losers out of your life if you want to live your dream." — Les Brown
 </em></p>
 
 ---
