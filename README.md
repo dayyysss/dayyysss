@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso
+  "I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone
 </em></p>
 
 ---
