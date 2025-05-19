@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You may be one person in this world, but to one person you may mean the world." — Unknown
+  "A man sees in the world what he carries in his heart." — Johann Wolfgang von Goethe
 </em></p>
 
 ---
