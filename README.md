@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone
+  "Your chances of success in any undertaking can always be measured by your belief in yourself." — Robert Collier
 </em></p>
 
 ---
