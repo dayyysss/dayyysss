@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." — Eleanor Roosevelt
+  "The future doesn't belong to the faint-hearted; it belongs to the brave." — Ronald Reagan
 </em></p>
 
 ---
