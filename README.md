@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Art, like morality, consists of drawing the line somewhere." — Gilbert Chesterton
+  "The less you talk about your shame, the more of it you have." — Mark Manson
 </em></p>
 
 ---
