@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi
+  "If you can handle rejection, you'll learn to get everything you want." — Tony Robbins
 </em></p>
 
 ---
