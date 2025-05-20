@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is a consequence and must not be a goal." — Gustave Flaubert
+  "Tall oaks grow from little acorns." — Andrew Carnegie
 </em></p>
 
 ---
