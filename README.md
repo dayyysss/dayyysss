@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Night is a more quiet time to work. It aids thought." — Alexander Graham Bell
+  "A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin
 </em></p>
 
 ---
