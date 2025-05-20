@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The truth is rarely pure and never simple. " — Oscar Wilde
+  "Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi
 </em></p>
 
 ---
