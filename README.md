@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The sun shines upon good and bad alike." — Hans Christian Andersen
+  "Time is a game played beautifully by children." — Heraclitus
 </em></p>
 
 ---
