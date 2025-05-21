@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Hope means hoping when everything seems hopeless." — Gilbert Chesterton
+  "He who is not contented with what he has, would not be contented with what he would like to have." — Socrates
 </em></p>
 
 ---
