@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. " — Nikola Tesla
+  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." — Helen Keller
 </em></p>
 
 ---
