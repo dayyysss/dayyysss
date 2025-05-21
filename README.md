@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For things to change, you have to change." — Jim Rohn
+  "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " — Franz Kafka
 </em></p>
 
 ---
