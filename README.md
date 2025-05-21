@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Go for it now. The future is promised to no one. " — Wayne Dyer
+  "The opposite of courage in our society is not cowardice... it is conformity." — Earl Nightingale
 </em></p>
 
 ---
