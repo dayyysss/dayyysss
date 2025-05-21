@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One small positive thought can change your whole day." — Zig Ziglar
+  "If you don't like something, change it. If you can't change it, change your attitude." — Maya Angelou
 </em></p>
 
 ---
