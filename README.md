@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn
+  "People inspire you, or they drain you. Pick them wisely." — Les Brown
 </em></p>
 
 ---
