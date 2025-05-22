@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People inspire you, or they drain you. Pick them wisely." — Les Brown
+  "Success is liking yourself, liking what you do, and liking how you do it." — Maya Angelou
 </em></p>
 
 ---
