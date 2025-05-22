@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is liking yourself, liking what you do, and liking how you do it." — Maya Angelou
+  "A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing." — George Bernard Shaw
 </em></p>
 
 ---
