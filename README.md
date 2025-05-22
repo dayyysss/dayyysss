@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All human beings can alter their lives by altering their attitudes." — Andrew Carnegie
+  "Open your eyes and look within. Are you satisfied with the life you're living?" — Bob Marley
 </em></p>
 
 ---
