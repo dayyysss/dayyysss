@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He who possesses most must be most afraid of loss." — Leonardo da Vinci
+  "You cannot always control what goes on outside. But you can always control what goes on inside. " — Wayne Dyer
 </em></p>
 
 ---
