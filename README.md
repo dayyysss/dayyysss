@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy
+  "The only thing we have to fear is fear itself." — Franklin D. Roosevelt
 </em></p>
 
 ---
