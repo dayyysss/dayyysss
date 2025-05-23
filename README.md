@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The older you get, the better you get. Unless you're a banana." — Betty White
+  "It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy
 </em></p>
 
 ---
