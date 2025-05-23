@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A day wasted on others is not wasted on one's self." — Charles Dickens
+  "The truth is simple. If it was complicated, everyone would understand it." — Walt Whitman
 </em></p>
 
 ---
