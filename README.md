@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enthusiasm makes up for a host of deficiencies." — Barack Obama
+  "To escape from the world means that one's mind is not concerned with the opinions of the world." — Dogen
 </em></p>
 
 ---
