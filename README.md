@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is about not knowing and then doing something anyway." — Mark Manson
+  "It's the unknown we fear when we look upon death and darkness, nothing more." — Albus Dumbledore
 </em></p>
 
 ---
