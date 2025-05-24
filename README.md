@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do what you feel in your heart to be right - for you'll be criticized anyway." — Eleanor Roosevelt
+  "We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr.
 </em></p>
 
 ---
