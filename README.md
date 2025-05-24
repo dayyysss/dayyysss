@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." — Steve Harvey
+  "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." — Dan Millman
 </em></p>
 
 ---
