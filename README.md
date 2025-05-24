@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life has the name of life, but in reality it is death." — Heraclitus
+  "You are free, and that is why you are lost. " — Franz Kafka
 </em></p>
 
 ---
