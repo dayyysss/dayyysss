@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One's best success comes after their greatest disappointments." — Henry Ward Beecher
+  "When you are able to employ your will always for constructive purposes, you become the controller of your destiny." — Paramahansa Yogananda
 </em></p>
 
 ---
