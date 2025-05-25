@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "None of us can change our yesterdays but all of us can change our tomorrows." — Colin Powell
+  "Your best life will not be found in comfort. It will be found in fighting for what you believe in." — Maxime Lagace
 </em></p>
 
 ---
