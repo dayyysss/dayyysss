@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No kind action ever stops with itself. One kind action leads to another. Good example is followed." — Amelia Earhart
+  "None of us can change our yesterdays but all of us can change our tomorrows." — Colin Powell
 </em></p>
 
 ---
