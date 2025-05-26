@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Decide what your truth is. Then live it." — Kamal Ravikant
+  "A good character is the best tombstone. Carve your name on hearts, not on marble." — Charles Spurgeon
 </em></p>
 
 ---
