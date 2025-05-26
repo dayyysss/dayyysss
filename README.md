@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who attain the middle Dominate the whole." — Ming-Dao Deng
+  "Life is filled with secrets. You can't learn them all at once." — Dan Brown
 </em></p>
 
 ---
