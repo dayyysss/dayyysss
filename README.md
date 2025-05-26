@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For your life to be great, your faith must be bigger than your fear." — Robin Sharma
+  "When you have to make a choice and don't make it, that is in itself a choice." — William James
 </em></p>
 
 ---
