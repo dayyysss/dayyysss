@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Love never keeps a man from pursuing his destiny." — Paulo Coelho
+  "The less you try to impress, the more peaceful you can be." — Maxime Lagace
 </em></p>
 
 ---
