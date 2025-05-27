@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest of empires, is the empire over one's self." — Publilius Syrus
+  "Magic is believing in yourself, if you can do that, you can make anything happen." — Johann Wolfgang von Goethe
 </em></p>
 
 ---
