@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope
+  "Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso
 </em></p>
 
 ---
