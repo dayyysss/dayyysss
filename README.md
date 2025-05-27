@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner." — Sonia Ricotti
+  "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle
 </em></p>
 
 ---
