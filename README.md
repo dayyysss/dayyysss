@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We live only now. Everything else is either passed or is unknown." — Marcus Aurelius
+  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." — Thich Nhat Hanh
 </em></p>
 
 ---
