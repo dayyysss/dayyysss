@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Magic is believing in yourself, if you can do that, you can make anything happen." — Johann Wolfgang von Goethe
+  "You don't get in life what you want; you get in life what you are." — Les Brown
 </em></p>
 
 ---
