@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every one of us is the sum total of his own thoughts." — Earl Nightingale
+  "The more you praise and celebrate your life, the more there is in life to celebrate. " — Oprah Winfrey
 </em></p>
 
 ---
