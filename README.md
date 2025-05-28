@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha
+  "Live your life as an exclamation rather than an explanation." — Isaac Newton
 </em></p>
 
 ---
