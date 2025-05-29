@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Amateurs sit and wait for inspiration, the rest of us just get up and got to work." — Stephen King
+  "You cannot have a positive life and a negative mind." — Joyce Meyer
 </em></p>
 
 ---
