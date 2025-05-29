@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A fear of weakness only strengthens weakness." — Criss Jami
+  "Stop comparing yourself to others and focus on your own improvement." — Lolly Daskal
 </em></p>
 
 ---
