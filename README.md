@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I love fools' experiments. I am always making them." — Charles Darwin
+  "A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles." — Christopher Reeve
 </em></p>
 
 ---
