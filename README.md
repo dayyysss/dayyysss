@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Failure is feedback. Learn from it and move on." — Jack Butcher
+  "If I can stop one heart from breaking, I shall not live in vain." — Emily Dickinson
 </em></p>
 
 ---
