@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant
+  "Keep your face to the sunshine and you cannot see the shadows." — Helen Keller
 </em></p>
 
 ---
