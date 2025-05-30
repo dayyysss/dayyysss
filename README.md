@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "None but ourselves can free our minds." — Bob Marley
+  "Everything has beauty but not everyone sees it." — Confucius
 </em></p>
 
 ---
