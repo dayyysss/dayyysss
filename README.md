@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace
+  "No man is happy who does not think himself so." — Norman Vincent Peale
 </em></p>
 
 ---
