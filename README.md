@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Short cuts make long delays." — J.R.R. Tolkien
+  "The highest level of wisdom is when you not only accept but love adversity." — Maxime Lagace
 </em></p>
 
 ---
