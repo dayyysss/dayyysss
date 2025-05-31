@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No duty is more urgent than that of returning thanks." — James Allen
+  "Embody what you teach, and teach only what you have embodied." — Dan Millman
 </em></p>
 
 ---
