@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What do we live for if not to make life less difficult for each other?" — T.S. Eliot
+  "Man suffers only because he takes seriously what the gods made for fun." — Alan Watts
 </em></p>
 
 ---
