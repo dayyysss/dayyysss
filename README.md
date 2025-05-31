@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Embody what you teach, and teach only what you have embodied." — Dan Millman
+  "It's wise to tell the truth. It's even wiser to tell it kindly." — Maxime Lagace
 </em></p>
 
 ---
