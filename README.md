@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A hut full of laughter is richer than a palace full of sadness." — Zen Proverb
+  "It is not as important how we start, but how we finish." — Joyce Meyer
 </em></p>
 
 ---
