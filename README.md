@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is not as important how we start, but how we finish." — Joyce Meyer
+  "The quicker you let go of old cheese, the sooner you find new cheese." — Spencer Johnson
 </em></p>
 
 ---
