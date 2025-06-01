@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you repeat a mistake, it is not a mistake anymore: it is a decision." — Paulo Coelho
+  "Don't cry because it's over. Smile because it happened." — Dr. Seuss
 </em></p>
 
 ---
