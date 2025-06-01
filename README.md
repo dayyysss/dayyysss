@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale
+  "A dream you dream alone is only a dream. A dream you dream together is reality." — Yoko Ono
 </em></p>
 
 ---
