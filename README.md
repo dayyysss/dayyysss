@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A dream you dream alone is only a dream. A dream you dream together is reality." — Yoko Ono
+  "When you repeat a mistake, it is not a mistake anymore: it is a decision." — Paulo Coelho
 </em></p>
 
 ---
