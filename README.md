@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your past does not equal your future." — Tony Robbins
+  "Live in the sunshine, swim the sea, drink the wild air." — Ralph Waldo Emerson
 </em></p>
 
 ---
