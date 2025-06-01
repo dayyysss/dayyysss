@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Live in the sunshine, swim the sea, drink the wild air." — Ralph Waldo Emerson
+  "Never trust he who trusts everyone." — Carlos Ruiz Zafon
 </em></p>
 
 ---
