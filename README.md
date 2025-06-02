@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is the progressive realization of a worthy goal or ideal." — Earl Nightingale
+  "Peace is not the absence of conflict, but the ability to cope with it." — Unknown
 </em></p>
 
 ---
