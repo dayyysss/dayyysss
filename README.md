@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Doubt is an uncomfortable condition, but certainty is a ridiculous one." — Voltaire
+  "Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — Roy T. Bennett
 </em></p>
 
 ---
