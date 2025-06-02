@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Great deeds are usually wrought at great risks." — Herodotus
+  "The more reasons you have for achieving your goal, the more determined you will become." — Brian Tracy
 </em></p>
 
 ---
