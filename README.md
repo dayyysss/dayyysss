@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau
+  "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — Elon Musk
 </em></p>
 
 ---
