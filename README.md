@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness cannot be traveled to, owned, earned, worn or consumed." — Denis Waitley
+  "Turn your face to the sun, as flowers know how to do." — Ming-Dao Deng
 </em></p>
 
 ---
