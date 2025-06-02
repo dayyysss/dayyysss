@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT." — Deepak Chopra
+  "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." — Steve Harvey
 </em></p>
 
 ---
