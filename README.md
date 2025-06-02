@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Peace is not the absence of conflict, but the ability to cope with it." — Unknown
+  "If you care about someone enough, you'll always be there for them no matter what." — Roy T. Bennett
 </em></p>
 
 ---
