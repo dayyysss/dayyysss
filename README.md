@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Great minds are always feared by lesser minds." — Dan Brown
+  "Humans and prosperity never endure side by side for long." — Herodotus
 </em></p>
 
 ---
