@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No great discovery was ever made without a bold guess. " — Isaac Newton
+  "Remember that sometimes not getting what you want is a wonderful stroke of luck." — Dalai Lama
 </em></p>
 
 ---
