@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Trying to define yourself is like trying to bite your own teeth." — Alan Watts
+  "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." — Denis Waitley
 </em></p>
 
 ---
