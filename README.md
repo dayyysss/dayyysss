@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Inspiration exists, but it has to find you working." — Pablo Picasso
+  "Empty your mind, be formless, shapeless, like water." — Bruce Lee
 </em></p>
 
 ---
