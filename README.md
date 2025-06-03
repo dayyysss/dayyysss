@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do good, live in the most positive and joyful way possible every day." — Roy T. Bennett
+  "No great discovery was ever made without a bold guess. " — Isaac Newton
 </em></p>
 
 ---
