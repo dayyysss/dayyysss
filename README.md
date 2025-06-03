@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There's no next time. It's now or never." — Celestine Chua
+  "If you don't know, the thing to do is not to get scared, but to learn." — Ayn Rand
 </em></p>
 
 ---
