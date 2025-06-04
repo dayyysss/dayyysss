@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's your road, and yours alone, others may walk it with you, but no one can walk it for you." — Rumi
+  "When something is important enough, you do it even if the odds are not in your favor." — Elon Musk
 </em></p>
 
 ---
