@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Always forgive your enemies - nothing annoys them so much. " — Oscar Wilde
+  "Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee
 </em></p>
 
 ---
