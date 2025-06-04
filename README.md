@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To seek is to suffer. To seek nothing is bliss." — Bodhidharma
+  "Our deeds determine us, as much as we determine our deeds." — George Eliot
 </em></p>
 
 ---
