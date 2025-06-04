@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be grateful for what you have now, and nothing should be taken for granted." — Roy T. Bennett
+  "I never said it would be easy, I only said it would be worth it." — Mae West
 </em></p>
 
 ---
