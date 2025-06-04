@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Creativity is intelligence having fun." — Albert Einstein
+  "To seek is to suffer. To seek nothing is bliss." — Bodhidharma
 </em></p>
 
 ---
