@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Just try to be the best you can be; never cease trying to be the best you can be. That's in your power." — John Wooden
+  "There exists only the present instant; a Now which always and without end is itself new." — Meister Eckhart
 </em></p>
 
 ---
