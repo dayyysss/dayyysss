@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no greater agony than bearing an untold story inside you." — Maya Angelou
+  "Creativity is intelligence having fun." — Albert Einstein
 </em></p>
 
 ---
