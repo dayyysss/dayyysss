@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not pray for an easy life, pray for the strength to endure a difficult one.  " — Bruce Lee
+  "It is not uncommon for people to spend their whole life waiting to start living." — Eckhart Tolle
 </em></p>
 
 ---
