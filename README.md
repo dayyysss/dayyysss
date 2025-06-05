@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Discontent is the first necessity of progress." — Thomas Edison
+  "Only the educated are free." — Epictetus
 </em></p>
 
 ---
