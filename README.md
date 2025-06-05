@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Only the educated are free." — Epictetus
+  "If you do not conquer self, you will be conquered by self." — Napoleon Hill
 </em></p>
 
 ---
