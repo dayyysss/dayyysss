@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't let what you cannot do interfere with what you can do." — John Wooden
+  "The first rule of business; treat others like they want to treat you." — Charles Dickens
 </em></p>
 
 ---
