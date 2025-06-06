@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best mind-altering drug is the truth." — Lily Tomlin
+  "Pursue what catches your heart, not what catches your eyes." — Roy T. Bennett
 </em></p>
 
 ---
