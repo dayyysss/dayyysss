@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Even the finest sword plunged into salt water will eventually rust." — Sun Tzu
+  "If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream." — Arnold Schwarzenegger
 </em></p>
 
 ---
