@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You will not do incredible things without an incredible dream." — John Eliot
+  "Give so much away people insist on paying you." — Jack Butcher
 </em></p>
 
 ---
