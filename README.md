@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Patience is not the ability to wait but the ability to keep a good attitude while waiting." — Joyce Meyer
+  "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau
 </em></p>
 
 ---
