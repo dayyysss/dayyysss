@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never let your memories be greater than your dreams." — Doug Ivester
+  "Growing up is losing some illusions, in order to acquire others." — Virginia Woolf
 </em></p>
 
 ---
