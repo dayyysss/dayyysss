@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "My sun sets to rise again." — Robert Browning
+  "The best mind-altering drug is the truth." — Lily Tomlin
 </em></p>
 
 ---
