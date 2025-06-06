@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It always seems impossible until it's done." — Nelson Mandela
+  "Never let your memories be greater than your dreams." — Doug Ivester
 </em></p>
 
 ---
