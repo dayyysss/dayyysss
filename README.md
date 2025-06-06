@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Growing up is losing some illusions, in order to acquire others." — Virginia Woolf
+  "Even the finest sword plunged into salt water will eventually rust." — Sun Tzu
 </em></p>
 
 ---
