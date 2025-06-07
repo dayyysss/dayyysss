@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi
+  "A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown
 </em></p>
 
 ---
