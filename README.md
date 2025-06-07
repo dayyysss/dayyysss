@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We are willing to believe anything other than the truth." — Carlos Ruiz Zafon
+  "It does not matter how slowly you go so long as you do not stop." — Confucius
 </em></p>
 
 ---
