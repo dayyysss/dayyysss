@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Learn to sit back and observe, not everything needs a reaction." — Unknown
+  "Who you are is defined by what you're willing to struggle for." — Mark Manson
 </em></p>
 
 ---
