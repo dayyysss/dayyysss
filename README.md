@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown
+  "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." — Zig Ziglar
 </em></p>
 
 ---
