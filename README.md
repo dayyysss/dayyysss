@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Hold yourself responsible for a higher standard than anybody else expects of you." — Henry Ward Beecher
+  "You must welcome change as the rule but not as your ruler. " — Denis Waitley
 </em></p>
 
 ---
