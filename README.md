@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale
+  "The truth is simple. If it was complicated, everyone would understand it." — Walt Whitman
 </em></p>
 
 ---
