@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you stop questioning, you stop learning." — Lolly Daskal
+  "We have more possibilities available in each moment than we realize." — Thich Nhat Hanh
 </em></p>
 
 ---
