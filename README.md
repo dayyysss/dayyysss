@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You must welcome change as the rule but not as your ruler. " — Denis Waitley
+  "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." — Carl Bard
 </em></p>
 
 ---
