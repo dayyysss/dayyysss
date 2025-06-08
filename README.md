@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We have more possibilities available in each moment than we realize." — Thich Nhat Hanh
+  "Those who seek the easy way do not seek the true way." — Dogen
 </em></p>
 
 ---
