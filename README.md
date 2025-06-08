@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant
+  "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. " — Buddha
 </em></p>
 
 ---
