@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Discontent is the first necessity of progress." — Thomas Edison
+  "The smallest of actions is always better than the noblest of intentions." — Robin Sharma
 </em></p>
 
 ---
