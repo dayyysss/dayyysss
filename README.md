@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending." — Carl Bard
+  "Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant
 </em></p>
 
 ---
