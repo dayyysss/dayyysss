@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant
+  "Courage is fear that has said its prayers and decided to go forward anyway." — Joyce Meyer
 </em></p>
 
 ---
