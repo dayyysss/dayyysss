@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Rich people have small TVs and big libraries, and poor people have small libraries and big TVs." — Zig Ziglar
+  "Every second you have on this planet is very precious and it's your responsibility that you're happy." — Naval Ravikant
 </em></p>
 
 ---
