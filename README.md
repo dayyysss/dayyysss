@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Imagination is everything. It is the preview of life's coming attractions." — Albert Einstein
+  "The more you trust yourself, the less you compare yourself to others." — Roy T. Bennett
 </em></p>
 
 ---
