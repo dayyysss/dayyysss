@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Simplicity is a difficult thing to achieve.  " — Charlie Chaplin
+  "Amateurs sit and wait for inspiration, the rest of us just get up and got to work." — Stephen King
 </em></p>
 
 ---
