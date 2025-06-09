@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's possible in ways both large or small to make a difference in someone's life." — Yanni
+  "When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant
 </em></p>
 
 ---
