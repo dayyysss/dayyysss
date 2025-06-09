@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible." — Josh Waitzkin
+  "When you can't make them see the light, make them feel the heat." — Ronald Reagan
 </em></p>
 
 ---
