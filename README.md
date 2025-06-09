@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Silence is a source of great strength." — Lao Tzu
+  "All we have to decide is what to do with the time that is given to us." — J.R.R. Tolkien
 </em></p>
 
 ---
