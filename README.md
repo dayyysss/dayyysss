@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Courage is fear that has said its prayers and decided to go forward anyway." — Joyce Meyer
+  "You are never too old to set another goal or to dream a new dream." — Les Brown
 </em></p>
 
 ---
