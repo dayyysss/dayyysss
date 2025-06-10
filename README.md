@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Receive without pride, let go without attachment." — Marcus Aurelius
+  "Don't let anyone define you. You define yourself." — Billie Jean King
 </em></p>
 
 ---
