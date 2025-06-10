@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The fastest way to change is to laugh at your own folly." — Spencer Johnson
+  "I pay attention to every minute of the day." — Steve Harvey
 </em></p>
 
 ---
