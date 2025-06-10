@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  " — Wayne Dyer
+  "If you want something then you lose everything. If you don't want anything then you already have everything." — Seungsahn
 </em></p>
 
 ---
