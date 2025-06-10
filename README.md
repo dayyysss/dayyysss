@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I'm an optimist by choice not by stupidity." — Yanni
+  "Being wrong opens us up to the possibility of change." — Mark Manson
 </em></p>
 
 ---
