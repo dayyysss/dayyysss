@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Try all things, hold fast that which is good." — John Locke
+  "Life is what you make it. Always has been, always will be." — Eleanor Roosevelt
 </em></p>
 
 ---
