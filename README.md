@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." — Gurbaksh Chahal
+  "I am not the outcome. I am never the result. I am only the effort." — Kamal Ravikant
 </em></p>
 
 ---
