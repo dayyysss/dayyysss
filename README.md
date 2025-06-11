@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is what you make it. Always has been, always will be." — Eleanor Roosevelt
+  "He is richest who is content with the least, for content is the wealth of nature." — Socrates
 </em></p>
 
 ---
