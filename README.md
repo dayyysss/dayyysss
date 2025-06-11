@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua
+  "Happiness is not the absence of problems, it's the ability to deal with them." — Steve Maraboli
 </em></p>
 
 ---
