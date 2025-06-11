@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins
+  "A man who cannot tolerate small misfortunes can never accomplish great things." — Chinese Proverb
 </em></p>
 
 ---
