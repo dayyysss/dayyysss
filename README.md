@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A hero is an ordinary person doing things in an extra ordinary way." — Christopher Reeve
+  "If you do not conquer self, you will be conquered by self." — Napoleon Hill
 </em></p>
 
 ---
