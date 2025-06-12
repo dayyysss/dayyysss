@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson
+  "Pleasure in the job puts perfection in the work." — Aristotle
 </em></p>
 
 ---
