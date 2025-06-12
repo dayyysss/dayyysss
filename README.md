@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Tis not too late to seek a newer world." — Heraclitus
+  "Belief creates the actual fact." — William James
 </em></p>
 
 ---
