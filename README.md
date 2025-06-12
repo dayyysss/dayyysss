@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is a wisdom of the head, and there is a wisdom of the heart." — Charles Dickens
+  "Tis not too late to seek a newer world." — Heraclitus
 </em></p>
 
 ---
