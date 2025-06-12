@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po
+  "A hero is an ordinary person doing things in an extra ordinary way." — Christopher Reeve
 </em></p>
 
 ---
