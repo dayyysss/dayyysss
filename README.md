@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer
+  "Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some." — Charles Dickens
 </em></p>
 
 ---
