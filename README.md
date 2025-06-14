@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't let what you cannot do interfere with what you can do." — John Wooden
+  "If you can't imagine it, you can't have it." — Toni Morrison
 </em></p>
 
 ---
