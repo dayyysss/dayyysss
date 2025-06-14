@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everyday you can take a tiny step in the right direction." — Unknown
+  "Be brave enough to suck at something new." — Unknown
 </em></p>
 
 ---
