@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The highest level of wisdom is when you not only accept but love adversity." — Maxime Lagace
+  "What one does is what counts. Not what one had the intention of doing." — Pablo Picasso
 </em></p>
 
 ---
