@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The smallest of actions is always better than the noblest of intentions." — Robin Sharma
+  "If you aim at nothing, you will hit it every time.  " — Zig Ziglar
 </em></p>
 
 ---
