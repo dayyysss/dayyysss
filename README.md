@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho
+  "Successful people appreciate where they have come from, but they don't let their past set the tone for their future." — Steve Harvey
 </em></p>
 
 ---
