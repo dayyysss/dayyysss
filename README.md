@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In order to be walked over, you have to be lying down." — Celestine Chua
+  "What keeps life fascinating is the constant creativity of the soul." — Deepak Chopra
 </em></p>
 
 ---
