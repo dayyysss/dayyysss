@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Faithless is he that says farewell when the road darkens." — J.R.R. Tolkien
+  "Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu
 </em></p>
 
 ---
