@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Who you are is always right." — Ming-Dao Deng
+  "True friendship ought never to conceal what it thinks. " — St. Jerome
 </em></p>
 
 ---
