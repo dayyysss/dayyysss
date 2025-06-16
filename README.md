@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." — Gurbaksh Chahal
+  "You can't climb the ladder of success with your hands in your pockets." — Arnold Schwarzenegger
 </em></p>
 
 ---
