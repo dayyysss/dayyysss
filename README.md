@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time." — Steve Jobs
+  "You play the hand you're dealt. I think the game's worthwhile.  " — Christopher Reeve
 </em></p>
 
 ---
