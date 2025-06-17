@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You don't know who is important to you until you actually lose them." — Mahatma Gandhi
+  "As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma
 </em></p>
 
 ---
