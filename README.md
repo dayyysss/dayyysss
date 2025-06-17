@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Goodness is the only investment that never fails." — Henry David Thoreau
+  "Your setback is just a setup for a comeback." — Steve Harvey
 </em></p>
 
 ---
