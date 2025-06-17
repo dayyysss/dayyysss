@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold." — Elon Musk
+  "Respect is earned by effort not age, all things age without effort." — C. Sean McGee
 </em></p>
 
 ---
