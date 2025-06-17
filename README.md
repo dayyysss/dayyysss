@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Respect is earned by effort not age, all things age without effort." — C. Sean McGee
+  "The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions." — Steve Maraboli
 </em></p>
 
 ---
