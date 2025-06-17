@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Great things happen to those who don't stop believing, trying, learning, and being grateful." — Roy T. Bennett
+  "There are dark shadows on the earth, but its lights are stronger in the contrast." — Charles Dickens
 </em></p>
 
 ---
