@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking." — Johann Wolfgang von Goethe
+  "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha
 </em></p>
 
 ---
