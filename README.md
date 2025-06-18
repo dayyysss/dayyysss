@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Work harder on yourself than you do on your job." — Jim Rohn
+  "I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein
 </em></p>
 
 ---
