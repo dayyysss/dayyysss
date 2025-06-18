@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is love and love is life." — Elvis Presley
+  "Do not look upon this world with fear and loathing. Bravely face whatever the gods offer." — Morihei Ueshiba
 </em></p>
 
 ---
