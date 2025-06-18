@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha
+  "An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind." — Ayn Rand
 </em></p>
 
 ---
