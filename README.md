@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I am thankful to all who said no to me. It is because of them that I'm doing it myself." — Albert Einstein
+  "The secret of happiness is not in doing what you like but in liking what you have to do." — Sathya Sai Baba
 </em></p>
 
 ---
