@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A hut full of laughter is richer than a palace full of sadness." — Zen Proverb
+  "Looking after my health today gives me a better hope for tomorrow. " — Anne Wilson Schaef
 </em></p>
 
 ---
