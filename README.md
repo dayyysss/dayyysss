@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung
+  "Confidence is consistency of thinking about what is possible and how to make it possible." — John Eliot
 </em></p>
 
 ---
