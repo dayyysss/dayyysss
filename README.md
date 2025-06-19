@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't be afraid to give up the good to go for the great." — John D. Rockefeller
+  "No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung
 </em></p>
 
 ---
