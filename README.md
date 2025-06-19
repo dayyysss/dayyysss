@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fishing is much more than fish." — Herbert Hoover
+  "The only time you run out of chances is when you stop taking them." — Unknown
 </em></p>
 
 ---
