@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Death is not sad; the sad thing is that most people don't really live at all." — Dan Millman
+  "Don't be afraid to give up the good to go for the great." — John D. Rockefeller
 </em></p>
 
 ---
