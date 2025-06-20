@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown
+  "When we have our body and mind in order, everything else will exist in the right place, in the right way." — Shunryu Suzuki
 </em></p>
 
 ---
