@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Change is hardest at the beginning, messiest in the middle and best at the end." — Robin Sharma
+  "Life has more imagination than we carry in our dreams." — Christopher Columbus
 </em></p>
 
 ---
