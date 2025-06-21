@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We need never be ashamed of our tears." — Charles Dickens
+  "Circumstances rule men; men do not rule circumstances. " — Herodotus
 </em></p>
 
 ---
