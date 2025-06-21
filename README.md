@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Art is the signature of civilizations. " — Beverly Sills
+  "Never do to others what you would not like them to do to you. " — Confucius
 </em></p>
 
 ---
