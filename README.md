@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Who you are is defined by what you're willing to struggle for." — Mark Manson
+  "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith
 </em></p>
 
 ---
