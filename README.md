@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I do not exist to impress the world. I exist to live my life in a way that will make me happy." — Richard Bach
+  "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " — Ray Bradbury
 </em></p>
 
 ---
