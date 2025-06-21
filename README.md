@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  " — Ray Bradbury
+  "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." — Maya Angelou
 </em></p>
 
 ---
