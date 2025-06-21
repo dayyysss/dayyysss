@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Change is not a four letter word...but often your reaction to it is!" — Jeffrey Gitomer
+  "Who you are is defined by what you're willing to struggle for." — Mark Manson
 </em></p>
 
 ---
