@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every time we liberate a woman, we liberate a man. " — Margaret Mead
+  "The temptation to give up is strongest just before victory." — Zen Proverb
 </em></p>
 
 ---
