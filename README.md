@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life happens in the river, not the shore." — Maxime Lagace
+  "Until we can manage time, we can manage nothing else." — Peter Drucker
 </em></p>
 
 ---
