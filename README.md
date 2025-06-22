@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn
+  "Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard
 </em></p>
 
 ---
