@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Whatever your mind can conceive and believe, it can achieve." — Napoleon Hill
+  "You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn
 </em></p>
 
 ---
