@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You have a brain and mind of your own. Use it, and reach your own decisions." — Napoleon Hill
+  "A man is but a product of his thoughts. What he thinks he becomes." — Mahatma Gandhi
 </em></p>
 
 ---
