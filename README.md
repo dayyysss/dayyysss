@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are not only responsible for what you say, but also for what you do not say. " — Martin Luther
+  "True it is, we only hate those whom we do not know." — Andrew Carnegie
 </em></p>
 
 ---
