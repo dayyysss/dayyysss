@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You will succeed because most people are lazy." — Shahir Zag
+  "Being in a good frame of mind helps keep one in the picture of health." — Unknown
 </em></p>
 
 ---
