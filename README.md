@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man is but a product of his thoughts. What he thinks he becomes." — Mahatma Gandhi
+  "Words are clothes that thoughts wear" — Samuel Butler
 </em></p>
 
 ---
