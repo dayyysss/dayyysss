@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Challenge yourself to find the good and beautiful thing inside of everyone." — Mark Manson
+  "Instead of being intimidated by the limitations, be inspired to find new ways around them." — Ralph Marston
 </em></p>
 
 ---
