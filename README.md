@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Forever is composed of now's." — Emily Dickinson
+  "Kindness is a language which the deaf can hear and the blind can see." — Mark Twain
 </em></p>
 
 ---
