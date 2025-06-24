@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowledge isn't power until it is applied." — Dale Carnegie
+  "The healthiest response to life is joy." — Deepak Chopra
 </em></p>
 
 ---
