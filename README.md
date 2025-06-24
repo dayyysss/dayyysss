@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't waste time on excuses. Just get it done." — Ralph Marston
+  "A man who dares to waste one hour of time has not discovered the value of life." — Charles Darwin
 </em></p>
 
 ---
