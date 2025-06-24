@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In peace, sons bury their fathers. In war, fathers bury their sons. " — Herodotus
+  "Show me a hero, and I'll write you a tragedy." — F. Scott Fitzgerald
 </em></p>
 
 ---
