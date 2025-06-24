@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Open your mind before your mouth." — Aristophanes
+  "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." — Elbert Hubbard
 </em></p>
 
 ---
