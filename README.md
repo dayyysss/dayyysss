@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind." — Dr. Seuss
+  "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." — Henry David Thoreau
 </em></p>
 
 ---
