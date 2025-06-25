@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness." — Eckhart Tolle
+  "Learn to sit back and observe, not everything needs a reaction." — Unknown
 </em></p>
 
 ---
