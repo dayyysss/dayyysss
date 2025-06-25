@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No man is happy unless he believes he is." — Publilius Syrus
+  "The trouble with the rat race is that even if you win, you're still a rat." — Lily Tomlin
 </em></p>
 
 ---
