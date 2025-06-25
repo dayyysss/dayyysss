@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes." — A.A. Milne
+  "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view." — Alfred Adler
 </em></p>
 
 ---
