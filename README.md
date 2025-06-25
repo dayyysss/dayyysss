@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every man is guilty of all the good he did not do. " — Voltaire
+  "To achieve, you need thought. You have to know what you are doing and that's real power." — Ayn Rand
 </em></p>
 
 ---
