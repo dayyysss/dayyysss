@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The trouble with the rat race is that even if you win, you're still a rat." — Lily Tomlin
+  "Be who you are and say what you feel because those who mind don't matter and those who matter don't mind." — Dr. Seuss
 </em></p>
 
 ---
