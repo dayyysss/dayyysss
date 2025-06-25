@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder
+  "A mistake is only an error, it becomes a mistake when you fail to correct it." — John Lennon
 </em></p>
 
 ---
