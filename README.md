@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To achieve, you need thought. You have to know what you are doing and that's real power." — Ayn Rand
+  "If you think adventure is dangerous, try routine; it is lethal." — Paulo Coelho
 </em></p>
 
 ---
