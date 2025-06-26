@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wise people, even though all laws were abolished, would still lead the same life." — Aristophanes
+  "There are dark shadows on the earth, but its lights are stronger in the contrast." — Charles Dickens
 </em></p>
 
 ---
