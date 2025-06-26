@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Empty yourself of everything - let the mind become still." — Lao Tzu
+  "Light a candle instead of cursing the darkness." — Eleanor Roosevelt
 </em></p>
 
 ---
