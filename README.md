@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Light a candle instead of cursing the darkness." — Eleanor Roosevelt
+  "Some people are old at 18 and some are young at 90. Time is a concept that humans created." — Yoko Ono
 </em></p>
 
 ---
