@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The very essence of instinct is that it's followed independently of reason." — Charles Darwin
+  "A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu
 </em></p>
 
 ---
