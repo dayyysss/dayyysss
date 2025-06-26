@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu
+  "Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn
 </em></p>
 
 ---
