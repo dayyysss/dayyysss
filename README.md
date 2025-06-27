@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All our dreams can come true, if we have the courage to pursue them." — Walt Disney
+  "Lying can never save us from another lie." — Vaclav Havel
 </em></p>
 
 ---
