@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He will win who knows when to fight and when not to fight." — Sun Tzu
+  "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." — Abraham Lincoln
 </em></p>
 
 ---
