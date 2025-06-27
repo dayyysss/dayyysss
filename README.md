@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never argue with ignorance. It only leads to frustration." — Unknown
+  "Happiness is the absence of the striving for happiness." — Zhuangzi
 </em></p>
 
 ---
