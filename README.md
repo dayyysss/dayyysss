@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Perfection is not attainable, but if we chase perfection we can catch excellence." — Vince Lombardi
+  "In the midst of movement and chaos, keep stillness inside of you." — Deepak Chopra
 </em></p>
 
 ---
