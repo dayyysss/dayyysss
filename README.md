@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Motivation is what gets you started. Habit is what keeps you going." — Jim Rohn
+  "You are never too old to set another goal or to dream a new dream." — Les Brown
 </em></p>
 
 ---
