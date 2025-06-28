@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Rewards and punishment is the lowest form of education." — Zhuangzi
+  "Setting goals is the first step in turning the invisible into the visible." — Tony Robbins
 </em></p>
 
 ---
