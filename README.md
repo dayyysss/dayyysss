@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless." — Deepak Chopra
+  "The farther backward you can look, the farther forward you are likely to see." — Winston Churchill
 </em></p>
 
 ---
