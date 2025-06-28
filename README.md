@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All life is a manifestation of the spirit, the manifestation of love." — Morihei Ueshiba
+  "Stop being tormented by everyone else's reaction to you." — Joyce Meyer
 </em></p>
 
 ---
