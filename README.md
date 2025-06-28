@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Make your life a mission - not an intermission." — Unknown
+  "Some people find fault like there is a reward for it.  " — Zig Ziglar
 </em></p>
 
 ---
