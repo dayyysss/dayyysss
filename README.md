@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." — Zig Ziglar
+  "When you know what you want, and you want it bad enough, you will find a way to get it." — Jim Rohn
 </em></p>
 
 ---
