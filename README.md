@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If life were predictable it would cease to be life, and be without flavor." — Eleanor Roosevelt
+  "The greatest of all mistakes is to do nothing because you think you can only do a little.  " — Zig Ziglar
 </em></p>
 
 ---
