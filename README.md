@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Muddy water is best cleared by leaving it alone." — Alan Watts
+  "When you judge others, you do not define them, you define yourself." — Earl Nightingale
 </em></p>
 
 ---
