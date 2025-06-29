@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A leader leads by example, not by force." — Sun Tzu
+  "Circumstances do not make the man, they reveal him." — James Allen
 </em></p>
 
 ---
