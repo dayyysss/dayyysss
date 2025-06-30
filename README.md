@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown
+  "When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar
 </em></p>
 
 ---
