@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To avoid criticism, do nothing, say nothing, and be nothing." — Elbert Hubbard
+  "Some people are old at 18 and some are young at 90. Time is a concept that humans created." — Yoko Ono
 </em></p>
 
 ---
