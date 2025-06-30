@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Circumstances do not make the man, they reveal him." — James Allen
+  "It is far easier to start something than it is to finish it." — Amelia Earhart
 </em></p>
 
 ---
