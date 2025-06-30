@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Some people are old at 18 and some are young at 90. Time is a concept that humans created." — Yoko Ono
+  "Getting lost along your path is a part of finding the path you are meant to be on." — Robin Sharma
 </em></p>
 
 ---
