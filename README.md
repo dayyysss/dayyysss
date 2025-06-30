@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Simplicity is the glory of expression." — Walt Whitman
+  "The more we have the less we own." — Meister Eckhart
 </em></p>
 
 ---
