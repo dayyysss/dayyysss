@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All things come into being by conflict of opposites." — Heraclitus
+  "One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " — Margaret Mead
 </em></p>
 
 ---
