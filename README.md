@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest discovery of all time is that a person can change their future by merely changing their attitude." — Oprah Winfrey
+  "In order to carry a positive action, we must develop here a positive vision." — Dalai Lama
 </em></p>
 
 ---
