@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing good ever comes of violence." — Martin Luther
+  "We are all born ignorant, but one must work hard to remain stupid." — Benjamin Franklin
 </em></p>
 
 ---
