@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man's worth is no greater than his ambitions." — Marcus Aurelius
+  "A Quitter never wins - and - a Winner never quits." — Napoleon Hill
 </em></p>
 
 ---
