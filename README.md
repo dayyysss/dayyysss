@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you don't make things happen then things will happen to you." — Robert Collier
+  "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." — Zig Ziglar
 </em></p>
 
 ---
