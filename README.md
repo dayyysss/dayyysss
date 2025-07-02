@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not fear failure but rather fear not trying." — Roy T. Bennett
+  "If you don't make things happen then things will happen to you." — Robert Collier
 </em></p>
 
 ---
