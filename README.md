@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "How to get more opportunity: Create more opportunity for others." — Jack Butcher
+  "A man's worth is no greater than his ambitions." — Marcus Aurelius
 </em></p>
 
 ---
