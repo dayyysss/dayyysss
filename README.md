@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness is pretty simple: someone to love, something to do, something to look forward to." — Rita Mae Brown
+  "There is nothing like looking if you want to find something." — J.R.R. Tolkien
 </em></p>
 
 ---
