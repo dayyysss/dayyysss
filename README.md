@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Many people spend more time looking at their failures than focusing on their successes." — Lolly Daskal
+  "Do not bite at the bait of pleasure, till you know there is no hook beneath it." — Thomas Jefferson
 </em></p>
 
 ---
