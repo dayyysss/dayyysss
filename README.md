@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Beware of false knowledge, it is more dangerous than ignorance." — George Bernard Shaw
+  "The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli
 </em></p>
 
 ---
