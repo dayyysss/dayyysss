@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A fool sees himself as another, but a wise man sees others as himself." — Dogen
+  "Many people spend more time looking at their failures than focusing on their successes." — Lolly Daskal
 </em></p>
 
 ---
