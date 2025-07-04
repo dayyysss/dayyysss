@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is nothing like looking if you want to find something." — J.R.R. Tolkien
+  "Believe you can and you will be halfway there." — Lolly Daskal
 </em></p>
 
 ---
