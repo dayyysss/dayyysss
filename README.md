@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To get angry is like to revenge yourself for the guilt of others." — Jonathan Swift
+  "From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka
 </em></p>
 
 ---
