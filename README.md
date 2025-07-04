@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. " — Nikola Tesla
+  "Our view of the world is truly shaped by what we decide to hear." — William James
 </em></p>
 
 ---
