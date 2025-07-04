@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our view of the world is truly shaped by what we decide to hear." — William James
+  "It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho
 </em></p>
 
 ---
