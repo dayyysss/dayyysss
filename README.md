@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. " — Charles Swindoll
+  "Either you run the day or the day runs you." — Jim Rohn
 </em></p>
 
 ---
