@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr.
+  "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — Celestine Chua
 </em></p>
 
 ---
