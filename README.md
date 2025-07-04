@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Believe you can and you will be halfway there." — Lolly Daskal
+  "People become attached to their burdens sometimes more than the burdens are attached to them." — George Bernard Shaw
 </em></p>
 
 ---
