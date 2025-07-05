@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A gentleman accepts the responsibility of his actions and bears the burden of their consequences." — William Faulkner
+  "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." — Carl Jung
 </em></p>
 
 ---
