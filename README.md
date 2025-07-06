@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's much better to do good in a way that no one knows anything about it." — Leo Tolstoy
+  "Don't wait for the right opportunity: create it." — George Bernard Shaw
 </em></p>
 
 ---
