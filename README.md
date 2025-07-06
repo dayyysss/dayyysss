@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Why do you stay in prison when the door is so wide open?" — Rumi
+  "If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown
 </em></p>
 
 ---
