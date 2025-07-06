@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The number one cause of failure is the fear of failure." — Steve Harvey
+  "Being wrong opens us up to the possibility of change." — Mark Manson
 </em></p>
 
 ---
