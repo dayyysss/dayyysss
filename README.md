@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn
+  "When it comes to mastering a skill, time is the magic ingredient." — Robert Greene
 </em></p>
 
 ---
