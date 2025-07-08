@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace
+  "She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa
 </em></p>
 
 ---
