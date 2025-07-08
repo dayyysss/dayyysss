@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon
+  "Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace
 </em></p>
 
 ---
