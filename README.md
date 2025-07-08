@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't be afraid that you do not know something. Be afraid of not learning about it." — Zen Proverb
+  "This is such a short and precious life that it's really important that you don't spend it being unhappy." — Naval Ravikant
 </em></p>
 
 ---
