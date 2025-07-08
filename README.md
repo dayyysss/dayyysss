@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa
+  "Don't listen to the person who has the answers; listen to the person who has the questions." — Albert Einstein
 </em></p>
 
 ---
