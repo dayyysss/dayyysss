@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not ignore the passion that burns in you. Spend time to discover your gift." — Steve Harvey
+  "If we all did the things we are capable of doing, we would literally astound ourselves." — Thomas Edison
 </em></p>
 
 ---
