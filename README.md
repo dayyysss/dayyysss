@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I can live without money, but I cannot live without love." — Judy Garland
+  "Don´t hesitate or allow yourself to make excuses. Just get out and do it." — Christopher McCandless
 </em></p>
 
 ---
