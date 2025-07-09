@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is a long lesson in humility. " — James Matthew Barrie
+  "You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously." — Steve Maraboli
 </em></p>
 
 ---
