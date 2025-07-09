@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are no accidents... there is only some purpose that we haven't yet understood." — Deepak Chopra
+  "Fear of death is fear of the Unknown." — Adi Da Samraj
 </em></p>
 
 ---
