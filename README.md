@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A clear conscience is the sure sign of a bad memory." — Mark Twain
+  "Aim for the moon. If you miss, you may hit a star." — W. Clement Stone
 </em></p>
 
 ---
