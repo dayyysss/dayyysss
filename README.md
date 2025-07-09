@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Aim for the moon. If you miss, you may hit a star." — W. Clement Stone
+  "There are no accidents... there is only some purpose that we haven't yet understood." — Deepak Chopra
 </em></p>
 
 ---
