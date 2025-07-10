@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Pleasure in the job puts perfection in the work." — Aristotle
+  "We are like islands in the sea, separate on the surface but connected in the deep." — William James
 </em></p>
 
 ---
