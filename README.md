@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The goal of an artist is to create the definitive work that cannot be surpassed." — George Bernard Shaw
+  "The dead receive more flowers than the living because regret is stronger than gratitude." — Anne Frank
 </em></p>
 
 ---
