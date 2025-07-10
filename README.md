@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Where focus goes, energy flows." — Tony Robbins
+  "Instead of thinking outside the box, get rid of the box." — Deepak Chopra
 </em></p>
 
 ---
