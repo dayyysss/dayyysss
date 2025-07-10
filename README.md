@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Anything you may hold firmly in your imagination can be yours." — William James
+  "Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant
 </em></p>
 
 ---
