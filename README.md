@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are no ordinary moments." — Dan Millman
+  "Where focus goes, energy flows." — Tony Robbins
 </em></p>
 
 ---
