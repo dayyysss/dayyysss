@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To be calm is the highest achievement of the self." — Zen Proverb
+  "The idea of ourselves is our escape from the fact of what we really are." — Jiddu Krishnamurti
 </em></p>
 
 ---
