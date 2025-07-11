@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The idea of ourselves is our escape from the fact of what we really are." — Jiddu Krishnamurti
+  "The eye with which I see God is the same eye with which God sees me." — Meister Eckhart
 </em></p>
 
 ---
