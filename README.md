@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The eye with which I see God is the same eye with which God sees me." — Meister Eckhart
+  "Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides
 </em></p>
 
 ---
