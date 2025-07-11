@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "While some of us act without thinking, too many of us think without acting." — Dan Millman
+  "The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant
 </em></p>
 
 ---
