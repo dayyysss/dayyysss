@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Anger exceeding limits causes fear and excessive kindness eliminates respect." — Euripides
+  "Stop comparing yourself to others and focus on your own improvement." — Lolly Daskal
 </em></p>
 
 ---
