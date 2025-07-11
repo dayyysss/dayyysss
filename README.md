@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We must create our own world or we will die from inaction." — Robert Greene
+  "The single biggest problem in communication is the illusion that it has taken place." — George Bernard Shaw
 </em></p>
 
 ---
