@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." — Roy T. Bennett
+  "It is in your moments of decision that your destiny is shaped." — Tony Robbins
 </em></p>
 
 ---
