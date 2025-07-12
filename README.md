@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley
+  "You will have bad times, but they will always wake you up to the stuff you weren't paying attention to." — Robin Williams
 </em></p>
 
 ---
