@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You will have bad times, but they will always wake you up to the stuff you weren't paying attention to." — Robin Williams
+  "The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts
 </em></p>
 
 ---
