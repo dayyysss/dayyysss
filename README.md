@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence
+  "Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey." — Roy T. Bennett
 </em></p>
 
 ---
