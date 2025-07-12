@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All leaders are readers." — Jim Rohn
+  "My sun sets to rise again." — Robert Browning
 </em></p>
 
 ---
