@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's easy to be a critic, but being a doer requires effort, risk, and change.  " — Wayne Dyer
+  "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett
 </em></p>
 
 ---
