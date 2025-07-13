@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu
+  "You can do two things at once, but you can't focus effectively on two things at once." — Gary Keller
 </em></p>
 
 ---
