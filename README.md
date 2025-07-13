@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He suffers more than necessary, who suffers before it is necessary.  " — Seneca
+  "Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu
 </em></p>
 
 ---
