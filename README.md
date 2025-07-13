@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A fear of weakness only strengthens weakness." — Criss Jami
+  "To avoid criticism, do nothing, say nothing, and be nothing." — Elbert Hubbard
 </em></p>
 
 ---
