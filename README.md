@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Show up even when you don't want to show up." — Steve Harvey
+  "Hope means hoping when everything seems hopeless." — Gilbert Chesterton
 </em></p>
 
 ---
