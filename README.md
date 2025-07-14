@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Words without actions are the assassins of idealism." — Herbert Hoover
+  "We have no more right to consume happiness without producing it than to consume wealth without producing it." — George Bernard Shaw
 </em></p>
 
 ---
