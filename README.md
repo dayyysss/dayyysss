@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A thing must be loved before it is lovable." — Gilbert Chesterton
+  "One never does wrong by doing right." — Norman Vincent Peale
 </em></p>
 
 ---
