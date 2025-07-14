@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon
+  "A zen master's life is one continuous mistake." — Dogen
 </em></p>
 
 ---
