@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Creativity is the greatest rebellion in existence." — Osho
+  "Far more crucial than what we know or do not know is what we do not want to know." — Eric Hoffer
 </em></p>
 
 ---
