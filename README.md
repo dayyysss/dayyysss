@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All our knowledge has its origins in our perceptions." — Leonardo da Vinci
+  "Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn
 </em></p>
 
 ---
