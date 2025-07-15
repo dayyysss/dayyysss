@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Love is not about possession. Love is about appreciation." — Osho
+  "Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail." — Arnold Schwarzenegger
 </em></p>
 
 ---
