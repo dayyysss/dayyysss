@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing that results in human progress is achieved with unanimous consent." — Christopher Columbus
+  "The outer conditions of a person's life will always be found to reflect their inner beliefs." — James Allen
 </em></p>
 
 ---
