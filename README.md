@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I cannot do great things. I can do small things in a great way." — Martin Luther King, Jr.
+  "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — Earl Nightingale
 </em></p>
 
 ---
