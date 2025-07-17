@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is peace even in the storm." — Vincent van Gogh
+  "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." — Charles Dickens
 </em></p>
 
 ---
