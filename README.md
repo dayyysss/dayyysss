@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wisdom is doing now what you are going to be happy with later on." — Joyce Meyer
+  "You're braver than you believe, and stronger than you seem, and smarter than you think." — A.A. Milne
 </em></p>
 
 ---
