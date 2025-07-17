@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you." — Norman Vincent Peale
+  "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality." — Brian Tracy
 </em></p>
 
 ---
