@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly." — Marcus Aurelius
+  "It is our experiences that mold us into who we are...during times of adversity our true character will show." — Unknown
 </em></p>
 
 ---
