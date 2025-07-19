@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never fear quarrels, but seek hazardous adventures." — Alexandre Dumas
+  "Smile, breathe and go slowly." — Thich Nhat Hanh
 </em></p>
 
 ---
