@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We must accept finite disappointment, but never lose infinite hope." — Martin Luther King, Jr.
+  "No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung
 </em></p>
 
 ---
