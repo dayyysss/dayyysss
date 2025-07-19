@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nourish the mind like you would your body. The mind cannot survive on junk food." — Brian Tracy
+  "Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries." — Amelia Earhart
 </em></p>
 
 ---
