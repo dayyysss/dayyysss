@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Charms strike the sight, but merit wins the soul." — Alexander Pope
+  "If you need inspiration, don't do it." — Elon Musk
 </em></p>
 
 ---
