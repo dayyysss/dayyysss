@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries." — Amelia Earhart
+  "It ain't where you start in life, it's where you end up, and what you did along the way." — Colin Powell
 </em></p>
 
 ---
