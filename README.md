@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley
+  "Work as though you would live forever, and live as though you would die today. Go another mile." — Og Mandino
 </em></p>
 
 ---
