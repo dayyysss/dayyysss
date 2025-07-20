@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you." — Paramahansa Yogananda
+  "You are not what you think you are, You are not what others think you are, You are what you think others think you are." — Unknown
 </em></p>
 
 ---
