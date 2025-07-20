@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Peace of mind is that mental condition in which you have accepted the worst." — Lin Yutang
+  "Fallacies do not cease to be fallacies because they become fashions." — Gilbert Chesterton
 </em></p>
 
 ---
