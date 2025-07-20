@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enjoy life. There's plenty of time to be dead." — Hans Christian Andersen
+  "It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore
 </em></p>
 
 ---
