@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life doesn't get easier or more forgiving, we get stronger and more resilient." — Steve Maraboli
+  "Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn
 </em></p>
 
 ---
