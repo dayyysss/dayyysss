@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything has beauty but not everyone sees it." — Confucius
+  "It is better to offer no excuse than a bad one. " — George Washington
 </em></p>
 
 ---
