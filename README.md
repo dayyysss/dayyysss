@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing ever goes away until it has taught us what we need to know." — Pema Chodron
+  "It is passion that makes man live; wisdom makes one only last." — Nicolas Chamfort
 </em></p>
 
 ---
