@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You will not do incredible things without an incredible dream." — John Eliot
+  "Nothing ever goes away until it has taught us what we need to know." — Pema Chodron
 </em></p>
 
 ---
