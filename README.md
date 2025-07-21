@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not why the addiction but why the pain." — Gabor Mate
+  "Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — Roy T. Bennett
 </em></p>
 
 ---
