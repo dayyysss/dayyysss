@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you let your head get too big, it'll break your neck." — Elvis Presley
+  "There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience." — Deepak Chopra
 </em></p>
 
 ---
