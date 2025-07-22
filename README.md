@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton
+  "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today." — Thich Nhat Hanh
 </em></p>
 
 ---
