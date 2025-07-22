@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long." — Elon Musk
+  "Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton
 </em></p>
 
 ---
