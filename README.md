@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Turn off your mind, relax, and float downstream." — John Lennon
+  "If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla
 </em></p>
 
 ---
