@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Good things aren't supposed to just fall into your lap." — Audrey Hepburn
+  "A dream you dream alone is only a dream. A dream you dream together is reality." — Yoko Ono
 </em></p>
 
 ---
