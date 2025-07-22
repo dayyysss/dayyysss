@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The heart that gives, gathers." — Lao Tzu
+  "Good things aren't supposed to just fall into your lap." — Audrey Hepburn
 </em></p>
 
 ---
