@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people." — Roy T. Bennett
+  "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " — Samuel Beckett
 </em></p>
 
 ---
