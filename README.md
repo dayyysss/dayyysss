@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enthusiasm makes up for a host of deficiencies." — Barack Obama
+  "Ideas do not reach perfection in a day, no matter how much study is put upon them." — Alexander Graham Bell
 </em></p>
 
 ---
