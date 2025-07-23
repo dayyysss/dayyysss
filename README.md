@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "True wealth is of the heart, not of the purse." — Og Mandino
+  "You cannot teach a crab to walk straight." — Aristophanes
 </em></p>
 
 ---
