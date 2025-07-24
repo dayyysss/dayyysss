@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not all those who wander are lost." — J.R.R. Tolkien
+  "You need a plan to build a house. To build a life, it is even more important to have a plan or goal." — Zig Ziglar
 </em></p>
 
 ---
