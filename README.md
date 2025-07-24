@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enthusiasm is a vital element toward the individual success of every man or woman." — Conrad Hilton
+  "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." — Ralph Waldo Emerson
 </em></p>
 
 ---
