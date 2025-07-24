@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What you become is far more important than what you get." — Jim Rohn
+  "There is no sadder sight than a young pessimist." — Mark Twain
 </em></p>
 
 ---
