@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is better to fail in originality than to succeed in imitation." — Herman Melville
+  "Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with." — Woody Allen
 </em></p>
 
 ---
