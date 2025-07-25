@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Optimism, when applied to your life, develops strength and peace within you." — Norman Vincent Peale
+  "Out of your vulnerabilities will come your strength." — Sigmund Freud
 </em></p>
 
 ---
