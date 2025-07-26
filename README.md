@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If we did all the things we are capable of, we would literally astound ourselves." — Thomas Edison
+  "I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — Mother Teresa
 </em></p>
 
 ---
