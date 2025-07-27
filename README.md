@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." — Ralph Waldo Emerson
+  "A clear conscience is the sure sign of a bad memory." — Mark Twain
 </em></p>
 
 ---
