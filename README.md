@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Growth is in a series of mistakes. That's the only way you learn." — Steve Harvey
+  "Human happiness and moral duty are inseparably connected. " — George Washington
 </em></p>
 
 ---
