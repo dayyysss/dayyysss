@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Go as far as you can see and you will see further.  " — Zig Ziglar
+  "Be regular and orderly in your life, so that you may be violent and original in your work." — Gustave Flaubert
 </em></p>
 
 ---
