@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "They who have conquered doubt and fear have conquered failure." — James Allen
+  "The traveler sees what he sees. The tourist sees what he has come to see." — Gilbert Chesterton
 </em></p>
 
 ---
