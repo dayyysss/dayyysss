@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Begin at once to live, and count each separate day as a separate life.  " — Seneca
+  "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive." — Anne Wilson Schaef
 </em></p>
 
 ---
