@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Supreme excellence consists of breaking the enemy's resistance without fighting." — Sun Tzu
+  "The grass is greener where you water it." — Neil Barringham
 </em></p>
 
 ---
