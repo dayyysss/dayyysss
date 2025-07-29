@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every limit is a beginning as well as an ending." — George Eliot
+  "The harder the conflict, the greater the triumph. " — George Washington
 </em></p>
 
 ---
