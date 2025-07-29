@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To be calm is the highest achievement of the self." — Zen Proverb
+  "The important thing is not what one is born with but what use one makes of that equipment." — Alfred Adler
 </em></p>
 
 ---
