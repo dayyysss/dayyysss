@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You're on earth. There's no cure for that." — Samuel Beckett
+  "Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. " — George Washington
 </em></p>
 
 ---
