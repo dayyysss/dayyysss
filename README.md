@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The future depends on what you do today. " — Mahatma Gandhi
+  "If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated." — Celestine Chua
 </em></p>
 
 ---
