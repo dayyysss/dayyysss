@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn
+  "People think you're crazy if you talk about things they don't understand." — Elvis Presley
 </em></p>
 
 ---
