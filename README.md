@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy
+  "The one who praises you is a thief. The one who criticizes you is your true friend." — Seungsahn
 </em></p>
 
 ---
