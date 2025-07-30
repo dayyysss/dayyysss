@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If it's not broken, tinker with it till you find out how it works." — Bob Proctor
+  "Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy
 </em></p>
 
 ---
