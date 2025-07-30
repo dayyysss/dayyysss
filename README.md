@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You play the hand you're dealt. I think the game's worthwhile.  " — Christopher Reeve
+  "Be patient and calm; no one can catch fish in anger." — Herbert Hoover
 </em></p>
 
 ---
