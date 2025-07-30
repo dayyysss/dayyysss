@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge." — Stephen Hawking
+  "Be strong. Be confident. Be the star of your own life." — Estee Lauder
 </em></p>
 
 ---
