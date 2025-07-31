@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Any fool can paint a picture, but it takes a wise man to be able to sell it." — Samuel Butler
+  "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems." — Robert Kiyosaki
 </em></p>
 
 ---
