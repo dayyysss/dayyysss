@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama
+  "No kind action ever stops with itself. One kind action leads to another. Good example is followed." — Amelia Earhart
 </em></p>
 
 ---
