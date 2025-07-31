@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Confidence is contagious. So is lack of confidence." — Vince Lombardi
+  "The more often a stupidity is repeated, the more it gets the appearance of wisdom." — Voltaire
 </em></p>
 
 ---
