@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not why the addiction but why the pain." — Gabor Mate
+  "There are no mistakes in life, only lessons." — Robin Sharma
 </em></p>
 
 ---
