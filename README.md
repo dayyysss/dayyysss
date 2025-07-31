@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I can think of nothing less pleasurable than a life devoted to pleasure." — John D. Rockefeller
+  "Not why the addiction but why the pain." — Gabor Mate
 </em></p>
 
 ---
