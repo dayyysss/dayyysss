@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I don't walk away from things that I think are unfinished." — Arnold Schwarzenegger
+  "Do not fear failure but rather fear not trying." — Roy T. Bennett
 </em></p>
 
 ---
