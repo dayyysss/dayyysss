@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do not use life to give life to death. Do not use death to bring death to life." — Zhuangzi
+  "It is useless to meet revenge with revenge; it will heal nothing." — J.R.R. Tolkien
 </em></p>
 
 ---
