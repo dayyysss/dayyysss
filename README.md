@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Little by little, one travels far." — J.R.R. Tolkien
+  "Light a candle instead of cursing the darkness." — Eleanor Roosevelt
 </em></p>
 
 ---
