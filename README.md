@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing is impossible. The word itself says 'I'm possible!'" — Audrey Hepburn
+  "Too many of us are not living our dreams because we are living our fears." — Les Brown
 </em></p>
 
 ---
