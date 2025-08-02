@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Poetry is written with tears, fiction with blood, and history with invisible ink." — Carlos Ruiz Zafon
+  "Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is." — Nicolas Chamfort
 </em></p>
 
 ---
