@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon
+  "If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form." — Paramahansa Yogananda
 </em></p>
 
 ---
