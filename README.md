@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The busy man is never wise and the wise man is never busy." — Lin Yutang
+  "Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace
 </em></p>
 
 ---
