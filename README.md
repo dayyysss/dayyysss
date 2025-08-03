@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." — Helen Keller
+  "Do the difficult things while they are easy and do the great things while they are small." — Lao Tzu
 </em></p>
 
 ---
