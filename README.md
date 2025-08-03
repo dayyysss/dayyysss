@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The question is not what you look at, but what you see." — Henry David Thoreau
+  "Passion is born deaf and dumb." — Honore de Balzac
 </em></p>
 
 ---
