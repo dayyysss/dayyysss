@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only person you should try to be better than is the person you were yesterday." — Brian Tracy
+  "Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone
 </em></p>
 
 ---
