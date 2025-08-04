@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Self-knowledge is the beginning of self-correction." — Norman Vincent Peale
+  "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." — James Matthew Barrie
 </em></p>
 
 ---
