@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No man is happy unless he believes he is." — Publilius Syrus
+  "Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb
 </em></p>
 
 ---
