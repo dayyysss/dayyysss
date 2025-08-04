@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All cruelty springs from weakness.  " — Seneca
+  "The eyes of others our prisons; their thoughts our cages." — Virginia Woolf
 </em></p>
 
 ---
