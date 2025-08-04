@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone
+  "Deliberately seek the company of people who influence you to think and act on building the life you desire." — Napoleon Hill
 </em></p>
 
 ---
