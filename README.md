@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb
+  "Strive for excellence, not perfection, because we don't live in a perfect world." — Joyce Meyer
 </em></p>
 
 ---
