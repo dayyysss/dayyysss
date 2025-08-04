@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb
+  "Self-knowledge is the beginning of self-correction." — Norman Vincent Peale
 </em></p>
 
 ---
