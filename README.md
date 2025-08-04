@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more something scares you, the more you should do it." — Mark Manson
+  "The only person you should try to be better than is the person you were yesterday." — Brian Tracy
 </em></p>
 
 ---
