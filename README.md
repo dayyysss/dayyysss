@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert
+  "The best revenge is to be unlike him who performed the injury." — Marcus Aurelius
 </em></p>
 
 ---
