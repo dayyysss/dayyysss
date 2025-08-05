@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Truth is such a rare thing, it is delighted to tell it." — Emily Dickinson
+  "We must have strong minds, ready to accept facts as they are." — Harry S. Truman
 </em></p>
 
 ---
