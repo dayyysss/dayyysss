@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Exceptional thinkers ignore their critics and go about their business making history." — John Eliot
+  "Life must be a constant education; one must learn everything, from speaking to dying." — Gustave Flaubert
 </em></p>
 
 ---
