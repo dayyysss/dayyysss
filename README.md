@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you don't like something change it. If you can't change it, change your attitude about it. Don't complain." — Maya Angelou
+  "Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb
 </em></p>
 
 ---
