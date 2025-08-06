@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's the unknown we fear when we look upon death and darkness, nothing more." — Albus Dumbledore
+  "If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan
 </em></p>
 
 ---
