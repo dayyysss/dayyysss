@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you do the work you get rewarded. There are no shortcuts in life." — Michael Jordan
+  "Know yourself and you will win all battles." — Sun Tzu
 </em></p>
 
 ---
