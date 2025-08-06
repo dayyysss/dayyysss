@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you change what you believe, you change what you do." — Spencer Johnson
+  "Don't criticize what you can't understand. " — Bob Dylan
 </em></p>
 
 ---
