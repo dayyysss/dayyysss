@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Throughout this life, you can never be certain of living long enough to take another breath." — Zen Proverb
+  "The greatest weariness comes from work not done." — Eric Hoffer
 </em></p>
 
 ---
