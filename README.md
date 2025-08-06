@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer
+  "Do not fear failure but rather fear not trying." — Roy T. Bennett
 </em></p>
 
 ---
