@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Make no small plans for they have no power to stir the soul." — Niccolo Machiavelli
+  "Information changes your mind. Action changes your circumstances." — Jack Butcher
 </em></p>
 
 ---
