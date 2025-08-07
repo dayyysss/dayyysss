@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People think you're crazy if you talk about things they don't understand." — Elvis Presley
+  "In order to carry a positive action, we must develop here a positive vision." — Dalai Lama
 </em></p>
 
 ---
