@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Surrender to what is. Let go of what was. Have faith in what will be." — Sonia Ricotti
+  "The difference between impossible and possible is a willing heart." — Lolly Daskal
 </em></p>
 
 ---
