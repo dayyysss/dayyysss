@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "So long as we are being remembered, we remain alive." — Carlos Ruiz Zafon
+  "When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar
 </em></p>
 
 ---
