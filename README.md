@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Storms don't last forever." — Unknown
+  "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha
 </em></p>
 
 ---
