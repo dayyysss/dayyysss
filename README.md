@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no path to Happiness. Happiness is the path." — Dan Millman
+  "Those who look for the bad in people will surely find it." — Abraham Lincoln
 </em></p>
 
 ---
