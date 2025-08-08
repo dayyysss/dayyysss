@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The road to success is always under construction." — Steve Harvey
+  "Fear is your worst enemy. Risk is your best friend." — Gurbaksh Chahal
 </em></p>
 
 ---
