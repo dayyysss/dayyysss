@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no value in anything until it is finished. " — Genghis Khan
+  "No man is free who is not master of himself." — Epictetus
 </em></p>
 
 ---
