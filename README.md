@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you want something in life, you just gotta reach out and grab it." — Christopher McCandless
+  "The Truth is realized in an instant; the Act is practiced step by step." — Seungsahn
 </em></p>
 
 ---
