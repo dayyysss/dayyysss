@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The Truth is realized in an instant; the Act is practiced step by step." — Seungsahn
+  "Older men declare war. But it is youth that must fight and die." — Herbert Hoover
 </em></p>
 
 ---
