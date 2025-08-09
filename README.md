@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Human beings can alter their lives by altering their attitudes of mind." — William James
+  "When you want something in life, you just gotta reach out and grab it." — Christopher McCandless
 </em></p>
 
 ---
