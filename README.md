@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Older men declare war. But it is youth that must fight and die." — Herbert Hoover
+  "Get mad, then get over it." — Colin Powell
 </em></p>
 
 ---
