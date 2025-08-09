@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Because a thing seems difficult for you, do not think it impossible." — Marcus Aurelius
+  "Success is never final, failure is never fatal. It's courage that counts." — John Wooden
 </em></p>
 
 ---
