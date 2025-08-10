@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You may think I'm small, but I have a universe inside my mind." — Yoko Ono
+  "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." — Zig Ziglar
 </em></p>
 
 ---
