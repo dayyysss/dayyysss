@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only reason to be alive is to enjoy it." — Rita Mae Brown
+  "Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
 </em></p>
 
 ---
