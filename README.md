@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't seek, don't search, don't ask, don't knock, don't demand - relax." — Osho
+  "Happiness is not the absence of problems, it's the ability to deal with them." — Steve Maraboli
 </em></p>
 
 ---
