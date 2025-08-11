@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest deception men suffer is from their own opinions." — Leonardo da Vinci
+  "If you're waiting until you feel talented enough to make it, you'll never make it." — Criss Jami
 </em></p>
 
 ---
