@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Patience expands your options. If you insist on immediate gratification, your choices are severely limited." — Ralph Marston
+  "Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso
 </em></p>
 
 ---
