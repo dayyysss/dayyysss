@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Each time we don't say what we wanna say, we're dying." — Yoko Ono
+  "Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton
 </em></p>
 
 ---
