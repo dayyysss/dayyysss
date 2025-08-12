@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The prettiest eyes have cried the most." — Unknown
+  "When you are able to employ your will always for constructive purposes, you become the controller of your destiny." — Paramahansa Yogananda
 </em></p>
 
 ---
