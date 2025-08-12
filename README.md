@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your home is where your thoughts find peace." — Zen Proverb
+  "Once a decision was made, I didn't worry about it afterward." — Harry S. Truman
 </em></p>
 
 ---
