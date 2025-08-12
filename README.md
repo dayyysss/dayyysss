@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The salvation of the world lies in the human heart." — Vaclav Havel
+  "Why compare yourself with others? No one in the entire world can do a better job of being you than you." — Unknown
 </em></p>
 
 ---
