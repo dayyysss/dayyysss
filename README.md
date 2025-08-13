@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A real friend is one who walks in when the rest of the world walks out." — Unknown
+  "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself." — William Faulkner
 </em></p>
 
 ---
