@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man is literally what he thinks." — James Allen
+  "Simple words, repeated daily, can change your life." — Maxime Lagace
 </em></p>
 
 ---
