@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you can change your mind, you can change your life." — William James
+  "The more I want to get something done, the less I call it work." — Richard Bach
 </em></p>
 
 ---
