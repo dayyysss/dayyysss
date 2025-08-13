@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself." — William Faulkner
+  "Never waste a minute of your precious life thinking about people you don't like." — Celestine Chua
 </em></p>
 
 ---
