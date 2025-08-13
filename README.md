@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." — Benjamin Mays
+  "A real friend is one who walks in when the rest of the world walks out." — Unknown
 </em></p>
 
 ---
