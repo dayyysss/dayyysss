@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who look for the bad in people will surely find it." — Abraham Lincoln
+  "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." — Josh Waitzkin
 </em></p>
 
 ---
