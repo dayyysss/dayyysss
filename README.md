@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "As mortals, we're ruled by conditions, not by ourselves." — Bodhidharma
+  "You can, you should, and if you're brave enough to start, you will." — Stephen King
 </em></p>
 
 ---
