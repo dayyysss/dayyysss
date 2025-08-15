@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is a poor teacher." — Robert Kiyosaki
+  "Always forgive your enemies - nothing annoys them so much. " — Oscar Wilde
 </em></p>
 
 ---
