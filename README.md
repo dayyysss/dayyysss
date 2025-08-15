@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never let your memories be greater than your dreams." — Doug Ivester
+  "No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb
 </em></p>
 
 ---
