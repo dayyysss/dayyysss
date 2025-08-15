@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can, you should, and if you're brave enough to start, you will." — Stephen King
+  "Success is a poor teacher." — Robert Kiyosaki
 </em></p>
 
 ---
