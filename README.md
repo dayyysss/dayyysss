@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." — Albus Dumbledore
+  "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard
 </em></p>
 
 ---
