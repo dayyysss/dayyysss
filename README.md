@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest." — Josh Waitzkin
+  "I no doubt deserved my enemies, but I don't believe I deserved my friends." — Walt Whitman
 </em></p>
 
 ---
