@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The man who does not value himself, cannot value anything or anyone." — Ayn Rand
+  "The most difficult times for many of us are the ones we give ourselves." — Pema Chodron
 </em></p>
 
 ---
