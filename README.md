@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The worst part of success is trying to find someone who is happy for you." — Bette Midler
+  "We are always complaining that our days are few, and acting as though there would be no end of them.  " — Seneca
 </em></p>
 
 ---
