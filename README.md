@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our greatest glory is not in never falling, but in rising every time we fall. " — Confucius
+  "Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard
 </em></p>
 
 ---
