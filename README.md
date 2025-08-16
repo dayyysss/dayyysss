@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do it with passion, or not at all." — Rosa Nouchette Carey
+  "TEAMWORK: the fuel that allows common people attain uncommon results." — Andrew Carnegie
 </em></p>
 
 ---
