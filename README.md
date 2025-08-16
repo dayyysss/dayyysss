@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Art is the signature of civilizations. " — Beverly Sills
+  "Thinking will not overcome fear but action will. " — W. Clement Stone
 </em></p>
 
 ---
