@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A rational person can find peace by cultivating indifference to things outside of their control." — Naval Ravikant
+  "The power to make and break habits and learning how to do that is really important." — Naval Ravikant
 </em></p>
 
 ---
