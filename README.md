@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The temptation to give up is strongest just before victory." — Zen Proverb
+  "Only by acceptance of the past, can you alter it." — T.S. Eliot
 </em></p>
 
 ---
