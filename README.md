@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't change your mind just because people are offended; change your mind if you're wrong." — Criss Jami
+  "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." — Celestine Chua
 </em></p>
 
 ---
