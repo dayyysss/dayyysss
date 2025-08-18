@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Learning is a gift, even when pain is your teacher." — Michael Jordan
+  "If you pray for rain, be prepared to deal with some mud." — Mary Engelbreit
 </em></p>
 
 ---
