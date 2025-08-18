@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who seek the easy way do not seek the true way." — Dogen
+  "If you want something new, you have to stop doing something old." — Peter Drucker
 </em></p>
 
 ---
