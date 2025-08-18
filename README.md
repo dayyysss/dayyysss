@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Any game becomes important when you know and love the players." — W.P. Kinsella
+  "The whole is greater than the sum of its parts." — Aristotle
 </em></p>
 
 ---
