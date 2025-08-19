@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not all those who wander are lost." — J.R.R. Tolkien
+  "Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." — Ming-Dao Deng
 </em></p>
 
 ---
