@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell
+  "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time." — T.S. Eliot
 </em></p>
 
 ---
