@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Always do your best. What you plant now, you will harvest later." — Og Mandino
+  "Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett
 </em></p>
 
 ---
