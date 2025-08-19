@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po
+  "Given the choice between the experience of pain and nothing, I would choose pain." — William Faulkner
 </em></p>
 
 ---
