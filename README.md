@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Not all readers are leaders, but all leaders are readers." — Harry S. Truman
+  "The most important thing is to enjoy your life, to be happy, it's all that matters." — Audrey Hepburn
 </em></p>
 
 ---
