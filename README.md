@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. " — Charles Swindoll
+  "Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po
 </em></p>
 
 ---
