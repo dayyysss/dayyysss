@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder
+  "The temptation to give up is strongest just before victory." — Zen Proverb
 </em></p>
 
 ---
