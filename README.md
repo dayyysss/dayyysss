@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives." — Betty White
+  "Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder
 </em></p>
 
 ---
