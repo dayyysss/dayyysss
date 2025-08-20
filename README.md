@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant
+  "The power of human thought grows exponentially with the number of minds that share that thought." — Dan Brown
 </em></p>
 
 ---
