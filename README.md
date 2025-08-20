@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Insanity is relative. It depends on who has who locked in what cage.  " — Ray Bradbury
+  "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus
 </em></p>
 
 ---
