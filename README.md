@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can put lipstick on a pig. It's still a pig." — Barack Obama
+  "To a mind that is still, the entire universe surrenders." — Zhuangzi
 </em></p>
 
 ---
