@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We are like islands in the sea, separate on the surface but connected in the deep." — William James
+  "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." — Mark Twain
 </em></p>
 
 ---
