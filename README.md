@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. " — Steve Jobs
+  "Hope is not a strategy. Luck is not a factor. Fear is not an option." — James Cameron
 </em></p>
 
 ---
