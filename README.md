@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Freedom is the open window through which pours the sunlight of the human spirit and human dignity." — Herbert Hoover
+  "The farther backward you can look, the farther forward you are likely to see." — Winston Churchill
 </em></p>
 
 ---
