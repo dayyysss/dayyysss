@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more we have the less we own." — Meister Eckhart
+  "In order to attain the impossible, one must attempt the absurd." — Miguel de Cervantes
 </em></p>
 
 ---
