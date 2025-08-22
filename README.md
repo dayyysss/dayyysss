@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus
+  "You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius
 </em></p>
 
 ---
