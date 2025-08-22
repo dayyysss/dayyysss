@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "With the new day comes new strength and new thoughts." — Eleanor Roosevelt
+  "Don't give up on your dreams, or your dreams will give up on you." — John Wooden
 </em></p>
 
 ---
