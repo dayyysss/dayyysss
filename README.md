@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Changing minds is harder than finding people who already agree." — Jack Butcher
+  "When you are able to employ your will always for constructive purposes, you become the controller of your destiny." — Paramahansa Yogananda
 </em></p>
 
 ---
