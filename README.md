@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The very essence of instinct is that it's followed independently of reason." — Charles Darwin
+  "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will." — Epictetus
 </em></p>
 
 ---
