@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell
+  "We can have more than we've got because we can become more than we are." — Jim Rohn
 </em></p>
 
 ---
