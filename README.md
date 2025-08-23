@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We lie the loudest when we lie to ourselves." — Eric Hoffer
+  "You are never too old to set another goal or to dream a new dream." — Les Brown
 </em></p>
 
 ---
