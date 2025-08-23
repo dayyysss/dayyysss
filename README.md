@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are never too old to set another goal or to dream a new dream." — Les Brown
+  "Never allow someone to be your priority while allowing yourself to be their option." — Mark Twain
 </em></p>
 
 ---
