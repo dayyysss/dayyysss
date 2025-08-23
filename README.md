@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing will work unless you do." — Maya Angelou
+  "We lie the loudest when we lie to ourselves." — Eric Hoffer
 </em></p>
 
 ---
