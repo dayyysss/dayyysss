@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." — Albus Dumbledore
+  "The more you lose yourself in something bigger than yourself, the more energy you will have." — Norman Vincent Peale
 </em></p>
 
 ---
