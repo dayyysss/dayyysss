@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you lose yourself in something bigger than yourself, the more energy you will have." — Norman Vincent Peale
+  "No problem can be solved from the same level of consciousness that created it." — Albert Einstein
 </em></p>
 
 ---
