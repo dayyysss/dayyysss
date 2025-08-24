@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell
+  "Life is not a problem to be solved, but a reality to be experienced." — Soren Kierkegaard
 </em></p>
 
 ---
