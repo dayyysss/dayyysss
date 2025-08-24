@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." — Nicolas Chamfort
+  "Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard." — Colin Powell
 </em></p>
 
 ---
