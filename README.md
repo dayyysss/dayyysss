@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no absolute success in the world, only constant progress." — Jonathan Swift
+  "Coming together is a beginning, staying together is progress, and working together is success. " — Henry Ford
 </em></p>
 
 ---
