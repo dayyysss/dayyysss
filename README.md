@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — Elbert Hubbard
+  "Sometimes you will never know the value of something, until it becomes a memory." — Dr. Seuss
 </em></p>
 
 ---
