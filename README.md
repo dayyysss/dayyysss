@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King
+  "Argue for your limitations and sure enough, they're yours." — Richard Bach
 </em></p>
 
 ---
