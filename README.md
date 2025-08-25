@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is an essence of when you are fearless, you become more creative." — Gurbaksh Chahal
+  "It's your life-but only if you make it so." — Eleanor Roosevelt
 </em></p>
 
 ---
