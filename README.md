@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Argue for your limitations and sure enough, they're yours." — Richard Bach
+  "Failure is acceptable. Not trying is a whole different ball park." — Michael Jordan
 </em></p>
 
 ---
