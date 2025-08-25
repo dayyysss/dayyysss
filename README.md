@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who bring sunshine into the lives of others cannot keep it from themselves." — James Matthew Barrie
+  "You can never cross the ocean unless you have the courage to lose sight of the shore." — Christopher Columbus
 </em></p>
 
 ---
