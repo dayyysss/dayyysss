@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If we are not able to smile, then the world will not have peace." — Thich Nhat Hanh
+  "Be thankful for everything that happens in your life; it's all an experience." — Roy T. Bennett
 </em></p>
 
 ---
