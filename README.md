@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Words used to attract the dull of wit are not to be relied on." — Huang Po
+  "The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind." — F. Scott Fitzgerald
 </em></p>
 
 ---
