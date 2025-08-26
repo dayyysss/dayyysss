@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be thankful for everything that happens in your life; it's all an experience." — Roy T. Bennett
+  "The more you praise and celebrate your life, the more there is in life to celebrate. " — Oprah Winfrey
 </em></p>
 
 ---
