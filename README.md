@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you praise and celebrate your life, the more there is in life to celebrate. " — Oprah Winfrey
+  "We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita
 </em></p>
 
 ---
