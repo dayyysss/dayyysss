@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Start each day with a positive thought and a grateful heart." — Roy T. Bennett
+  "Forget safety. Live where you fear to live." — Rumi
 </em></p>
 
 ---
