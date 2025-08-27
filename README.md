@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Judge a man by his questions rather than his answers." — Voltaire
+  "I hear and I forget. I see and I remember. I do and I understand. " — Confucius
 </em></p>
 
 ---
