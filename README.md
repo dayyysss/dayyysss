@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Take into account that great love and great achievements involve great risk." — Dalai Lama
+  "I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone
 </em></p>
 
 ---
