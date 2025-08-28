@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I have never in my life learned anything from any man who agreed with me." — Dudley Field Malone
+  "Life goes by fast. Enjoy it. Calm down. It's all funny." — Joan Rivers
 </em></p>
 
 ---
