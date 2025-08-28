@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is a traveling to the edge of knowledge, then a leap taken." — D. H. Lawrence
+  "To know even one life has breathed easier because you have lived. This is to have succeeded." — Ralph Waldo Emerson
 </em></p>
 
 ---
