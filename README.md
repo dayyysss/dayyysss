@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water." — Buddha
+  "Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba
 </em></p>
 
 ---
