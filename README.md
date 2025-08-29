@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our greatest glory is not in never falling, but in rising every time we fall. " — Confucius
+  "Life is not meant to be easy my child, but take courage: it can be delightful." — George Bernard Shaw
 </em></p>
 
 ---
