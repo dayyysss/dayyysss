@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart." — Helen Keller
+  "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." — Wayne Gretzky
 </em></p>
 
 ---
