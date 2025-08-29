@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowing others is wisdom, knowing yourself is enlightenment." — Lao Tzu
+  "To be of use to the world is the only way to be happy." — Hans Christian Andersen
 </em></p>
 
 ---
