@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba
+  "Knowing others is wisdom, knowing yourself is enlightenment." — Lao Tzu
 </em></p>
 
 ---
