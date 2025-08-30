@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Change happens when the pain of holding on becomes greater than the fear of letting go." — Spencer Johnson
+  "Cherish forever what makes you unique, cuz you're really a yawn if it goes." — Bette Midler
 </em></p>
 
 ---
