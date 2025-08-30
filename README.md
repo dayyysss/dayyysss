@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is better to offer no excuse than a bad one. " — George Washington
+  "If you genuinely want something, don't wait for it - teach yourself." — Gurbaksh Chahal
 </em></p>
 
 ---
