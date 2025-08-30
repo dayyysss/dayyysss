@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Listen to the secret sound, the real sound, which is inside you." — Kabir
+  "All power is from within and therefore under our control." — Robert Collier
 </em></p>
 
 ---
