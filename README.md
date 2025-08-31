@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Until you make the unconscious conscious, it will direct your life and you will call it fate." — Carl Jung
+  "Nothing will work unless you do." — Maya Angelou
 </em></p>
 
 ---
