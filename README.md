@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Whoever is happy will make others happy too." — Anne Frank
+  "I can live without money, but I cannot live without love." — Judy Garland
 </em></p>
 
 ---
