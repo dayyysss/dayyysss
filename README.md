@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Words used to attract the dull of wit are not to be relied on." — Huang Po
+  "Before anything else, preparation is the key to success." — Alexander Graham Bell
 </em></p>
 
 ---
