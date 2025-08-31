@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Try not to become a man of success, but rather try to become a man of value." — Albert Einstein
+  "Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window." — Peter Drucker
 </em></p>
 
 ---
