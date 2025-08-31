@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Before anything else, preparation is the key to success." — Alexander Graham Bell
+  "Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn
 </em></p>
 
 ---
