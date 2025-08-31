@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your dream has to be bigger than your fear." — Steve Harvey
+  "We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin
 </em></p>
 
 ---
