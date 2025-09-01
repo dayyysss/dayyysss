@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Respect other people's feelings. It might mean nothing to you, but it could mean everything to them." — Roy T. Bennett
+  "In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists." — Eric Hoffer
 </em></p>
 
 ---
