@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates
+  "The less you talk about your shame, the more of it you have." — Mark Manson
 </em></p>
 
 ---
