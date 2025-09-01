@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Circumstances do not make the man, they reveal him." — James Allen
+  "The more we have the less we own." — Meister Eckhart
 </em></p>
 
 ---
