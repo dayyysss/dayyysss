@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sometimes out of your biggest misery, comes your greatest gain." — Steve Harvey
+  "If you get up one more time than you fall, you will make it through." — Chinese Proverb
 </em></p>
 
 ---
