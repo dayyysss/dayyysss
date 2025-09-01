@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The smallest act of kindness is worth more than the greatest intention.  " — Kahlil Gibran
+  "Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates
 </em></p>
 
 ---
