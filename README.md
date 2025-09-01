@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you get up one more time than you fall, you will make it through." — Chinese Proverb
+  "Do not wait for leaders; do it alone, person to person." — Mother Teresa
 </em></p>
 
 ---
