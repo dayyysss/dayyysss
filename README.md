@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists." — Eric Hoffer
+  "Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon
 </em></p>
 
 ---
