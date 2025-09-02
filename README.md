@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Courage is fear that has said its prayers and decided to go forward anyway." — Joyce Meyer
+  "Things turn out best for the people who make the best of the way things turn out." — John Wooden
 </em></p>
 
 ---
