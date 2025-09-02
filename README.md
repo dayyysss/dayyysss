@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every time we liberate a woman, we liberate a man. " — Margaret Mead
+  "It is easier to fight for one's principles than to live up to them. " — Alfred Adler
 </em></p>
 
 ---
