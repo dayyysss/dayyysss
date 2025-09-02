@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can't climb the ladder of success with your hands in your pockets." — Arnold Schwarzenegger
+  "If there's a definition of freedom, I think it's this: living life on your terms." — Kamal Ravikant
 </em></p>
 
 ---
