@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is." — Eckhart Tolle
+  "Looking after my health today gives me a better hope for tomorrow. " — Anne Wilson Schaef
 </em></p>
 
 ---
