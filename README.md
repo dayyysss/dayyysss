@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." — Confucius
+  "Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po
 </em></p>
 
 ---
