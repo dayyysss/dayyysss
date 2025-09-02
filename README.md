@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Things turn out best for the people who make the best of the way things turn out." — John Wooden
+  "A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." — Confucius
 </em></p>
 
 ---
