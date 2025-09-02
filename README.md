@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No valid plans for the future can be made by those who have no capacity for living now." — Alan Watts
+  "You can't climb the ladder of success with your hands in your pockets." — Arnold Schwarzenegger
 </em></p>
 
 ---
