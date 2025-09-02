@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is never too late to be what you might have been." — George Eliot
+  "The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is." — Eckhart Tolle
 </em></p>
 
 ---
