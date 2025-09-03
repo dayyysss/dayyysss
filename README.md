@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You must be willing to do what others won't do, to have what others won't have." — Les Brown
+  "Life is like a wheel. Sooner or later, it always comes around to where you started again." — Stephen King
 </em></p>
 
 ---
