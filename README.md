@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We must have strong minds, ready to accept facts as they are." — Harry S. Truman
+  "To live is the rarest thing in the world. Most people exist, that is all. " — Oscar Wilde
 </em></p>
 
 ---
