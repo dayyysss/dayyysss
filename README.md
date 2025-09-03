@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw
+  "Why do you stay in prison when the door is so wide open?" — Rumi
 </em></p>
 
 ---
