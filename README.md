@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We are all born ignorant, but one must work hard to remain stupid." — Benjamin Franklin
+  "Guilt is perhaps the most painful companion of death." — Coco Chanel
 </em></p>
 
 ---
