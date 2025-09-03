@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The majority of what you want will come from the minority of what you do." — Gary Keller
+  "The worst part of success is trying to find someone who is happy for you." — Bette Midler
 </em></p>
 
 ---
