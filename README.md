@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sadness is but a wall between two gardens." — Kahlil Gibran
+  "A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." — Alexander Graham Bell
 </em></p>
 
 ---
