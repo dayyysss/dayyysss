@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is like underwear, should be changed twice a day.  " — Ray Bradbury
+  "I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry." — Tony Robbins
 </em></p>
 
 ---
