@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Talent is luck. The important thing in life is courage." — Woody Allen
+  "Freedom from desire leads to inner peace." — Lao Tzu
 </em></p>
 
 ---
