@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Successful people ask better questions, and as a result, they get better answers." — Tony Robbins
+  "Nothing can survive without food. Everything we consume acts either to heal us or to poison us." — Thich Nhat Hanh
 </em></p>
 
 ---
