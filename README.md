@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown
+  "Talent is luck. The important thing in life is courage." — Woody Allen
 </em></p>
 
 ---
