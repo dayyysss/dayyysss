@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He who knows how to wait need make no concessions." — Sigmund Freud
+  "Do something to move yourself toward your major goal every day." — Brian Tracy
 </em></p>
 
 ---
