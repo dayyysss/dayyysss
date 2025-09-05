@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The quality of your life is determined by the quality of questions you ask." — Tony Robbins
+  "Decide what your truth is. Then live it." — Kamal Ravikant
 </em></p>
 
 ---
