@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't learn to do, but learn in doing." — Samuel Butler
+  "Convinced myself, I seek not to convince." — Edgar Allan Poe
 </em></p>
 
 ---
