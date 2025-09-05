@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be kind whenever possible. It is always possible." — Dalai Lama
+  "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor." — Thich Nhat Hanh
 </em></p>
 
 ---
