@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never trust he who trusts everyone." — Carlos Ruiz Zafon
+  "Your dream has to be bigger than your fear." — Steve Harvey
 </em></p>
 
 ---
