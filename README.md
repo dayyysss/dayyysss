@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The roots of education are bitter, but the fruit is sweet." — Aristotle
+  "In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills
 </em></p>
 
 ---
