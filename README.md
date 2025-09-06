@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't be afraid to give up the good to go for the great." — John D. Rockefeller
+  "Imagination is everything. It is the preview of life's coming attractions." — Albert Einstein
 </em></p>
 
 ---
