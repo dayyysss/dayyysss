@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — Roy T. Bennett
+  "The roots of education are bitter, but the fruit is sweet." — Aristotle
 </em></p>
 
 ---
