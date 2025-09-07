@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Only when I fall do I get up again." — Vincent van Gogh
+  "You are the average of the five people you spend the most time with." — Jim Rohn
 </em></p>
 
 ---
