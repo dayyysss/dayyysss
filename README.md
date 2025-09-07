@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad." — Harry S. Truman
+  "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
 </em></p>
 
 ---
