@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your gift is something that you can do innately better than anything else." — Steve Harvey
+  "Successful people appreciate where they have come from, but they don't let their past set the tone for their future." — Steve Harvey
 </em></p>
 
 ---
