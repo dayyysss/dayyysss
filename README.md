@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Where you are right now doesn't have to determine where you'll end up." — Barack Obama
+  "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett
 </em></p>
 
 ---
