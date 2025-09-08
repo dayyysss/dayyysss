@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you." — Norman Vincent Peale
+  "Never argue with stupid people, they will drag you down to their level and then beat you with experience." — Mark Twain
 </em></p>
 
 ---
