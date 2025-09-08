@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown
+  "Stop being a prisoner of your past. Become the architect of your future." — Robin Sharma
 </em></p>
 
 ---
