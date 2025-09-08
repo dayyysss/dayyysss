@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett
+  "Throughout this life, you can never be certain of living long enough to take another breath." — Huang Po
 </em></p>
 
 ---
