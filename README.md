@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our joy does not have to be based on our circumstances." — Joyce Meyer
+  "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy
 </em></p>
 
 ---
