@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Thinking will not overcome fear but action will. " — W. Clement Stone
+  "Identify your problems, but give your power and energy to solutions." — Tony Robbins
 </em></p>
 
 ---
