@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Things may come to those who wait, but only the things left by those who hustle." — Abraham Lincoln
+  "No need to hurry. No need to sparkle. No need to be anybody but oneself." — Virginia Woolf
 </em></p>
 
 ---
