@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Give out what you most want to come back." — Robin Sharma
+  "Invisible things are the only realities." — Edgar Allan Poe
 </em></p>
 
 ---
