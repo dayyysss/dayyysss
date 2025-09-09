@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All cruelty springs from weakness.  " — Seneca
+  "There are no second chances in life, except to feel remorse." — Carlos Ruiz Zafon
 </em></p>
 
 ---
