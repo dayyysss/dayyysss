@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Awaken. Take heed, do not squander your life." — Dogen
+  "Charms strike the sight, but merit wins the soul." — Alexander Pope
 </em></p>
 
 ---
