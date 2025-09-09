@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Dream big and dare to fail." — Norman Vaughan
+  "Awaken. Take heed, do not squander your life." — Dogen
 </em></p>
 
 ---
