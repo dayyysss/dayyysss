@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Invisible things are the only realities." — Edgar Allan Poe
+  "Success is going from failure to failure without losing your enthusiasm" — Winston Churchill
 </em></p>
 
 ---
