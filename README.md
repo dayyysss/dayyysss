@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I'd rather welcome change than cling to the past." — Robert Kiyosaki
+  "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you." — Peter Drucker
 </em></p>
 
 ---
