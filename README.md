@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Let us rather run the risk of wearing out than rusting out." — Theodore Roosevelt
+  "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control." — Epictetus
 </em></p>
 
 ---
