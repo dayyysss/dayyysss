@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing has more strength than dire necessity." — Euripides
+  "Anything worth doing is worth doing slowly." — Mae West
 </em></p>
 
 ---
