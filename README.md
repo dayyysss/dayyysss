@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Remember, today is the tomorrow you worried about yesterday." — Dale Carnegie
+  "Once you learn to quit, it becomes a habit." — Vince Lombardi
 </em></p>
 
 ---
