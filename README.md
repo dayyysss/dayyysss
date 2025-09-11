@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Confidence is what you have before you understand the problem." — Woody Allen
+  "Don't let them drag you down by rumors. Just go with what you believe in." — Michael Jordan
 </em></p>
 
 ---
