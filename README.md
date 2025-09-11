@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions." — Ming-Dao Deng
+  "Money poisons you when you've got it, and starves you when you haven't." — D. H. Lawrence
 </em></p>
 
 ---
