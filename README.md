@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Money poisons you when you've got it, and starves you when you haven't." — D. H. Lawrence
+  "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — Elon Musk
 </em></p>
 
 ---
