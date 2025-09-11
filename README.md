@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " — Margaret Mead
+  "We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita
 </em></p>
 
 ---
