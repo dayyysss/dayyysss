@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind." — Eckhart Tolle
+  "One of the oldest human needs is having someone to wonder where you are when you don't come home at night. " — Margaret Mead
 </em></p>
 
 ---
