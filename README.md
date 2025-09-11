@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Live, travel, adventure, bless, and don't be sorry.  " — Jack Kerouac
+  "The world makes way for the man who knows where he is going." — Ralph Waldo Emerson
 </em></p>
 
 ---
