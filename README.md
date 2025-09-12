@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Forgive those who have hurt you." — Les Brown
+  "If you are going to achieve excellence in big things, you develop the habit in little matters." — Colin Powell
 </em></p>
 
 ---
