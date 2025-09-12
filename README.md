@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you are going to achieve excellence in big things, you develop the habit in little matters." — Colin Powell
+  "Sometimes you will never know the value of something, until it becomes a memory." — Dr. Seuss
 </em></p>
 
 ---
