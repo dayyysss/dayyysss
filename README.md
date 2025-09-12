@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you want peace, accept. If you want suffering, expect." — Maxime Lagace
+  "To do two things at once is to do neither." — Publilius Syrus
 </em></p>
 
 ---
