@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't spend time beating on a wall, hoping to transform it into a door." — Coco Chanel
+  "Do not look for a sanctuary in anyone except your self." — Buddha
 </em></p>
 
 ---
