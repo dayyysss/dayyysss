@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you know, the more you know you don't know." — Aristotle
+  "If the grass is greener on the other side, maybe that's because you're not taking good care of your grass." — Unknown
 </em></p>
 
 ---
