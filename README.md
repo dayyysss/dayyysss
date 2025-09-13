@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He who knows how to wait need make no concessions." — Sigmund Freud
+  "In youth we run into difficulties. In old age difficulties run into us. " — Beverly Sills
 </em></p>
 
 ---
