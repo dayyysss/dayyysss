@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Attitude drives actions. Actions drive results. Results drive lifestyles." — Jim Rohn
+  "The greatest of empires, is the empire over one's self." — Publilius Syrus
 </em></p>
 
 ---
