@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "At every moment where language can't go, that's your mind." — Bodhidharma
+  "If it entertains you now but will bore you someday, it's a distraction. Keep looking." — Naval Ravikant
 </em></p>
 
 ---
