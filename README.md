@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest of empires, is the empire over one's self." — Publilius Syrus
+  "Not doing it is certainly the best way to not getting it.  " — Wayne Gretzky
 </em></p>
 
 ---
