@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I persist long enough I will win." — Og Mandino
+  "Sometimes you will never know the value of something, until it becomes a memory." — Dr. Seuss
 </em></p>
 
 ---
