@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Darkness is the absence of light." — Kamal Ravikant
+  "If I persist long enough I will win." — Og Mandino
 </em></p>
 
 ---
