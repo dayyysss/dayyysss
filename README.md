@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be like a postage stamp. Stick to it until you get there." — Bob Proctor
+  "Just because something isn't a lie does not mean that it isn't deceptive." — Criss Jami
 </em></p>
 
 ---
