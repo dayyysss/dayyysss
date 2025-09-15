@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all." — Dale Carnegie
+  "You are always your own best guru, your own best teacher, the answers are always inside you." — Sathya Sai Baba
 </em></p>
 
 ---
