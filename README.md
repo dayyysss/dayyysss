@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Riches don't make a man rich, they only make him busier." — Christopher Columbus
+  "Do not fight with pigs - you will be smeared in mud but the pig will like it." — George Bernard Shaw
 </em></p>
 
 ---
