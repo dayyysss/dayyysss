@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greater the impact you want to make, the greater your influence needs to be." — Lolly Daskal
+  "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'" — Brian Tracy
 </em></p>
 
 ---
