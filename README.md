@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our joy does not have to be based on our circumstances." — Joyce Meyer
+  "To be totally at leisure for one day is to be immortal for one day. " — Chinese Proverb
 </em></p>
 
 ---
