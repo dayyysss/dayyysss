@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Reversing your treatment of the man you have wronged is better than asking his forgiveness." — Elbert Hubbard
+  "What have you done today to make someone else happy?" — Deepam Chaterjee
 </em></p>
 
 ---
