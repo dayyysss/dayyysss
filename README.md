@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Rudeness is the weak man's imitation of strength." — Eric Hoffer
+  "The wise warrior avoids the battle." — Sun Tzu
 </em></p>
 
 ---
