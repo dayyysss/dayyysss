@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho
+  "Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac
 </em></p>
 
 ---
