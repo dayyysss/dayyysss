@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The man who moved the mountain was the one who began carrying away the smallest stones." — Zen Proverb
+  "Love your enemies, for they tell you your faults." — Benjamin Franklin
 </em></p>
 
 ---
