@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What have you done today to make someone else happy?" — Deepam Chaterjee
+  "We should not look back unless it is to derive useful lessons from past errors." — George Washington
 </em></p>
 
 ---
