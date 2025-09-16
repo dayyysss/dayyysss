@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson
+  "Do not take life too seriously. You will never get out of it alive." — Elbert Hubbard
 </em></p>
 
 ---
