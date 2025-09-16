@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The quality of your life is determined by the quality of questions you ask." — Tony Robbins
+  "We cannot always do great things in life, but we can do small things with great love." — Dan Millman
 </em></p>
 
 ---
