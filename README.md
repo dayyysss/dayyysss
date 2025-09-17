@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Failure is just information and an opportunity to change your course." — Oprah Winfrey
+  "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran
 </em></p>
 
 ---
