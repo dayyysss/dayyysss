@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We suffer more often in imagination than in reality.  " — Seneca
+  "I do not seek. I find." — Pablo Picasso
 </em></p>
 
 ---
