@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Action may not always bring happiness, but there is no happiness without action." — William James
+  "Work as though you would live forever, and live as though you would die today. Go another mile." — Og Mandino
 </em></p>
 
 ---
