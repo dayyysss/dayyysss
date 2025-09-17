@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is nothing quite so tragic as a young cynic." — Maya Angelou
+  "Blessed is he who expects nothing, for he shall never be disappointed." — Alexander Pope
 </em></p>
 
 ---
