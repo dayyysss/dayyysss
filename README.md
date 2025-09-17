@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To forget the whole world is easy; to make the whole world forget you is hard." — Zhuangzi
+  "Men are disturbed not by things, but by the view which they take of them." — Epictetus
 </em></p>
 
 ---
