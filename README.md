@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka
+  "Respect is earned by effort not age, all things age without effort." — C. Sean McGee
 </em></p>
 
 ---
