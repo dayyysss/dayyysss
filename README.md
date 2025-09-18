@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled." — Andrew Carnegie
+  "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people." — Jack Butcher
 </em></p>
 
 ---
