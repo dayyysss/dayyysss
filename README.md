@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A mountain never yields to the wind no matter how strong it is." — Zen Proverb
+  "From a certain point onward there is no longer any turning back. That is the point that must be reached." — Franz Kafka
 </em></p>
 
 ---
