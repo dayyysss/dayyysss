@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Obstacles don't block the path, they are the path." — Zen Proverb
+  "One of the most difficult things is not to change society - but to change yourself." — Nelson Mandela
 </em></p>
 
 ---
