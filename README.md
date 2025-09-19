@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The wisest men follow their own direction." — Euripides
+  "Do every act of your life as if it were your last." — Marcus Aurelius
 </em></p>
 
 ---
