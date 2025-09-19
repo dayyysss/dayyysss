@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Perseverance and spirit have done wonders in all ages. " — George Washington
+  "Conquer the devils with a little thing called love." — Bob Marley
 </em></p>
 
 ---
