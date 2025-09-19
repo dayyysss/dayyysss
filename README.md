@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One of the most difficult things is not to change society - but to change yourself." — Nelson Mandela
+  "My instinct is always to seek out challenges as opposed to avoiding them." — Josh Waitzkin
 </em></p>
 
 ---
