@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is better to be looked over than overlooked." — Mae West
+  "What the eye doesn't see and the mind doesn't know, doesn't exist." — D. H. Lawrence
 </em></p>
 
 ---
