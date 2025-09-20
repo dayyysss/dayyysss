@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller
+  "There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return." — Nelson Mandela
 </em></p>
 
 ---
