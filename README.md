@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The river that flows in you also flows in me." — Kabir
+  "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." — Eleanor Roosevelt
 </em></p>
 
 ---
