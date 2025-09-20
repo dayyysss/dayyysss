@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Who wishes to fight must first count the cost." — Sun Tzu
+  "The danger of an adventure is worth a thousand days of ease and comfort." — Paulo Coelho
 </em></p>
 
 ---
