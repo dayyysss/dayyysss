@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing." — Alan Watts
+  "We're kept from our goal not by obstacles, but by a clear path to a lesser goal." — Bhagavad Gita
 </em></p>
 
 ---
