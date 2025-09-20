@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Death smiles at us all. All we can do is smile back." — Marcus Aurelius
+  "You need to be doing fewer things for more effect instead of doing more things with side effects." — Gary Keller
 </em></p>
 
 ---
