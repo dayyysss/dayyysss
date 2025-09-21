@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's the possibility of having a dream come true that makes life interesting." — Paulo Coelho
+  "Confidence is what you have before you understand the problem." — Woody Allen
 </em></p>
 
 ---
