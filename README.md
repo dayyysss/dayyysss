@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more something threatens your identity, the more you will avoid it." — Mark Manson
+  "When something is important enough, you do it even if the odds are not in your favor." — Elon Musk
 </em></p>
 
 ---
