@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is well known that those who do not trust themselves never trust others." — Alfred Adler
+  "Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford
 </em></p>
 
 ---
