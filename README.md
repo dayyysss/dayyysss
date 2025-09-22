@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enthusiasm makes up for a host of deficiencies." — Barack Obama
+  "Your best life will not be found in comfort. It will be found in fighting for what you believe in." — Maxime Lagace
 </em></p>
 
 ---
