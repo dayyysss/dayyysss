@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — Colin Powell
+  "You don't get in life what you want; you get in life what you are." — Les Brown
 </em></p>
 
 ---
