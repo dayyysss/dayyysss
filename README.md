@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "All life is an experiment. The more experiments you make, the better." — Ralph Waldo Emerson
+  "In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." — James Allen
 </em></p>
 
 ---
