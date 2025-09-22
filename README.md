@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford
+  "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." — Celestine Chua
 </em></p>
 
 ---
