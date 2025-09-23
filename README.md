@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You miss 100% of the shots you don't take." — Wayne Gretzky
+  "Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt
 </em></p>
 
 ---
