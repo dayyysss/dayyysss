@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Judge your success by what you had to give up in order to get it." — Dalai Lama
+  "Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you." — Lao Tzu
 </em></p>
 
 ---
