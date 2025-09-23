@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never stand begging for that which you have the power to earn." — Miguel de Cervantes
+  "The price of inaction is far greater than the cost of making a mistake." — Meister Eckhart
 </em></p>
 
 ---
