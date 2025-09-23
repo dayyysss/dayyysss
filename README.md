@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I persist long enough I will win." — Og Mandino
+  "Pleasure in the job puts perfection in the work." — Aristotle
 </em></p>
 
 ---
