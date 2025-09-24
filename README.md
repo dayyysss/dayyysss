@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you want things to be different, perhaps the answer is to become different yourself." — Norman Vincent Peale
+  "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " — Franz Kafka
 </em></p>
 
 ---
