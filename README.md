@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Smell the cheese often so you know when it is getting old." — Spencer Johnson
+  "He who knows, does not speak. He who speaks, does not know." — Lao Tzu
 </em></p>
 
 ---
