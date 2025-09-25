@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts
+  "If you do what you've always done, you'll get what you've always gotten." — Tony Robbins
 </em></p>
 
 ---
