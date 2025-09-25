@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Humans and prosperity never endure side by side for long." — Herodotus
+  "Wealth consists not in having great possessions, but in having few wants." — Epictetus
 </em></p>
 
 ---
