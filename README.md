@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For the things we have to learn before we can do them, we learn by doing them." — Aristotle
+  "The only way to make sense out of change is to plunge into it, move with it, and join the dance." — Alan Watts
 </em></p>
 
 ---
