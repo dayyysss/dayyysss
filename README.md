@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wealth consists not in having great possessions, but in having few wants." — Epictetus
+  "For the things we have to learn before we can do them, we learn by doing them." — Aristotle
 </em></p>
 
 ---
