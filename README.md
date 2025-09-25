@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." — Steve Harvey
+  "If you want something new, you have to stop doing something old." — Peter Drucker
 </em></p>
 
 ---
