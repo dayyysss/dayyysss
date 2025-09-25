@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Numbing the pain for a while will make it worse when you finally feel it." — Albus Dumbledore
+  "Failure will never overtake me if my determination to succeed is strong enough." — Og Mandino
 </em></p>
 
 ---
