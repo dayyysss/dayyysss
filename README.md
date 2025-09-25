@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "But better die than live mechanically a life that is a repetition of repetitions." — D. H. Lawrence
+  "You can discover what your enemy fears most by observing the means he uses to frighten you." — Eric Hoffer
 </em></p>
 
 ---
