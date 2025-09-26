@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Truth is like most opinions - best unexpressed." — Kenneth Branagh
+  "Conscience is a man's compass. " — Vincent van Gogh
 </em></p>
 
 ---
