@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Loyalty and friendship are the most precious possessions a man can have." — Herbert Hoover
+  "Your goals are the road maps that guide you and show you what is possible for your life." — Les Brown
 </em></p>
 
 ---
