@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I defeat my enemies when I make them my friends." — Dalai Lama
+  "I believe that potential is unlimited - success depends on daring to act on dreams.   " — Estee Lauder
 </em></p>
 
 ---
