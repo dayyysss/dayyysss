@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never argue with ignorance. It only leads to frustration." — Unknown
+  "Friendship is one of the most tangible things in a world which offers fewer and fewer supports." — Kenneth Branagh
 </em></p>
 
 ---
