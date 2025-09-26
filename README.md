@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Being a good example is the best form of service." — Sathya Sai Baba
+  "When you are tough on yourself, life is going to be infinitely easier on you.  " — Zig Ziglar
 </em></p>
 
 ---
