@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you are going to achieve excellence in big things, you develop the habit in little matters." — Colin Powell
+  "You just can't beat the person who never gives up. " — Babe Ruth
 </em></p>
 
 ---
