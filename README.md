@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Make each day your masterpiece." — John Wooden
+  "It is better to learn late than never." — Publilius Syrus
 </em></p>
 
 ---
