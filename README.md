@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The act of taking the first step is what separates the winners from the losers." — Brian Tracy
+  "Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you." — Jeffrey Gitomer
 </em></p>
 
 ---
