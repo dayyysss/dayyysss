@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I do not exist to impress the world. I exist to live my life in a way that will make me happy." — Richard Bach
+  "Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot." — Wayne Gretzky
 </em></p>
 
 ---
