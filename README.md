@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Talk does not cook rice." — Chinese Proverb
+  "If no one ever broke the rules, then we'd never advance." — Simon Sinek
 </em></p>
 
 ---
