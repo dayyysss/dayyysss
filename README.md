@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "As a matter of fact is an expression that precedes many an expression that isn't." — Laurence J. Peter
+  "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." — Ming-Dao Deng
 </em></p>
 
 ---
