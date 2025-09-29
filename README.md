@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you're brave enough to say goodbye, life will reward you with a new hello." — Paulo Coelho
+  "When you rise in the morning, form a resolution to make the day a happy one for a fellow creature." — Sydney Smith
 </em></p>
 
 ---
