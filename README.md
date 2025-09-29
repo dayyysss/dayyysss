@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "True friendship ought never to conceal what it thinks. " — St. Jerome
+  "Embody what you teach, and teach only what you have embodied." — Dan Millman
 </em></p>
 
 ---
