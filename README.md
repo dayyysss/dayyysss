@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There's more to life than being a passenger." — Amelia Earhart
+  "The most important thing in communication is to hear what isn't being said." — Peter Drucker
 </em></p>
 
 ---
