@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Awakening is possible only for those who seek it and want it." — G.I. Gurdjieff
+  "Never say never, because limits, like fears, are often just an illusion." — Michael Jordan
 </em></p>
 
 ---
