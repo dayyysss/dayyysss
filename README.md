@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you have to be in a soap opera try not to be cast in the worst role." — Judy Garland
+  "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave." — Elvis Presley
 </em></p>
 
 ---
