@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It is our choices that show what we truly are, far more than our abilities." — Albus Dumbledore
+  "The more we have the less we own." — Meister Eckhart
 </em></p>
 
 ---
