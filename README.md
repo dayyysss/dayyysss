@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing like a health problem to turn up the contrast dial for the rest of life." — Naval Ravikant
+  "He who permits himself to tell a lie once, finds it much easier to do it the second time." — Thomas Jefferson
 </em></p>
 
 ---
