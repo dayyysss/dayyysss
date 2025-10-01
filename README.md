@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A person who does not read is no better than one cannot read." — Earl Nightingale
+  "Sometimes, the only way to evolve is to open ourselves fully." — Kamal Ravikant
 </em></p>
 
 ---
