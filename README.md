@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Hope means hoping when everything seems hopeless." — Gilbert Chesterton
+  "Learn to use your emotions to think, not think with your emotions." — Robert Kiyosaki
 </em></p>
 
 ---
