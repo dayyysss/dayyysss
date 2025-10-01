@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho
+  "The number one cause of failure is the fear of failure." — Steve Harvey
 </em></p>
 
 ---
