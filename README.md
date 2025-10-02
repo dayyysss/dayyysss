@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People inspire you, or they drain you. Pick them wisely." — Les Brown
+  "Your mind will make you rich or poor, depending on the use you put to it." — Brian Tracy
 </em></p>
 
 ---
