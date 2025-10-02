@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every moment of happiness requires a great amount of Ignorance" — Honore de Balzac
+  "The friendship that can cease has never been real. " — St. Jerome
 </em></p>
 
 ---
