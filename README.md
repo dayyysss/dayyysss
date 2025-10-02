@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One never does wrong by doing right." — Norman Vincent Peale
+  "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  " — Estee Lauder
 </em></p>
 
 ---
