@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When we have our body and mind in order, everything else will exist in the right place, in the right way." — Shunryu Suzuki
+  "In order to be walked over, you have to be lying down." — Celestine Chua
 </em></p>
 
 ---
