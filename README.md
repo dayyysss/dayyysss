@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you're afraid to die, you're afraid to live. You can't have one without the other." — Rita Mae Brown
+  "The first step toward getting somewhere is to decide that you are not going to stay where you are." — Unknown
 </em></p>
 
 ---
