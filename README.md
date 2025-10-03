@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Better to die fighting for freedom than be a prisoner all the days of your life." — Bob Marley
+  "The privilege of a lifetime is to become who you truly are." — Carl Jung
 </em></p>
 
 ---
