@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho
+  "Success is getting what you want... Happiness is wanting what you get." — Dale Carnegie
 </em></p>
 
 ---
