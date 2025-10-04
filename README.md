@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "First say to yourself what you would be; and then do what you have to do." — Epictetus
+  "The very essence of instinct is that it's followed independently of reason." — Charles Darwin
 </em></p>
 
 ---
