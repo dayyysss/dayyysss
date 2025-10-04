@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Forgive yourself for your faults and your mistakes and move on." — Les Brown
+  "First say to yourself what you would be; and then do what you have to do." — Epictetus
 </em></p>
 
 ---
