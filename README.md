@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about." — Franklin D. Roosevelt
+  "Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!" — Alfred Adler
 </em></p>
 
 ---
