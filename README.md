@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal
+  "Things turn out best for the people who make the best of the way things turn out." — John Wooden
 </em></p>
 
 ---
