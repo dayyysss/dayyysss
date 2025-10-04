@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The very essence of instinct is that it's followed independently of reason." — Charles Darwin
+  "Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal
 </em></p>
 
 ---
