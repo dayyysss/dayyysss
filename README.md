@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Only those who do nothing at all make no mistakes." — Unknown
+  "Forgive yourself for your faults and your mistakes and move on." — Les Brown
 </em></p>
 
 ---
