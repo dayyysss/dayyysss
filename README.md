@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more something threatens your identity, the more you will avoid it." — Mark Manson
+  "The fear of death is more to be feared, than death itself." — Publilius Syrus
 </em></p>
 
 ---
