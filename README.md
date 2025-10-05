@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson
+  "Inner peace is when you realize that, in the end, nothing matters." — Maxime Lagace
 </em></p>
 
 ---
