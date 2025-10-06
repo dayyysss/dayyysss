@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Never give up work. Work gives you meaning and purpose and life is empty without it." — Stephen Hawking
+  "You are not one person, but three: The one you think you are; The one others think you are; The one you really are." — Sathya Sai Baba
 </em></p>
 
 ---
