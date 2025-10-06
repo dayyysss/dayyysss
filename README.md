@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be yourself; everyone else is already taken." — Oscar Wilde
+  "I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams." — D. H. Lawrence
 </em></p>
 
 ---
