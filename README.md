@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fear can hold you prisoner. Hope can set you free." — Stephen King
+  "I begin with an idea and then it becomes something else." — Pablo Picasso
 </em></p>
 
 ---
