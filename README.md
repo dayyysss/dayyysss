@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most of the evil in this world is done by people with good intentions." — T.S. Eliot
+  "Heal the past, live the present, dream the future." — Mary Engelbreit
 </em></p>
 
 ---
