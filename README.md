@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter." — Celestine Chua
+  "The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace." — Ming-Dao Deng
 </em></p>
 
 ---
