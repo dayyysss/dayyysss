@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The heart wants what it wants - or else it does not care." — Emily Dickinson
+  "Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho
 </em></p>
 
 ---
