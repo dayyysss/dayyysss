@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I begin with an idea and then it becomes something else." — Pablo Picasso
+  "Dreams have only one owner at a time. That's why dreamers are lonely." — William Faulkner
 </em></p>
 
 ---
