@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For all evils there are two remedies - time and silence." — Alexandre Dumas
+  "If you want work well done, select a busy man; the other kind has no time." — Elbert Hubbard
 </em></p>
 
 ---
