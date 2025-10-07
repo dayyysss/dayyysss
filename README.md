@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Evil is whatever distracts. " — Franz Kafka
+  "The quality of your commitments will determine the course of your life." — Ralph Marston
 </em></p>
 
 ---
