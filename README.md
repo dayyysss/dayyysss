@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can discover what your enemy fears most by observing the means he uses to frighten you." — Eric Hoffer
+  "If you want more luck, take more chances." — Brian Tracy
 </em></p>
 
 ---
