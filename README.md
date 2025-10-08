@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is not a problem to be solved, but a reality to be experienced." — Soren Kierkegaard
+  "The most creative act you will ever undertake is the act of creating yourself." — Deepak Chopra
 </em></p>
 
 ---
