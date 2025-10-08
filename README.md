@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The future is not a gift. It is an achievement." — Robert F. Kennedy
+  "Re-examine all that you have been told... dismiss that which insults your soul." — Walt Whitman
 </em></p>
 
 ---
