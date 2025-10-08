@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't allow your mind to tell your heart what to do. The mind gives up easily." — Paulo Coelho
+  "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting." — Zig Ziglar
 </em></p>
 
 ---
