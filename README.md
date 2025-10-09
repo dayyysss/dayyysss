@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The best dreams happen when you're awake." — Cherie Gilderbloom
+  "True it is, we only hate those whom we do not know." — Andrew Carnegie
 </em></p>
 
 ---
