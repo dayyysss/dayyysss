@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't let the past steal your present." — Cherralea Morgen
+  "Who you are is always right." — Ming-Dao Deng
 </em></p>
 
 ---
