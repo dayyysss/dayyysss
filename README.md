@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You cannot push anyone up a ladder unless he is willing to climb a little himself." — Andrew Carnegie
+  "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. " — Miguel de Cervantes
 </em></p>
 
 ---
