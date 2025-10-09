@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Men do not attract which they want but that which they are." — James Allen
+  "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." — Sigmund Freud
 </em></p>
 
 ---
