@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Quality is more important than quantity. One home run is much better than two doubles." — Steve Jobs
+  "If it is not right, do not do it, if it is not true, do not say it." — Marcus Aurelius
 </em></p>
 
 ---
