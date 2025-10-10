@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you put water into a cup, it becomes the cup." — Bruce Lee
+  "Obstacles are those frightful things you see when you take your eyes off your goal." — Henry Ford
 </em></p>
 
 ---
