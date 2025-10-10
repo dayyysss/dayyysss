@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life can only be understood backwards; but it must be lived forwards." — Soren Kierkegaard
+  "It doesn't matter where you are coming from. All that matters is where you are going. " — Brian Tracy
 </em></p>
 
 ---
