@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't cry because it's over. Smile because it happened." — Dr. Seuss
+  "Life can only be understood backwards; but it must be lived forwards." — Soren Kierkegaard
 </em></p>
 
 ---
