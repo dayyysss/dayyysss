@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Enjoy every minute of life. Never second-guess life." — Michael Jordan
+  "The deeper the truth in a creative work, the longer it will live.  " — Charlie Chaplin
 </em></p>
 
 ---
