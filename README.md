@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can have results or excuses, but not both." — Arnold Schwarzenegger
+  "Enjoy every minute of life. Never second-guess life." — Michael Jordan
 </em></p>
 
 ---
