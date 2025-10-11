@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa
+  "When the time is gone, you can never get it back." — Stephen King
 </em></p>
 
 ---
