@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve
+  "Until we can manage time, we can manage nothing else." — Peter Drucker
 </em></p>
 
 ---
