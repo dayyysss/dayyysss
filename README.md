@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Distant water does not put out a nearby fire." — Chinese Proverb
+  "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
 </em></p>
 
 ---
