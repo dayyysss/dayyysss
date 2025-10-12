@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The friend is the man who knows all about you, and still likes you." — Elbert Hubbard
+  "The clock indicates the moment...but what does eternity indicate?" — Walt Whitman
 </em></p>
 
 ---
