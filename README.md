@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no value in anything until it is finished. " — Genghis Khan
+  "Those who are possessed by nothing possess everything." — Morihei Ueshiba
 </em></p>
 
 ---
