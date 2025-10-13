@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Optimism is the one quality more associated with success and happiness than any other." — Brian Tracy
+  "Trying to define yourself is like trying to bite your own teeth." — Zen Proverb
 </em></p>
 
 ---
