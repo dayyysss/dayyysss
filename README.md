@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose." — Simon Sinek
+  "Superstars think like superstars long before the fans or the press anoint them." — John Eliot
 </em></p>
 
 ---
