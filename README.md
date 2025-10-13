@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We suffer more often in imagination than in reality." — Seneca
+  "The most courageous act is still to think for yourself. Aloud." — Coco Chanel
 </em></p>
 
 ---
