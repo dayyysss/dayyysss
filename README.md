@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To seek greatness is the only righteous vengeance." — Criss Jami
+  "A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown
 </em></p>
 
 ---
