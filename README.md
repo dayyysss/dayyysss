@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan
+  "Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh
 </em></p>
 
 ---
