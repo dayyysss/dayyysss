@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Superstars think like superstars long before the fans or the press anoint them." — John Eliot
+  "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next." — Herbert Hoover
 </em></p>
 
 ---
