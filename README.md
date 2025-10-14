@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I think self-awareness is probably the most important thing towards being a champion. " — Billie Jean King
+  "If you are lucky enough to find love, remember it is there and don't throw it away." — Stephen Hawking
 </em></p>
 
 ---
