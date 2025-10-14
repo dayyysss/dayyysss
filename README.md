@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda
+  "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." — Brian Tracy
 </em></p>
 
 ---
