@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Goals are the fuel in the furnace of achievement." — Brian Tracy
+  "May you live all the days of your life." — Jonathan Swift
 </em></p>
 
 ---
