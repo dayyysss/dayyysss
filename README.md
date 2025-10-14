@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man is literally what he thinks." — James Allen
+  "Awaken. Take heed, do not squander your life." — Dogen
 </em></p>
 
 ---
