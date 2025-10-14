@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A journey of a thousand miles must begin with a single step." — Lao Tzu
+  "A man is literally what he thinks." — James Allen
 </em></p>
 
 ---
