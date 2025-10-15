@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One never does wrong by doing right." — Norman Vincent Peale
+  "You never know when a moment and a few sincere words can have an impact on a life.  " — Zig Ziglar
 </em></p>
 
 ---
