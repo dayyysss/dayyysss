@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Some people don't like change, but you need to embrace change if the alternative is disaster." — Elon Musk
+  "Success is achieved and maintained by those who try and keep trying. " — W. Clement Stone
 </em></p>
 
 ---
