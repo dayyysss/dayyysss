@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Friendship is one of the most tangible things in a world which offers fewer and fewer supports." — Kenneth Branagh
+  "You are what you believe yourself to be." — Paulo Coelho
 </em></p>
 
 ---
