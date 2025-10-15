@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are your best thing." — Toni Morrison
+  "Where there is no struggle, there is no strength. " — Oprah Winfrey
 </em></p>
 
 ---
