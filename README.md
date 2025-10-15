@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." — Nicolas Chamfort
+  "We are all faced with a series of great opportunities brilliantly disguised as impossible situations. " — Charles Swindoll
 </em></p>
 
 ---
