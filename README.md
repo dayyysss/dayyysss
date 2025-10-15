@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility." — Sigmund Freud
+  "Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live." — Nicolas Chamfort
 </em></p>
 
 ---
