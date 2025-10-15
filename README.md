@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be approximately right rather than exactly wrong." — John Tukey
+  "Life is one long process of getting tired." — Samuel Butler
 </em></p>
 
 ---
