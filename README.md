@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." — Ming-Dao Deng
+  "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift
 </em></p>
 
 ---
