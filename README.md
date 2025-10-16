@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The road to success and the road to failure are almost exactly the same." — Colin R. Davis
+  "Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." — Rumi
 </em></p>
 
 ---
