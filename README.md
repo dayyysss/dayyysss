@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is like stepping onto a boat which is about to sail out to sea and sink." — Shunryu Suzuki
+  "Life becomes easier and more beautiful when we can see the good in other people." — Roy T. Bennett
 </em></p>
 
 ---
