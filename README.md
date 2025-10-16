@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Work harder on yourself than you do on your job." — Jim Rohn
+  "When the world pushes you to your knees, you're in the perfect position to pray." — Rumi
 </em></p>
 
 ---
