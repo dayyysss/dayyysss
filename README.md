@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Mistake is a mistake only if you make it twice." — Robin Sharma
+  "It takes a very long time to become young." — Pablo Picasso
 </em></p>
 
 ---
