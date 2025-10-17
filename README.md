@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The foolish reject what they see, not what they think; the wise reject what they think, not what they see." — Huang Po
+  "The secret of success lies not in doing your own work, but in recognizing the right man to do it." — Andrew Carnegie
 </em></p>
 
 ---
