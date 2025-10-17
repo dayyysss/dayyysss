@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll
+  "Decide upon your major definite purpose in life and then organize all your activities around it." — Brian Tracy
 </em></p>
 
 ---
