@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Choose a job you love, and you will never have to work a day in your life. " — Confucius
+  "Being in a good frame of mind helps keep one in the picture of health." — Unknown
 </em></p>
 
 ---
