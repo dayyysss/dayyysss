@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Take time like the river that never grows stale. Keep going and steady. No hurry, no rush." — Rumi
+  "Great things are not done by impulse, but by a series of small things brought together." — Vincent van Gogh
 </em></p>
 
 ---
