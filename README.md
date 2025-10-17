@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Keep your dreams, you never know when you might need them." — Carlos Ruiz Zafon
+  "We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll
 </em></p>
 
 ---
