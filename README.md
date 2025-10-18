@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The golden opportunity you are seeking is within yourself." — Mary Engelbreit
+  "Eighty percent of success is showing up. " — Woody Allen
 </em></p>
 
 ---
