@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We lie the loudest when we lie to ourselves." — Eric Hoffer
+  "A journey of a thousand miles must begin with a single step." — Lao Tzu
 </em></p>
 
 ---
