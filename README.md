@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Eighty percent of success is showing up. " — Woody Allen
+  "Peace is not the absence of conflict, but the ability to cope with it." — Unknown
 </em></p>
 
 ---
