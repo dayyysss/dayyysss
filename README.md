@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki
+  "The only limits in your life are those that you set yourself." — Celestine Chua
 </em></p>
 
 ---
