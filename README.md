@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "None of us can change our yesterdays but all of us can change our tomorrows." — Colin Powell
+  "Keep your face to the sunshine and you cannot see the shadows." — Helen Keller
 </em></p>
 
 ---
