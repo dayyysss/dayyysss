@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself." — Robert Kiyosaki
+  "Take responsibility of your own happiness, never put it in other people's hands." — Roy T. Bennett
 </em></p>
 
 ---
