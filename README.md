@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results." — James Allen
+  "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." — Virginia Woolf
 </em></p>
 
 ---
