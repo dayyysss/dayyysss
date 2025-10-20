@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wisdom is the oneness of mind that guides and permeates all things." — Heraclitus
+  "A moving door hinge never corrodes. Flowing water never grows stagnant." — Ming-Dao Deng
 </em></p>
 
 ---
