@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Adventure is not outside man; it is within." — George Eliot
+  "The greatest step towards a life of simplicity is to learn to let go." — Steve Maraboli
 </em></p>
 
 ---
