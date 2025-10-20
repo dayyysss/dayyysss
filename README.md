@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Play your part in life, but never forget that it is only a role." — Paramahansa Yogananda
+  "Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence
 </em></p>
 
 ---
