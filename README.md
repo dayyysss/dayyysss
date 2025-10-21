@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Paths are made by walking." — Franz Kafka
+  "Dream big. Start small. But most of all, start." — Simon Sinek
 </em></p>
 
 ---
