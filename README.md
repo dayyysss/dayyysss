@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you want to be honored by others, you learn to honor them first." — Sathya Sai Baba
+  "We never know the love of a parent till we become parents ourselves." — Henry Ward Beecher
 </em></p>
 
 ---
