@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you don't program yourself, life will program you." — Les Brown
+  "The truth is simple. If it was complicated, everyone would understand it." — Walt Whitman
 </em></p>
 
 ---
