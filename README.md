@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No man is happy unless he believes he is." — Publilius Syrus
+  "If you practiced for the day, then you have won. If you were lazy for the day, then you have lost." — Ming-Dao Deng
 </em></p>
 
 ---
