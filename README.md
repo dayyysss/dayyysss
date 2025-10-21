@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot." — D. H. Lawrence
+  "When you want to be honored by others, you learn to honor them first." — Sathya Sai Baba
 </em></p>
 
 ---
