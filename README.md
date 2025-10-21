@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Dream big. Start small. But most of all, start." — Simon Sinek
+  "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." — Thomas Edison
 </em></p>
 
 ---
