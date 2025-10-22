@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Problems remain as problems because people are busy defending them rather than finding solutions." — Celestine Chua
+  "Trying to define yourself is like trying to bite your own teeth." — Alan Watts
 </em></p>
 
 ---
