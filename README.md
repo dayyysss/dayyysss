@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Trying to define yourself is like trying to bite your own teeth." — Alan Watts
+  "Let the beauty of what you love be what you do." — Rumi
 </em></p>
 
 ---
