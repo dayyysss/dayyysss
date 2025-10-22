@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Logic is like the sword - those who appeal to it shall perish by it." — Samuel Butler
+  "What you get by achieving your goals is not as important as what you become by achieving your goals." — Henry David Thoreau
 </em></p>
 
 ---
