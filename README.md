@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Youth has no age." — Pablo Picasso
+  "I will not walk backward in life." — J.R.R. Tolkien
 </em></p>
 
 ---
