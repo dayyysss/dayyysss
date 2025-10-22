@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Let the beauty of what you love be what you do." — Rumi
+  "There are no differences but differences of degree between different degrees of difference and no difference." — William James
 </em></p>
 
 ---
