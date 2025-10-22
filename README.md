@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." — Honore de Balzac
+  "It's very strange that the people you love are often the people you're most cruel to." — Kenneth Branagh
 </em></p>
 
 ---
