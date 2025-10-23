@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Learn to value yourself, which means: fight for your happiness." — Ayn Rand
+  "We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr.
 </em></p>
 
 ---
