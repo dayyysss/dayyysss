@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To find yourself, think for yourself." — Socrates
+  "Without the confidence, nothing can be accomplished." — Sathya Sai Baba
 </em></p>
 
 ---
