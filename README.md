@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The golden opportunity you are seeking is within yourself." — Mary Engelbreit
+  "Nothing is particularly hard if you divide it into small jobs. " — Henry Ford
 </em></p>
 
 ---
