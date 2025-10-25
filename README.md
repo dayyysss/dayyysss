@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The biggest challenge after success is shutting up about it." — Criss Jami
+  "A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu
 </em></p>
 
 ---
