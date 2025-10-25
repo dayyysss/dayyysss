@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Love never keeps a man from pursuing his destiny." — Paulo Coelho
+  "Things turn out best for the people who make the best of the way things turn out." — John Wooden
 </em></p>
 
 ---
