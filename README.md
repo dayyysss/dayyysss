@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Fear is what stops you. Courage is what keeps you going." — Unknown
+  "Be like a postage stamp. Stick to it until you get there." — Bob Proctor
 </em></p>
 
 ---
