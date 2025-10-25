@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours." — Zig Ziglar
+  "When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done." — Jack Butcher
 </em></p>
 
 ---
