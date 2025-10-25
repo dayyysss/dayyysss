@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no path to Happiness. Happiness is the path." — Dan Millman
+  "Everyone wants to go to Heaven, but no one wants to die." — Robert Kiyosaki
 </em></p>
 
 ---
