@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Sometimes out of your biggest misery, comes your greatest gain." — Steve Harvey
+  "Realize deeply that the present moment is all you ever have. " — Eckhart Tolle
 </em></p>
 
 ---
