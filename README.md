@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Realistic people do not accomplish extraordinary things." — John Eliot
+  "The best teacher is experience and not through someone's distorted point of view." — Jack Kerouac
 </em></p>
 
 ---
