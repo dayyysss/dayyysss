@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." — Dalai Lama
+  "Ask no questions, and you'll be told no lies." — Charles Dickens
 </em></p>
 
 ---
