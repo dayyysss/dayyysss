@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Realize deeply that the present moment is all you ever have. " — Eckhart Tolle
+  "Some people want it to happen, some wish it would happen, others make it happen." — Michael Jordan
 </em></p>
 
 ---
