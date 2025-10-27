@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Heart is what separates the good from the great." — Michael Jordan
+  "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. " — Henry Ford
 </em></p>
 
 ---
