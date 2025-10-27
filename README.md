@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Winners are not people who never fail, but people who never quit." — Arnold Schwarzenegger
+  "You become a worrier by practicing worry. You become free of worry by practicing the opposite." — Norman Vincent Peale
 </em></p>
 
 ---
