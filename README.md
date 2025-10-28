@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A scientific man ought to have no wishes, no affections, - a mere heart of stone." — Charles Darwin
+  "No valid plans for the future can be made by those who have no capacity for living now." — Alan Watts
 </em></p>
 
 ---
