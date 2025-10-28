@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Look to the beauty of this day, miracles are all around you." — Mary Engelbreit
+  "They who have conquered doubt and fear have conquered failure." — James Allen
 </em></p>
 
 ---
