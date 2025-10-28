@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I love myself I love you. If I love you I love myself." — Rumi
+  "Do not use life to give life to death. Do not use death to bring death to life." — Zhuangzi
 </em></p>
 
 ---
