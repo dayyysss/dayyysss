@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your home is where your thoughts find peace." — Zen Proverb
+  "It is truth that liberates, not your effort to be free." — Jiddu Krishnamurti
 </em></p>
 
 ---
