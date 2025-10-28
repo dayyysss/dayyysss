@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "They who have conquered doubt and fear have conquered failure." — James Allen
+  "Night is a more quiet time to work. It aids thought." — Alexander Graham Bell
 </em></p>
 
 ---
