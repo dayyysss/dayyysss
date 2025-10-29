@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Some people dream of success, while others wake up and work hard at it." — Napoleon Hill
+  "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." — Jonathan Swift
 </em></p>
 
 ---
