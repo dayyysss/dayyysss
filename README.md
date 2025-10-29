@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi
+  "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." — Mark Twain
 </em></p>
 
 ---
