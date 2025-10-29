@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A golden cage is still just a cage." — Anita Krizzan
+  "All that we see or seem is but a dream within a dream." — Edgar Allan Poe
 </em></p>
 
 ---
