@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no limit to the amount of good you can do if you don't care who gets the credit." — Ronald Reagan
+  "We cannot change anything unless we accept it." — Carl Jung
 </em></p>
 
 ---
