@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can't build a reputation on what you are going to do. " — Henry Ford
+  "Rest in reason; move in passion." — Kahlil Gibran
 </em></p>
 
 ---
