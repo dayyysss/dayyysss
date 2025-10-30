@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — Celestine Chua
+  "We can see through others only when we can see through ourselves." — Bruce Lee
 </em></p>
 
 ---
