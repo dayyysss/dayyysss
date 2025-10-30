@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Don't live the same year 75 times and call it a life." — Robin Sharma
+  "It is not titles that honour men, but men that honour titles." — Niccolo Machiavelli
 </em></p>
 
 ---
