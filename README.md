@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more something scares you, the more you should do it." — Mark Manson
+  "Our deeds determine us, as much as we determine our deeds." — George Eliot
 </em></p>
 
 ---
