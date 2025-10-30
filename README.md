@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Poetry is written with tears, fiction with blood, and history with invisible ink." — Carlos Ruiz Zafon
+  "A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu
 </em></p>
 
 ---
