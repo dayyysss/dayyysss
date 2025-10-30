@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Do something to move yourself toward your major goal every day." — Brian Tracy
+  "You cannot find peace avoiding life." — Virginia Woolf
 </em></p>
 
 ---
