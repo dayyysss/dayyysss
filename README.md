@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The outer conditions of a person's life will always be found to reflect their inner beliefs." — James Allen
+  "Find something you love and do it better than everyone else." — Gurbaksh Chahal
 </em></p>
 
 ---
