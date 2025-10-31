@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In the End, we will remember not the words of our enemies, but the silence of our friends." — Martin Luther King, Jr.
+  "The people who succeed are irrationally passionate about something." — Naval Ravikant
 </em></p>
 
 ---
