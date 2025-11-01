@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only place success comes before work is in the dictionary." — Vince Lombardi
+  "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes." — Charles Dickens
 </em></p>
 
 ---
