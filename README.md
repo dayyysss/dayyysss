@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Forgive those who have hurt you." — Les Brown
+  "It's necessary to get the losers out of your life if you want to live your dream." — Les Brown
 </em></p>
 
 ---
