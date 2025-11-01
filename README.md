@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No one ever is defeated until defeat has been accepted as a reality." — Napoleon Hill
+  "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for." — Gurbaksh Chahal
 </em></p>
 
 ---
