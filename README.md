@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt
+  "Life is too short to waste your time on people who don't respect, appreciate, and value you." — Roy T. Bennett
 </em></p>
 
 ---
