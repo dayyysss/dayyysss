@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking
+  "If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton
 </em></p>
 
 ---
