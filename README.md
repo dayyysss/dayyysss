@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If I have seen further than others, it is by standing upon the shoulders of giants." — Isaac Newton
+  "Cultivate the merry heart, develop the happiness habit, and life will become a continual feast." — Norman Vincent Peale
 </em></p>
 
 ---
