@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I'm an optimist by choice not by stupidity." — Yanni
+  "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable." — Elon Musk
 </em></p>
 
 ---
