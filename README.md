@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Ripe fruit falls by itself - but it doesn't fall in your mouth. " — Chinese Proverb
+  "I'm an optimist by choice not by stupidity." — Yanni
 </em></p>
 
 ---
