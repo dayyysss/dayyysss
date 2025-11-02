@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The privilege of a lifetime is to become who you truly are." — Carl Jung
+  "Decide whether or not the goal is worth the risks involved. If it is, stop worrying." — Amelia Earhart
 </em></p>
 
 ---
