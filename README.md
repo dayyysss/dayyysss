@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only thing worse than being blind is having sight but no vision." — Helen Keller
+  "Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." — Colin Powell
 </em></p>
 
 ---
