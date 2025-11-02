@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Work harder on yourself than you do on your job." — Jim Rohn
+  "However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking
 </em></p>
 
 ---
