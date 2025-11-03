@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "One beam, no matter how big, cannot support an entire house on its own." — Chinese Proverb
+  "The soul is neither born, and nor does it die." — Bhagavad Gita
 </em></p>
 
 ---
