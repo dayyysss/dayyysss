@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Try to be a rainbow in someone's cloud." — Maya Angelou
+  "Any game becomes important when you know and love the players." — W.P. Kinsella
 </em></p>
 
 ---
