@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "For the things we have to learn before we can do them, we learn by doing them." — Aristotle
+  "Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end." — Roy T. Bennett
 </em></p>
 
 ---
