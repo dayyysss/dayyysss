@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer
+  "You'll see it when you believe it. " — Wayne Dyer
 </em></p>
 
 ---
