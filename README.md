@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who can make you believe absurdities can make you commit atrocities. " — Voltaire
+  "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you." — Dale Carnegie
 </em></p>
 
 ---
