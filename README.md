@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Man should fear never beginning to live." — Marcus Aurelius
+  "Life is simply what our feelings do to us." — Honore de Balzac
 </em></p>
 
 ---
