@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When things go wrong, don't go with them." — Elvis Presley
+  "Success is not to be pursued, it is to be attracted by the person you become." — Jim Rohn
 </em></p>
 
 ---
