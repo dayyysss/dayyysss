@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen
+  "Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." — Criss Jami
 </em></p>
 
 ---
