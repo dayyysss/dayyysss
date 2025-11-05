@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "While some of us act without thinking, too many of us think without acting." — Dan Millman
+  "You may be disappointed if you fail, but you are doomed if you don't try. " — Beverly Sills
 </em></p>
 
 ---
