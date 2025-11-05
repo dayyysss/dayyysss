@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Heaven is right where you are standing." — Morihei Ueshiba
+  "Life is like a beautiful melody, only the lyrics are messed up." — Hans Christian Andersen
 </em></p>
 
 ---
