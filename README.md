@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything that is done in the world is done by hope." — Martin Luther
+  "Your time is limited, so don't waste it living someone elses. life." — Steve Jobs
 </em></p>
 
 ---
