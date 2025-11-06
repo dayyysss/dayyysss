@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Make each day your masterpiece." — John Wooden
+  "You are free, and that is why you are lost. " — Franz Kafka
 </em></p>
 
 ---
