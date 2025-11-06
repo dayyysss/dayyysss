@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Wealth is the product of man's capacity to think." — Ayn Rand
+  "If you see someone without a smile give them one of yours." — Unknown
 </em></p>
 
 ---
