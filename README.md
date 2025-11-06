@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Each problem has a positive side." — Og Mandino
+  "People are doing the best that they can from their own level of consciousness." — Deepak Chopra
 </em></p>
 
 ---
