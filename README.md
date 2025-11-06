@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "See what you're doing wrong, laugh at it, change and do better." — Spencer Johnson
+  "Dreams are the touchstones of our characters." — Henry David Thoreau
 </em></p>
 
 ---
