@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "People are doing the best that they can from their own level of consciousness." — Deepak Chopra
+  "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." — Brian Tracy
 </em></p>
 
 ---
