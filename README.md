@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Death smiles at us all. All we can do is smile back." — Marcus Aurelius
+  "The greatest weariness comes from work not done." — Eric Hoffer
 </em></p>
 
 ---
