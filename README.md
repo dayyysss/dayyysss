@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Desire for the fruits of work must never be your motive in working." — Bhagavad Gita
+  "For the things we have to learn before we can do them, we learn by doing them." — Aristotle
 </em></p>
 
 ---
