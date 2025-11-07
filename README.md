@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The power of man has grown in every sphere, except over himself." — Winston Churchill
+  "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." — Pema Chodron
 </em></p>
 
 ---
