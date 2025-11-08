@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The first rule of business; treat others like they want to treat you." — Charles Dickens
+  "Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." — Eleanor Roosevelt
 </em></p>
 
 ---
