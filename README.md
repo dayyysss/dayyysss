@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No matter how tall the mountain is, it cannot block the sun." — Chinese Proverb
+  "Every day may not be good, but there's something good in every day." — Unknown
 </em></p>
 
 ---
