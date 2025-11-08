@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When you judge another, you do not define them, you define yourself" — Wayne Dyer
+  "The biggest room in the world is the room for improvement." — Unknown
 </em></p>
 
 ---
