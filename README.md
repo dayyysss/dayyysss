@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "What is planted in each person's soul will sprout.  " — Rumi
+  "Night is a more quiet time to work. It aids thought." — Alexander Graham Bell
 </em></p>
 
 ---
