@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You are not stuck where you are unless you decide to be.  " — Wayne Dyer
+  "Believe that life is worth living and your belief will help create the fact." — William James
 </em></p>
 
 ---
