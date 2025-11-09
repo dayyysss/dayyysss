@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We have a choice everyday regarding the attitude we will embrace for that day." — Charles Swindoll
+  "Time doesn't heal emotional pain, you need to learn how to let go." — Roy T. Bennett
 </em></p>
 
 ---
