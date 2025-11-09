@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it." — Richard Bach
+  "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves." — Adi Da Samraj
 </em></p>
 
 ---
