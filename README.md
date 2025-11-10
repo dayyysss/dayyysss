@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung
+  "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." — Earl Nightingale
 </em></p>
 
 ---
