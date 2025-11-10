@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He who violates another's honor loses his own." — Publilius Syrus
+  "It is in the darkness that one finds the light." — Meister Eckhart
 </em></p>
 
 ---
