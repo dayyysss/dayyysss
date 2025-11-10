@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The eye with which I see God is the same eye with which God sees me." — Meister Eckhart
+  "Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections." — Bob Marley
 </em></p>
 
 ---
