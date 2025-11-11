@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You'll never find rainbows if you're looking down.  " — Charlie Chaplin
+  "The quality of your life is the quality of your relationships." — Tony Robbins
 </em></p>
 
 ---
