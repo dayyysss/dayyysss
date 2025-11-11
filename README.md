@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The quality of your life is the quality of your relationships." — Tony Robbins
+  "The only thing new in the world is the history you do not know." — Harry S. Truman
 </em></p>
 
 ---
