@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The only thing new in the world is the history you do not know." — Harry S. Truman
+  "If you don't break your ropes while you're alive, do you think ghosts will do it after?" — Kabir
 </em></p>
 
 ---
