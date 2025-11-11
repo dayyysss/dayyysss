@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing is really work unless you would rather be doing something else. " — James Matthew Barrie
+  "If you put water into a cup, it becomes the cup." — Bruce Lee
 </em></p>
 
 ---
