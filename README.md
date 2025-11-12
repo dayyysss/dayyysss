@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good." — Bhagavad Gita
+  "A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled." — Andrew Carnegie
 </em></p>
 
 ---
