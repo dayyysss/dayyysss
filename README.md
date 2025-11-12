@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Until we can manage time, we can manage nothing else." — Peter Drucker
+  "There is no sadder sight than a young pessimist." — Mark Twain
 </em></p>
 
 ---
