@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you truly expect something to be difficult, it will be." — Peter A. Cohen
+  "I like the dreams of the future better than the history of the past." — Thomas Jefferson
 </em></p>
 
 ---
