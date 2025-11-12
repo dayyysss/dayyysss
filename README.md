@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There is no sadder sight than a young pessimist." — Mark Twain
+  "Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success." — Robert Kiyosaki
 </em></p>
 
 ---
