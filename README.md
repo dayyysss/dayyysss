@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A man sooner or later discovers that he is the master-gardener of his soul, the director of his life." — James Allen
+  "You cannot always control what goes on outside. But you can always control what goes on inside. " — Wayne Dyer
 </em></p>
 
 ---
