@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way." — Osho
+  "Success is liking yourself, liking what you do, and liking how you do it." — Maya Angelou
 </em></p>
 
 ---
