@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You cannot change your destination overnight but you can change your direction overnight." — Jim Rohn
+  "Life and the simple beauty of it is too good to pass up." — Christopher McCandless
 </em></p>
 
 ---
