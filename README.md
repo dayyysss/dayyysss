@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "He who knows best knows how little he knows." — Thomas Jefferson
+  "Fear is a natural reaction to moving closer to the truth." — Pema Chodron
 </em></p>
 
 ---
