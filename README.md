@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "We will outstretch the hand if you unclench your fist." — Barack Obama
+  "Through selfless service, you will always be fruitful and find the fulfillment of your desires." — Bhagavad Gita
 </em></p>
 
 ---
