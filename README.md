@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Before anything else, preparation is the key to success." — Alexander Graham Bell
+  "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett
 </em></p>
 
 ---
