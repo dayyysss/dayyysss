@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Respect was invented to cover the empty place where love should be." — Leo Tolstoy
+  "Continuous effort - not strength or intelligence - is the key to unlocking our potential." — Winston Churchill
 </em></p>
 
 ---
