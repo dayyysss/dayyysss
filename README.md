@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The more you are motivated by Love, The more Fearless & Free your action will be." — Dalai Lama
+  "Without education, we are in a horrible and deadly danger of taking educated people seriously." — Gilbert Chesterton
 </em></p>
 
 ---
