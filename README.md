@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "To arrive at the simplest truth requires years of contemplation." — Isaac Newton
+  "If you don't program yourself, life will program you." — Les Brown
 </em></p>
 
 ---
