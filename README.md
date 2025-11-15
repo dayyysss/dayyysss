@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood." — Charles Dickens
+  "Only those who dare to fail greatly can ever achieve greatly." — Robert F. Kennedy
 </em></p>
 
 ---
