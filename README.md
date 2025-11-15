@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Through selfless service, you will always be fruitful and find the fulfillment of your desires." — Bhagavad Gita
+  "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — Colin Powell
 </em></p>
 
 ---
