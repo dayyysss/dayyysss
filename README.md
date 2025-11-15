@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Speak when you are angry - and you'll make the best speech you'll ever regret." — Laurence J. Peter
+  "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett
 </em></p>
 
 ---
