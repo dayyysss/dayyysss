@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The wisest men follow their own direction." — Euripides
+  "Speak when you are angry - and you'll make the best speech you'll ever regret." — Laurence J. Peter
 </em></p>
 
 ---
