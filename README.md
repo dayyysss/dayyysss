@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Someday death will take us to another star." — Vincent van Gogh
+  "When you judge others, you do not define them, you define yourself." — Earl Nightingale
 </em></p>
 
 ---
