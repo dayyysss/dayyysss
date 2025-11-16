@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I don't ever give up. I'd have to be dead or completely incapacitated." — Elon Musk
+  "Take care of your body. It's the only place you have to live." — Jim Rohn
 </em></p>
 
 ---
