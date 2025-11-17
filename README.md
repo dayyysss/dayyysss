@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton
+  "The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb
 </em></p>
 
 ---
