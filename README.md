@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "No tree, it is said, can grow to heaven unless its roots reach down to hell." — Carl Jung
+  "Don´t hesitate or allow yourself to make excuses. Just get out and do it." — Christopher McCandless
 </em></p>
 
 ---
