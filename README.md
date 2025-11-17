@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The greatest test of courage on earth is to bear defeat without losing heart." — Robert Greene
+  "There is no excuse for not trying." — Barack Obama
 </em></p>
 
 ---
