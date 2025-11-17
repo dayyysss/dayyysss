@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Those who know, do. Those that understand, teach." — Aristotle
+  "The greatest test of courage on earth is to bear defeat without losing heart." — Robert Greene
 </em></p>
 
 ---
