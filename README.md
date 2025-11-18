@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can start changing our world for the better daily, no matter how small the action." — Nelson Mandela
+  "If you are unable to find the truth right where you are, where else do you expect to find it?" — Dogen
 </em></p>
 
 ---
