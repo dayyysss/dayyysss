@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The journey, not the destination matters." — T.S. Eliot
+  "In nature there is no alienation. Everything belongs." — Ming-Dao Deng
 </em></p>
 
 ---
