@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If you are unable to find the truth right where you are, where else do you expect to find it?" — Dogen
+  "You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe
 </em></p>
 
 ---
