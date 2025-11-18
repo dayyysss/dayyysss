@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Be a master of change rather than a victim of change." — Brian Tracy
+  "Sadness is but a wall between two gardens." — Kahlil Gibran
 </em></p>
 
 ---
