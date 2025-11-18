@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  " — Estee Lauder
+  "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." — Barack Obama
 </em></p>
 
 ---
