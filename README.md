@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Your mind will make you rich or poor, depending on the use you put to it." — Brian Tracy
+  "You can have the mind or you can have the moment." — Naval Ravikant
 </em></p>
 
 ---
