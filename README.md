@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant
+  "I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive." — Joan Rivers
 </em></p>
 
 ---
