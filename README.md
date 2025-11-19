@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Passion creates, addiction consumes." — Gabor Mate
+  "Your mind will make you rich or poor, depending on the use you put to it." — Brian Tracy
 </em></p>
 
 ---
