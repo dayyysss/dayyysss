@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "You can have the mind or you can have the moment." — Naval Ravikant
+  "Difficult and meaningful will always bring more satisfaction than easy and meaningless." — Maxime Lagace
 </em></p>
 
 ---
