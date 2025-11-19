@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I never said it would be easy, I only said it would be worth it." — Mae West
+  "If there is a book that you want to read, but it hasn't been written yet, then you must write it." — Toni Morrison
 </em></p>
 
 ---
