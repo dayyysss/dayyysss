@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It's not the love you make. It's the love you give. " — Nikola Tesla
+  "He who possesses most must be most afraid of loss." — Leonardo da Vinci
 </em></p>
 
 ---
