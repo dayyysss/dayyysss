@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I've always lived in the moment." — Yanni
+  "A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." — Confucius
 </em></p>
 
 ---
