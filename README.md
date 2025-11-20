@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If life were predictable it would cease to be life, and be without flavor." — Eleanor Roosevelt
+  "The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb
 </em></p>
 
 ---
