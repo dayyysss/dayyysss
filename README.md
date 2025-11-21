@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Behind every cloud is another cloud." — Judy Garland
+  "There's more to life than being a passenger." — Amelia Earhart
 </em></p>
 
 ---
