@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Believe nothing you hear, and only one half that you see." — Edgar Allan Poe
+  "Fear is what stops you. Courage is what keeps you going." — Unknown
 </em></p>
 
 ---
