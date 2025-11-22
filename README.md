@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "When one door closes another door opens. " — Alexander Graham Bell
+  "Where words fail, music speaks." — Hans Christian Andersen
 </em></p>
 
 ---
