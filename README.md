@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it." — Gurbaksh Chahal
+  "When you are able to employ your will always for constructive purposes, you become the controller of your destiny." — Paramahansa Yogananda
 </em></p>
 
 ---
