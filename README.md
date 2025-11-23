@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Chop your own wood and it will warm you twice. " — Henry Ford
+  "The power of human thought grows exponentially with the number of minds that share that thought." — Dan Brown
 </em></p>
 
 ---
