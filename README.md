@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "There are no shortcuts to any place worth going. " — Beverly Sills
+  "I dream my painting and I paint my dream." — Vincent van Gogh
 </em></p>
 
 ---
