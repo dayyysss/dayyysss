@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The power of human thought grows exponentially with the number of minds that share that thought." — Dan Brown
+  "We lie the loudest when we lie to ourselves." — Eric Hoffer
 </em></p>
 
 ---
