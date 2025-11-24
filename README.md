@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi
+  "Go as far as you can see and you will see further.  " — Zig Ziglar
 </em></p>
 
 ---
