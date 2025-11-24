@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is going from failure to failure without losing your enthusiasm" — Winston Churchill
+  "Coming together is a beginning, staying together is progress, and working together is success. " — Henry Ford
 </em></p>
 
 ---
