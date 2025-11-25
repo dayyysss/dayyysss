@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Better to light a candle than to curse the darkness. " — Chinese Proverb
+  "Every experience is a lesson. Every loss is a gain." — Sathya Sai Baba
 </em></p>
 
 ---
