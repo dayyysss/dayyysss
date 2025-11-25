@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Knowing is not enough, we must apply. Willing is not enough, we must do.  " — Bruce Lee
+  "The ladder of success is best climbed by stepping on the rungs of opportunity." — Ayn Rand
 </em></p>
 
 ---
