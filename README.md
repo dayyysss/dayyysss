@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Reading should be a pleasure, not a chore." — Joan Rivers
+  "Life may be full of pain but that's not an excuse to give up." — Arnold Schwarzenegger
 </em></p>
 
 ---
