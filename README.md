@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing has any power over me other than that which I give it through my conscious thoughts." — Tony Robbins
+  "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 </em></p>
 
 ---
