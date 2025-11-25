@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Where violence reigns, reason is weak." — Nicolas Chamfort
+  "Nothing has any power over me other than that which I give it through my conscious thoughts." — Tony Robbins
 </em></p>
 
 ---
