@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness is the meaning and the purpose of life, the whole aim and end of human existence." — Aristotle
+  "No problem can be solved from the same level of consciousness that created it." — Albert Einstein
 </em></p>
 
 ---
