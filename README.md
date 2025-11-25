@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Nothing external to you has any power over you." — Ralph Waldo Emerson
+  "If I love myself I love you. If I love you I love myself." — Rumi
 </em></p>
 
 ---
