@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Preoccupied with a single leaf you won't see the tree." — Unknown
+  "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." — Winston Churchill
 </em></p>
 
 ---
