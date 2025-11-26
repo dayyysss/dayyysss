@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Any game becomes important when you know and love the players." — W.P. Kinsella
+  "A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." — James Allen
 </em></p>
 
 ---
