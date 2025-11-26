@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Just living is not enough... one must have sunshine, freedom, and a little flower. " — Hans Christian Andersen
+  "Patience is a bitter plant, but its fruit is sweet." — Chinese Proverb
 </em></p>
 
 ---
