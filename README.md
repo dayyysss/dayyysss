@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The key to success is to focus our conscious mind on things we desire not things we fear. " — Brian Tracy
+  "If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present." — Lao Tzu
 </em></p>
 
 ---
