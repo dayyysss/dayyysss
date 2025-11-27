@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Everything you look at can become a fairy tale and you can get a story from everything you touch." — Hans Christian Andersen
+  "Happiness is when what you think, what you say, and what you do are in harmony." — Mahatma Gandhi
 </em></p>
 
 ---
