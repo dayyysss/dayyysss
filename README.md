@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The Art of Peace begins with you." — Morihei Ueshiba
+  "Children are our greatest natural resource." — Herbert Hoover
 </em></p>
 
 ---
