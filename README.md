@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Happiness is when what you think, what you say, and what you do are in harmony." — Mahatma Gandhi
+  "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided." — Tony Robbins
 </em></p>
 
 ---
