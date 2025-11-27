@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — Dan Millman
+  "Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving." — Yanni
 </em></p>
 
 ---
