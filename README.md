@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Children are our greatest natural resource." — Herbert Hoover
+  "Make your stand today. On this spot. On this day." — Ming-Dao Deng
 </em></p>
 
 ---
