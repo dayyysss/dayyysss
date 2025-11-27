@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars." — Og Mandino
+  "The key to success is to focus our conscious mind on things we desire not things we fear. " — Brian Tracy
 </em></p>
 
 ---
