@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." — Martin Luther King, Jr.
+  "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any." — Thomas Jefferson
 </em></p>
 
 ---
