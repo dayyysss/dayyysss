@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Instead of worrying about what you cannot control, shift your energy to what you can create." — Roy T. Bennett
+  "If you look for perfection, you'll never be content." — Leo Tolstoy
 </em></p>
 
 ---
