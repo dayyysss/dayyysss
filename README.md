@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Focus on how far you have come in life rather than looking at the accomplishments of others." — Lolly Daskal
+  "A bird does not sing because it has an answer. It sings because it has a song." — Chinese Proverb
 </em></p>
 
 ---
