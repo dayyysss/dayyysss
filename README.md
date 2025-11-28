@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "In order to control myself I must first accept myself by going with and not against my nature." — Bruce Lee
+  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." — Colin Powell
 </em></p>
 
 ---
