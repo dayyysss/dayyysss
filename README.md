@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Whatever you think the world is withholding from you, you are withholding from the world." — Eckhart Tolle
+  "First say to yourself what you would be; and then do what you have to do." — Epictetus
 </em></p>
 
 ---
