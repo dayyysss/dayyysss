@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The truth is simple. If it was complicated, everyone would understand it." — Walt Whitman
+  "Every day may not be good, but there's something good in every day." — Unknown
 </em></p>
 
 ---
