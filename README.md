@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." — Carl Jung
+  "No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way." — Kamal Ravikant
 </em></p>
 
 ---
