@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Every day may not be good, but there's something good in every day." — Unknown
+  "The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it." — Carl Jung
 </em></p>
 
 ---
