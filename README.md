@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Goals are the fuel in the furnace of achievement." — Brian Tracy
+  "Not all those who wander are lost." — J.R.R. Tolkien
 </em></p>
 
 ---
