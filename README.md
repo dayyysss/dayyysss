@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Tomorrow is only found in the calendar of fools." — Og Mandino
+  "If no one ever broke the rules, then we'd never advance." — Simon Sinek
 </em></p>
 
 ---
