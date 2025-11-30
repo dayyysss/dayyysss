@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "New opinions are always suspected, and usually opposed, without any other reason but because they are not common." — John Locke
+  "Kind words can be short and easy to speak, but their echoes are truly endless." — Mother Teresa
 </em></p>
 
 ---
