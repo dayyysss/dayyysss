@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "A journey of a thousand miles must begin with a single step." — Lao Tzu
+  "The only man who never makes mistakes is the man who never does anything." — Theodore Roosevelt
 </em></p>
 
 ---
