@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "Success is nothing more than a few simple disciplines practiced every day." — Jim Rohn
+  "Successful people ask better questions, and as a result, they get better answers." — Tony Robbins
 </em></p>
 
 ---
