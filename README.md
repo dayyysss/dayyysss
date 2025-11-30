@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "If no one ever broke the rules, then we'd never advance." — Simon Sinek
+  "A dream you dream alone is only a dream. A dream you dream together is reality." — Yoko Ono
 </em></p>
 
 ---
