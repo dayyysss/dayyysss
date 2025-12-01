@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Ferdi 👋</h1>
 
 <p><em>
-  "The real meditation is how you live your life." — Jon Kabat-Zinn
+  "Pleasure is always derived from something outside you, whereas joy arises from within. " — Eckhart Tolle
 </em></p>
 
 ---
